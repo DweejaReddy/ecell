@@ -182,7 +182,7 @@
 
                             <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/bhavishya-jain-212051196" class="link">Bhavishya Jain <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Head Of Events and Planning</p>
-                            <p>+91 91306 12265<br>bhavishyajainmh@gmail.com</p>
+                            <p>+91 91306 12265<br>bhavishyajn7@gmail.com</p>
                         </div>
                     </div>
                     <!-- End Speaker -->

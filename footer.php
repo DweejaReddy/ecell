@@ -104,8 +104,8 @@
                             </div>
                             <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
                                 <h4 class="g-color--white-opacity">Contact Us</h4>
-                                    <p class="g-color--white-opacity-light">For Association Opportunities:<br><b>contact@ecellvnit.org<b></p>
-                                    <p class="g-color--white-opacity-light">For Sponsorship Opportunities:<br><b>corporate@ecellvnit.org</b></p>
+                                    <p class="g-color--white-opacity-light">For Queries and Details:<br><b>contact@ecellvnit.org<b></p>
+                                    <p class="g-color--white-opacity-light">For Association and Sponsorship:<br><b>associate@ecellvnit.org</b></p>
                             </div>
                             <div class="col-sm-12 col-sm-4 col-md-4 col-lg-4">
 
