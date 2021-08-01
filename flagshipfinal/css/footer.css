@@ -1,0 +1,42 @@
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.footer-text{
+	font-family: 'Segoe UI', sans-serif;
+}
+.hosting-partner-image-container{
+	text-align: left;
+	padding-left: 60px;
+}
+.footer-row{
+	display: flex;
+	flex-direction: row;
+}
+@media only screen and (max-width: 1000px){
+	.footer-row{
+		flex-direction: column;
+	}
+	#ecell_icon_bottom{
+		padding: 0px 15px !important; 
+		margin: 0px 0px 16px !important;
+	}
+	
+
+}
+@media only screen and (max-width: 600px){
+	footer{
+		text-align: center;
+	}
+	.footer-row{
+		flex-direction: column;
+	}
+	.hosting-partner-image-container{
+		text-align: center;
+		padding-left: 0px;
+	}
+	#ecell_icon_bottom{
+		padding: 0px 15px !important; 
+		margin: 0px 0px 16px !important;
+	}
+
+}

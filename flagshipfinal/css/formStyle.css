@@ -1,0 +1,112 @@
+
+/* for setting color to logo(text) */
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+.register-box{
+    background-color: #4060B5;
+    /* background-image: url('../img/background5-01.jpg');
+    background-size: cover; */
+    color: white;
+}
+.register{
+  width: 70%;
+  
+}
+.form-heading h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+input, select, textarea{
+  color: white;
+}
+.btn-style button{
+    /* background-color: #7DAFED;
+     */
+     color: white;
+      background-color: #FE6324;
+    /* width: 70px; */
+    /* box-shadow: 0px 5px 10px #00000029;
+    border: 1px solid #707070; */
+    /* border-radius: 0px; */
+    width: 8rem;
+    opacity: 1;
+}
+.btn-style button:hover{
+  color: white;
+}
+.checkbox-style input{
+  background-color: white;
+}
+.checkbox-style label{
+    color:black;
+    background-color: white;
+    border: 1px solid black;
+} 
+.checkbox-style label:hover{
+  background-color: #FE6324;
+}
+input:checked ~ label {
+  background-color: #FE6324;
+}
+.form__group {
+    position: relative;
+    padding: 10px 0 0;
+    margin-top: 10px;
+    /* width: 50%; */
+  }
+  
+  .form__field {
+    /* font-family: inherit; */
+    width: 100%;
+    border: 0;
+    border-bottom: 2px solid white;
+    opacity: 0.7;
+    outline: 0;
+    font-size: 1rem;
+    /* color: #fff; */
+    padding: 7px 0;
+    background: transparent;
+    transition: border-color 0.2s;
+  }
+  .form__field::placeholder {
+    color: transparent;
+  }
+  .form__field:placeholder-shown ~ .form__label {
+    font-size: 1rem;
+    cursor: text;
+    top: 20px;
+  }
+  
+  .form__label {
+    position: absolute;
+    top: 0;
+    display: block;
+    transition: 0.2s;
+    font-size: 1rem;
+    /* color: #9b9b9b; */
+  }
+  
+  .form__field:focus {
+    padding-bottom: 6px;
+    font-weight: 700;
+    border-width: 3px;
+    /* border-image: linear-gradient(to right, #11998e, #38ef7d); */
+    border-image-slice: 1;
+  }
+  .form__field:focus ~ .form__label {
+    position: absolute;
+    top: 0;
+    display: block;
+    transition: 0.2s;
+    font-size: 0.9rem;
+    /* color: #11998e; */
+    font-weight: 500;
+  }
+  
+  /* reset input */
+  .form__field:required, .form__field:invalid {
+    box-shadow: none;
+  }
