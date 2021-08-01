@@ -123,7 +123,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#flagship">Events</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="spons.php">Sponsors</a></li>
-				            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="https://startupconclave.ecellvnit.org">Startup Conclave</a></li>
+				            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="flagship21/index.php">Flagship</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.php">Team</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="https://blogs.ecellvnit.org">Blog</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#contact">Contact Us</a></li>
@@ -180,8 +180,8 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                 <div class="clearfix">
                                     <div class="pull-left">
                                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                                            <a href="https://consortium.ecellvnit.org/" title="Register" target="_blank">
-                                                <span class="text-uppercase g-font-size-22--xs g-color--white g-padding-x-5--xs"><b>CONSORTIUM'21</b></span>
+                                            <a href="flagship21/index.php" title="Register" target="_blank">
+                                                <span class="text-uppercase g-font-size-22--xs g-color--white g-padding-x-5--xs"><b>FLAGSHIP'21</b></span>
                                                 <i class="s-icon s-icon--sm s-icon--white-bg g-radius--circle ti-arrow-right"></i>
                                             </a>
                                             <!--<span class="s-promo-block-v3__date g-font-size-60--xs g-font-size-30--sm g-font-size-50--lg g-font-weight--600 g-color--primary">E-CELL<br><span class="g-font-size-20--xs g-font-size-30--lg">VNIT</span></span>-->
