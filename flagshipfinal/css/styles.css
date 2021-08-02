@@ -1,9 +1,29 @@
 
 
-.bg_img{
-  background: url('../img/website\ image\ flagship5.jpg') no-repeat ;
-  background-size: 1300px 650px;
+@media (max-width: 480px) {  
+  .bg_img{
+    background: url('../img/website\ image\ 3\ mobile\ view.jpg') no-repeat ;
+    background-size: 90vh;
+  /* background-size: 1300px 650px; */
   /* background-size: cover; */
+  }/*1rem = 16px*/
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+  .bg_img{
+    background: url('../img/website\ image\ 4.jpg') no-repeat ;
+    /* background-size: 1300px 650px; */
+    background-size: cover;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+  .bg_img{
+    background: url('../img/website\ image\ 4.jpg') no-repeat ;
+    /* background-size: 1300px 650px; */
+    background-size: cover;
+  } 
 }
 .head-size{
     font-weight: 800;

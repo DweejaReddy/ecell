@@ -60,7 +60,7 @@
     <div class="container">
       <div class="row align-items-center text-md-left min-vh-100">
         <div class="">
-          <h1 id="myName" style="color:white" class="my-0 head-size">FLAGSHIP'21</h1>
+          <h1 id="myName" style="color:black" class="my-0 head-size">FLAGSHIP'21</h1>
           <a class="btn btn-lg myColor text-white rounded-pill pl-5 pr-5 pt-2 pb-2" href="#register-here">Register</a> 
         </div>
       </div>
