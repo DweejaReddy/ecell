@@ -13,8 +13,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <!-- googlw fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap" rel="stylesheet">
     <!-- style -->
     <link rel="stylesheet" href="css/share.css">
     <link rel="stylesheet" href="css/formStyle.css">
@@ -213,17 +213,17 @@
                             <!-- <div class=" btn-group" role="group" aria-label="Basic checkbox toggle button group"> -->
                                 <div class="checkbox-style text-center col-md-4 mt-2 col-sm-12">
                                 <input type="checkbox" class="btn-check" id="speakers1" name="speakers[]" value="speaker1" autocomplete="off">
-                                <label class="btn btn-color" for="speakers1">Checkbox 1</label>
+                                <label class="btn btn-color" for="speakers1">Karan Shah</label>
                                 </div>
 
                                 <div class="checkbox-style text-center col-md-4 col-sm-12 mt-2 mt-sm-2">
                                 <input type="checkbox" class="btn-check" id="speakers2" name="speakers[]" value="speaker2"  autocomplete="off">
-                                <label class="btn btn-color" for="speakers2">Checkbox 2</label>
+                                <label class="btn btn-color" for="speakers2">Speaker 2</label>
                                 </div>
 
                                 <div class="checkbox-style text-center col-md-4 col-sm-12 mt-2 mt-sm-2">
                                 <input type="checkbox" class="btn-check" id="speakers3" name="speakers[]" value="speaker3" autocomplete="off">
-                                <label class="btn btn-color" for="speakers3">Checkbox 3</label>
+                                <label class="btn btn-color" for="speakers3">Speaker 3</label>
                                 </div>
                             <!-- </div> -->
                           </div>

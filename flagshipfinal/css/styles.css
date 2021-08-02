@@ -27,10 +27,10 @@
 }
 .head-size{
     font-weight: 800;
-    font-size: 2rem;
+    font-size: 2.4rem;
 }
 @media (min-width: 768px) {  
-    .head-size{font-size:2rem;} /*1rem = 16px*/
+    .head-size{font-size:2.4rem;} /*1rem = 16px*/
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -136,7 +136,7 @@ hr {
 }
 #myName{
     /* font-size:58px; */
-    font-family: 'Neuton', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .content_img{
