@@ -61,10 +61,10 @@ hr {
     background-color: #4060B5
 }
 .para-font p{
-    font-size:0.9rem;
+    font-size:1rem;
 }
 @media (min-width: 768px) {  
-    .para-font p{font-size:0.9rem;} /*1rem = 16px*/
+    .para-font p{font-size:1.1rem;} /*1rem = 16px*/
     .blog-card-container
 	  {
 		  padding: 5% 7%;
@@ -142,10 +142,17 @@ hr {
 .content_img{
   background: url('../img/website\ image\ 2.jpg') no-repeat ;
   background-size: cover;
+  height: 80vh;
   /* width: 100%;
   position: absolute;
   top: 0;
   left: 0; */
+}
+@media (min-width: 768px) {  
+  .content_img{
+    background: url('../img/website\ image\ 2.jpg') no-repeat ;
+  background-size: cover;
+  }
 }
 .para{
     font-size: 1.2em;
