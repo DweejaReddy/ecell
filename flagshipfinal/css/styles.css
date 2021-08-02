@@ -1,33 +1,39 @@
-
-
-@media (max-width: 480px) {  
-  .bg_img{
-    background: url('../img/website\ image\ 3\ mobile\ view.jpg') no-repeat ;
-    background-size: 90vh;
-  /* background-size: 1300px 650px; */
-  /* background-size: cover; */
-  }/*1rem = 16px*/
-}
-/* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) { 
-  .bg_img{
-    background: url('../img/website\ image\ 4.jpg') no-repeat ;
-    /* background-size: 1300px 650px; */
-    background-size: cover;
-  }
+.bg_img {
+  background-position: center center;
+  /* background-attachment: fixed; */
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-image: url('../img/website\ image\ 3.jpg');
 }
 
-/* Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {  
-  .bg_img{
-    background: url('../img/website\ image\ 4.jpg') no-repeat ;
-    /* background-size: 1300px 650px; */
-    background-size: cover;
-  } 
+/*--For mobile devices--*/
+@media (max-width: 480px) {
+    .bg_img {
+        background-image: url('../img/website\ image\ 3\ mobile\ view.jpg');
+         background-size: contain;
+        background-color: #4060B5 ;
+        /* height: 90vh; */
+    }
 }
+
+/*-----For tablets: ---------------*/
+@media (min-width: 481px) and (max-width: 1024px) {
+    .bg_img {
+        background-image: url('../img/website\ image\ 3\ mobile\ view.jpg');
+    }
+}
+
+/*-----For desktop devices ------*/
+@media (min-width: 1025px) {
+    .bg_img {
+        background-image: url('../img/website\ image\ 3.jpg');
+   }
+}
+
+
 .head-size{
     font-weight: 800;
-    font-size: 2.4rem;
+    font-size: 2rem;
 }
 @media (min-width: 768px) {  
     .head-size{font-size:2.4rem;} /*1rem = 16px*/

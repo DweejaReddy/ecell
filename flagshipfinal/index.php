@@ -34,8 +34,8 @@
       
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="nav navbar-nav ms-auto">
-            <li class="nav-item active">
-              <a class="nav-link active" href="https://www.ecellvnit.org/">Home</a>
+            <li class="nav-item ">
+              <a class="nav-link " href="https://www.ecellvnit.org/">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://www.ecellvnit.org/#about">About</a>
@@ -71,7 +71,7 @@
   </section> -->
   <br><br><br>
   <div class="content_img">
-  <div class="container mt-5">
+  <div class="container mt-3">
     <div class="row my-2">
       <div class="col-md-6 col-sm-12 para-font">
         <p style="" class="para  ml-0 pt-5 pb-5 mt-5">Flagship connects today's youth to intellectual and experienced speakers to
