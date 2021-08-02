@@ -2,7 +2,7 @@
 if(isset($_POST['submit_form']))
 {
  $servername = "localhost";
- $username = "ias2020";
+ $username = "flagship2021";
  $password = "ecell123"; //change it for localhost as: ecell123
  $dbname = "flagship21";
 
