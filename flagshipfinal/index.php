@@ -249,7 +249,7 @@ Basudha is a seasoned speaker and has previously addressed in IBS, Hyderabad, II
 
                                 <div class="checkbox-style text-center col-md-4 col-sm-12 mt-2 mt-sm-2">
                                 <input type="checkbox" class="btn-check" id="speakers3" name="speakers[]" value="speaker3" autocomplete="off">
-                                <label class="btn btn-color" for="speakers3">Speaker 3</label>
+                                <label class="btn btn-color" for="speakers3">Basudha Shrivastav</label>
                                 </div>
                             <!-- </div> -->
                           </div>
