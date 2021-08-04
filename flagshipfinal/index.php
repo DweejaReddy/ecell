@@ -81,7 +81,7 @@
             glory.</br> <br>
             As the first event of the year, Flagship leaves a lasting impact on the minds of the students through a
             motivating and 
-            brexciting session. They get to explore new avenues presented by the speakers and fine tune their thought
+            exciting session. They get to explore new avenues presented by the speakers and fine tune their thought
             process. It
             provides students a platform to display innovation and address issues of national and international
             importance.</p>
@@ -118,30 +118,35 @@
 
         <div class="blog-desc col-md-8 ">          
         <h2 class="speaker-font"><span style="color:#4060B5" class="">Karan Shah</span></h2>
+        <p class="blockquote-footer my-0">Founder and Director of IIDE | Renowned TedX Speaker</p>
           <p class="lead my-3 new-speaker-font text-left">He is the founder of The Indian Institute of Digital Education. The organization has impacted more than 40,000 students and large corporates online and offline. He aims to change the way education is delivered in the country by making it more fun, practical and experience-based.
             He was a student at NMIMS College & also studied Private Equity & E-Commerce Strategies at Harvard University.
             Karan is also a Tedx speaker and a frequent speaker at the IIMs in India. 
           </p>
-          <a style="font-size:12px" class="btn align-items-center btn-lg myColor text-white rounded-pill pl-5 pr-5 pt-2 pb-2" href="#register-here">Free Registration</a>
+          <a style="font-size:12px" class="btn align-items-center btn-lg myColor text-white rounded-pill pl-5 pr-5 pt-2 pb-2" href="#register-here">Register for Free</a>
         </div>
       </div>
     </div>
-  <!-- Speaker 2 -->
-    <!-- <div class="blog-card jumbotron p-4 p-md-5 text-black rounded bg-light">
-      <div class="row">
-        <div class="col-md-4">
-          <img class="blog-image" alt="speaker-1" src="img/harsh-goela.png">
+    <!-- Speaker 2 -->
+    <div class="blog-card jumbotron p-4 p-md-5 text-black rounded bg-light shadow">
+      <div class="row pb-2">
+        <div class="col-md-4 m-auto text-center">
+          <!-- <img class="blog-image" alt="cat and dog" src="https://cdn.pixabay.com/photo/2016/01/19/17/41/friends-1149841_960_720.jpg"> -->
+          <img class="blog-image " style="border-radius:50%" alt="speaker-1" src="img/shraddha shashidhar.png">
         </div>
-        <div class="blog-desc col-md-8 ml-auto my-auto pt-lg-0 pt-3">          
-        <h2 class="speaker-font"><span style="color:#4060B5" class="">Karan Shah</span></h2>
-          <p class="lead my-3 new-speaker-font">He is the founder of The Indian Institute of Digital Education. The organization has impacted more than 40,000 students and large corporates online and offline. He aims to change the way education is delivered in the country by making it more fun, practical and experience-based.
-            He was a student at NMIMS College & also studied Private Equity & E-Commerce Strategies at Harvard University.
-            Karan is also a Tedx speaker and a frequent speaker at the IIMs in India. 
+
+        <div class="blog-desc col-md-8 ">          
+        <h2 class="speaker-font"><span style="color:#4060B5" class="">Shraddha Shashidhar</span></h2>
+        <p class="blockquote-footer my-0">Miss Universe India 2017 | Renowned TedX Speaker</p>
+          <p class="lead my-3 new-speaker-font text-left">She is an Indian National beauty pageant winner who was crowned Miss Diva Universe 2017 and represented India at Miss Universe 2017.
+She has modelled for brands like Nike, Yamaha Fascino etc. During her time as Miss Universe India 2017- she has travelled internationally as an Indian representative for promoting events in textile, tourism and real estate in countries like Ghana, Thailand, Philippines etc.
+She is also an instagram influencer and a fitness enthusiast. Shraddha has been a part of several talk shows and her positivity never fails to inspire and impact people!
+
           </p>
+          <a style="font-size:12px" class="btn align-items-center btn-lg myColor text-white rounded-pill pl-5 pr-5 pt-2 pb-2" href="#register-here">Register for Free</a>
         </div>
       </div>
-    </div> -->
-  
+    </div>
   </div>
 
 
@@ -218,7 +223,7 @@
 
                                 <div class="checkbox-style text-center col-md-4 col-sm-12 mt-2 mt-sm-2">
                                 <input type="checkbox" class="btn-check" id="speakers2" name="speakers[]" value="speaker2"  autocomplete="off">
-                                <label class="btn btn-color" for="speakers2">Speaker 2</label>
+                                <label class="btn btn-color" for="speakers2">Shraddha Shashidhar</label>
                                 </div>
 
                                 <div class="checkbox-style text-center col-md-4 col-sm-12 mt-2 mt-sm-2">
@@ -295,8 +300,8 @@
 
     <div class="col-md-3">
       <h4 class="g-color--white-opacity">Contact Us</h4>
-      <p class="g-color--white-opacity-light">For Association Opportunities:<br><strong>contact@ecellvnit.org</strong></p>
-      <p class="g-color--white-opacity-light">For Sponsorship Opportunities:<br><strong>corporate@ecellvnit.org</strong></p>
+      <p class="g-color--white-opacity-light">For Queries and Details:<br><strong>contact@ecellvnit.org</strong></p>
+      <p class="g-color--white-opacity-light">For Association and Sponsorship:<br><strong>associate@ecellvnit.org</strong></p>
     </div>
 
     <div class="col-md-3">
