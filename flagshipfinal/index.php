@@ -136,12 +136,33 @@
         </div>
 
         <div class="blog-desc col-md-8 ">          
-        <h2 class="speaker-font"><span style="color:#4060B5" class="">Shraddha Shashidhar</span></h2>
-        <p class="blockquote-footer my-0">Miss Universe India 2017 | Renowned TedX Speaker</p>
+          <h2 class="speaker-font"><span style="color:#4060B5" class="">Shraddha Shashidhar</span></h2>
+          <p class="blockquote-footer my-0">Miss Universe India 2017 | Renowned TedX Speaker</p>
           <p class="lead my-3 new-speaker-font text-left">She is an Indian National beauty pageant winner who was crowned Miss Diva Universe 2017 and represented India at Miss Universe 2017.
-She has modelled for brands like Nike, Yamaha Fascino etc. During her time as Miss Universe India 2017- she has travelled internationally as an Indian representative for promoting events in textile, tourism and real estate in countries like Ghana, Thailand, Philippines etc.
-She is also an instagram influencer and a fitness enthusiast. Shraddha has been a part of several talk shows and her positivity never fails to inspire and impact people!
+              She has modelled for brands like Nike, Yamaha Fascino etc. During her time as Miss Universe India 2017- she has travelled internationally as an Indian representative for promoting events in textile, tourism and real estate in countries like Ghana, Thailand, Philippines etc.
+              She is also an instagram influencer and a fitness enthusiast. Shraddha has been a part of several talk shows and her positivity never fails to inspire and impact people!
 
+          </p>
+          <a style="font-size:12px" class="btn align-items-center btn-lg myColor text-white rounded-pill pl-5 pr-5 pt-2 pb-2" href="#register-here">Register for Free</a>
+        </div>
+      </div>
+    </div>
+    <!-- Speaker 3 -->
+    <div class="blog-card jumbotron p-4 p-md-5 text-black rounded bg-light shadow">
+      <div class="row pb-2">
+        <div class="col-md-4 m-auto text-center">
+          <!-- <img class="blog-image" alt="cat and dog" src="https://cdn.pixabay.com/photo/2016/01/19/17/41/friends-1149841_960_720.jpg"> -->
+          <img class="blog-image " style="border-radius:50%" alt="speaker-1" src="img/basudha.png">
+        </div>
+
+        <div class="blog-desc col-md-8 ">          
+        <h2 class="speaker-font"><span style="color:#4060B5" class="">Basudha Shrivastav</span></h2>
+        <p class="blockquote-footer my-0">Founder of EmpFly Services and ExpressEarth Digital Services</p>
+          <p class="lead my-3 new-speaker-font text-left">She is the founder and managing director of EmpFly Services Pvt. Ltd. and ExpressEarth Digital Services with over 11 years of versatile experience in the IT and telecommunication industry. A dynamic personality, Basudha is a pass out from IIM Bangalore and has shared a very close relationship with entrepreneurship. She is an extensive problem solver and a born leader which showed when she helped companies like Ericsson and Serco achieve untamed goals. 
+
+She has been awarded by Facebook's SheLeads Tech program. Basudha was also the finalist in Times' SheUnltd 2020 entrepreneur awards in travel and experience category.
+
+Basudha is a seasoned speaker and has previously addressed in IBS, Hyderabad, IIM, Bangalore and many other major institutes.
           </p>
           <a style="font-size:12px" class="btn align-items-center btn-lg myColor text-white rounded-pill pl-5 pr-5 pt-2 pb-2" href="#register-here">Register for Free</a>
         </div>
