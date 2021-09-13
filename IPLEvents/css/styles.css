@@ -1,6 +1,6 @@
 .bg_img {
-   /* margin: 0;
-   padding: 0; */
+    margin: 0;
+   
     background-image: url('../images/event\ laptop\ view.jpg');
     background-size: cover;
     background-position: center center; 
@@ -9,6 +9,7 @@
     -webkit-background-size: cover;
     height: 100vh;
     width: 100%;
+    padding-right: 0vh;
     
   }
   .heading{
@@ -35,14 +36,16 @@
         background-repeat: no-repeat;
         background-attachment: fixed;
         -webkit-background-size: cover; */
-        /* height: 100vh;
-        width: 100%; */
+        /* height: 100vh;*/
+        width: 100%;
           
       }
       .heading{
         margin-top: 120px;
         font-weight: 700;
         font-size: 3.2rem;
+        padding-left: 1vh;
+        
 
      }
       .iplPara{
@@ -88,15 +91,15 @@
 .arrow {
     position: relative;
     bottom: 0vw;
-    left: 45vw;
+    left: 100vw;
     transform: translate(-50%, -50%);
   }
   .arrow span {
     display: block;
     width: 2vw;
     height: 2vw;
-    border-bottom: 5px solid #06a8ff;
-    border-right: 5px solid #06a8ff;
+    border-bottom: 5px solid #008dff;
+    border-right: 5px solid #008dff;
     transform: rotate(45deg);
     margin: -0.4vw;
     animation: animate 2s infinite;
@@ -168,16 +171,16 @@
     
     .arrow {
       position: relative;
-      top: 20vw;
-      left: 45vw;
+      top: 8vw;
+      left: 95vw;
       transform: translate(-50%, -50%);
     }
     .arrow span {
       display: block;
-      width: 3vw;
-      height: 3vw;
-      border-bottom: 5px solid #06a8ff;
-      border-right: 5px solid #06a8ff;
+      width: 5vw;
+      height: 5vw;
+      border-bottom: 5px solid #008dff;
+      border-right: 5px solid #008dff;
       transform: rotate(45deg);
       margin: -0.4vw;
       animation: animate 2s infinite;

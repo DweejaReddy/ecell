@@ -14,8 +14,7 @@
   <!-- fontAwesome -->
   <script src="https://kit.fontawesome.com/f237bf30a2.js" crossorigin="anonymous"></script>
   <!-- Bootstrap CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <!-- googlw fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -24,8 +23,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
   <!-- style -->
-  <link rel="stylesheet" href="css/share.css">
-  <link rel="stylesheet" href="css/formStyle.css">
+  <!-- <link rel="stylesheet" href="css/share.css">
+  <link rel="stylesheet" href="css/formStyle.css"> -->
   <link rel="stylesheet" href="css/styles.css">
   <link rel="stylesheet" href="css/footer.css">
   <!-- favicon  -->
@@ -35,43 +34,43 @@
 <body>
   <!-- nav section start -->
   <nav id="mainNavbar" class="navbar navbar-expand-lg navbar-light bg-white shadow sticky-top">
-    <div class="container">
+      <div class="container">
       <a class="navbar-brand ml-0" href="index.php"><img src="images/logo-ecell-sm.png" alt="Ecell Logo"></a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="nav navbar-nav ms-auto">
-          <li class="nav-item ">
-            <a class="nav-link " href="https://www.ecellvnit.org/">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://www.ecellvnit.org/#about">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://www.ecellvnit.org/team.php">Team</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link " href="https://www.ecellvnit.org/spons.php">Sponsors</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#myBlog">Blog</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://www.ecellvnit.org/#contact">Contact Us</a>
-          </li>
-        </ul>
-      </div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="nav navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link " href="https://www.ecellvnit.org/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.ecellvnit.org/#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.ecellvnit.org/team.php">Team</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="https://www.ecellvnit.org/spons.php">Sponsors</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#myBlog">Blog</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.ecellvnit.org/#contact">Contact Us</a>
+            </li>
+          </ul>
+        </div>
   </nav>
+
   <!-- nav section end -->
   <div class="row bg_img">
     <div class="container d-flex justify-content-center align-items-center">
       <h1 style="color: #008dff;" class="heading">OUR EVENTS & PROJECTS</h1>
     </div>
     <div class="wrap">
-      <div class="text animated pulse">
+      <div class="text animated pulse g-letter-spacing--2">
         <h3 style="color: white;">SCROLL FOR MORE</h3>
       </div>
     </div>
@@ -119,7 +118,7 @@
   <section id="ipl">
     <div class="row">
       <img src="images/ipl laptop view.jpg" class="img-fluid d-none d-md-block" style="height: 100vh; width: 100%;">
-      <img src="images/ipl mobile view.jpg" class="img-fluid d-xs-block d-sm-block d-md-none" style="height: 100vh; width: 100%;">
+      <img src="images/ipl mobile viewcroppedcrop.jpg" class="img-fluid d-xs-block d-sm-block d-md-none" style="height: 100vh; width: 100%;">
       <div class="col-md-5 col-sm-12 col-xs-12">
         <p class="iplPara pl-2 text-left">
           Ever wondered how it feels like to be a part of an auction? Especially of our favourite event of the year,
