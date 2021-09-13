@@ -1,0 +1,215 @@
+.bg_img {
+   /* margin: 0;
+   padding: 0; */
+    background-image: url('../images/event\ laptop\ view.jpg');
+    background-size: cover;
+    background-position: center center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    height: 100vh;
+    width: 100%;
+    
+  }
+  .heading{
+      font-size: 5rem;
+      font-family: 'Lato', sans-serif;
+      font-weight: 600;
+  }
+  .iplPara{
+    margin-top: -50vh;
+    color: white;
+    padding-left: 10vh;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+    
+  }
+  
+    /*--For mobile devices--*/
+  @media (max-width: 480px) {
+      .bg_img {
+        background-image: url('../images/event\ mobile\ view.jpg');
+        background-size: cover;
+        /* background-position: center center; 
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        -webkit-background-size: cover; */
+        /* height: 100vh;
+        width: 100%; */
+          
+      }
+      .heading{
+        margin-top: 120px;
+        font-weight: 700;
+        font-size: 3.2rem;
+
+     }
+      .iplPara{
+        padding-left: 1vh;
+        padding-right: 1vh;
+        color: white;
+        margin-top: -60vh;
+        font-family: 'Lato', sans-serif;
+        font-weight: 400;
+        font-size: 1.1rem;
+        line-height: 1.5rem;
+      }
+      
+  }
+  
+  /*-----For tablets: ---------------
+  @media (min-width: 481px) and (max-width: 1024px) {
+      .bg_img {
+          background-image: url('../img/website\ image\ 3\ mobile\ view.jpg');
+      }
+  }*/
+  
+  /*-----For desktop devices ------*/
+  @media (min-width: 1025px) {
+    .bg_img {
+        background: url('../images/conso.jpg')no-repeat center center fixed;
+        background-size: cover;
+    }
+    .heading{
+        margin-top: 150px;
+    }
+    /* .ipl_img{
+        background: url('../images/ipl.jpg')no-repeat center center fixed;
+        background-size: cover;
+    } */
+  }
+.para{
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+}
+.arrow {
+    position: relative;
+    bottom: 0vw;
+    left: 45vw;
+    transform: translate(-50%, -50%);
+  }
+  .arrow span {
+    display: block;
+    width: 2vw;
+    height: 2vw;
+    border-bottom: 5px solid #06a8ff;
+    border-right: 5px solid #06a8ff;
+    transform: rotate(45deg);
+    margin: -0.4vw;
+    animation: animate 2s infinite;
+  }
+  .arrow span:nth-child(2) {
+    animation-delay: -0.2s;
+  }
+  .arrow span:nth-child(3) {
+    animation-delay: -0.4s;
+  }
+  @keyframes animate {
+    0% {
+      opacity: 0;
+      transform: rotate(45deg) translate(-20px, -20px);
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+      transform: rotate(45deg) translate(20px, 20px);
+    }
+  }
+  body {
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes fadeInAnimation {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  .text {
+    text-align: center;
+    color: white;
+    font-size: 1.8vw;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+  
+  .animated {
+    animation-duration: 2.5s;
+    animation-fill-mode: both;
+    animation-iteration-count: infinite;
+  }
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  .pulse {
+    animation-name: pulse;
+    animation-duration: 1s;
+  }
+  
+  @media (max-width: 500px) {
+    
+    .arrow {
+      position: relative;
+      top: 20vw;
+      left: 45vw;
+      transform: translate(-50%, -50%);
+    }
+    .arrow span {
+      display: block;
+      width: 3vw;
+      height: 3vw;
+      border-bottom: 5px solid #06a8ff;
+      border-right: 5px solid #06a8ff;
+      transform: rotate(45deg);
+      margin: -0.4vw;
+      animation: animate 2s infinite;
+    }
+}
+/* footer css */
+.follow-ecell
+{
+	font-size: 1.5rem;
+	font-weight: 500;
+  color: white;
+	color: rgba(255, 255, 255, 0.8);
+}
+.share-row
+{
+	margin-top: 1rem;
+}
+.share-row a
+{ 
+	color: rgba(255, 255, 255, 0.8);
+}
+.hosting-partner-image-container
+{
+	text-align: center;
+}
+.hosting-partner-image-container img
+{
+	width: 100px;
+}
+.h3-responsive > a{
+	color: #fff;
+}
+a:link{
+  text-decoration: none;
+}
