@@ -35,7 +35,7 @@
   <!-- nav section start -->
   <nav id="mainNavbar" class="navbar navbar-expand-lg navbar-light bg-white shadow sticky-top">
       <div class="container">
-      <a class="navbar-brand ml-0" href="index.php"><img src="images/logo-ecell-sm.png" alt="Ecell Logo"></a>
+      <a class="navbar-brand ml-0" href="../index.php"><img src="images/logo-ecell-sm.png" alt="Ecell Logo"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
