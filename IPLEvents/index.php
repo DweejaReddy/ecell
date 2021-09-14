@@ -126,7 +126,7 @@
           and decide your tactics and defeat your opponents. For the love, passion and excitement for the game of Cricket,
           Join us where we welcome to you to build your 'dream team' for this year's IPL!<br><br>
           <a class="btn btn-lg btn-light rounded-pill" href="paymentPortalipl/index.php">Register</a>
-          <a class="btn btn-lg btn-light rounded-pill pl-2  pt-2 pb-2" href="#register-here" style="margin-left: 2vh;">Download Brochure</a>
+          <a class="btn btn-lg btn-light rounded-pill pl-2  pt-2 pb-2" href="IPL Auction Brochure.pdf" style="margin-left: 2vh;">Download Brochure</a>
         </p>
       </div>
     </div>

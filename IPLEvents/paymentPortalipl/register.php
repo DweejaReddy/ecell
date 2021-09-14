@@ -70,7 +70,7 @@ else{
                     <label for="job[]" class="col-md-4 col-form-label">Leader Email</label>
                     <div class="col-md-8">
                         <input type="email" class="form-control rounded-pill" name="job[]" placeholder="Leader Email" required>
-                        <small class="form-text">Please note down this email for payment purupose!</small>
+                        <small class="form-text">Please note down this email for payment purpose!</small>
                     </div>
                 </div>
                 <div class="form-group row">
