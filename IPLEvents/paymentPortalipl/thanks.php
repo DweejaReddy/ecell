@@ -40,7 +40,7 @@ $to_email = $_SESSION['leader_email'];
                 <div class="">
                   <?php echo "<h4>We will contact you soon. <br>Welcome to the community,<b style=color:red> $name!</b></h4>";?><br>
                   <h4><a href="rules.php"> <b style=color:red> Click Here</b></a> to proceed for payment!</h4> <br>
-                <button class="btn btn-danger rounded-pill justify-content-center "><a class="badge badge-danger rounded-pill" href="index.php">Return to Home</a></button>
+                <button class="btn btn-danger rounded-pill justify-content-center "><a class="badge badge-danger rounded-pill" href="../index.php">Return to Home</a></button>
                 </div>
             </div>
             <!-- <br> -->

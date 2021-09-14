@@ -97,7 +97,7 @@
 
         </div>
         <div class="col-md-3 mt-3 d-none d-lg-block d-md-block">
-          <img src="https://startupconclave.ecellvnit.org/static/img/E-Cell%20typo%20-%20original%20copy.png"
+          <img class="inline-photo show-on-scroll" src="https://startupconclave.ecellvnit.org/static/img/E-Cell%20typo%20-%20original%20copy.png"
             alt="E-cell VNIT" class="img-fluid" style="height: 15vh;">
         </div>
         <div class="col-md-6 col-sm-12 col-xs-12">
@@ -126,7 +126,7 @@
           and decide your tactics and defeat your opponents. For the love, passion and excitement for the game of Cricket,
           Join us where we welcome to you to build your 'dream team' for this year's IPL!<br><br>
           <a class="btn btn-lg btn-light rounded-pill" href="paymentPortalipl/index.php">Register</a>
-          <a class="btn btn-lg btn-light rounded-pill pl-2  pt-2 pb-2" href="#register-here" style="margin-left: 2vh;">Download Brouchre</a>
+          <a class="btn btn-lg btn-light rounded-pill pl-2  pt-2 pb-2" href="#register-here" style="margin-left: 2vh;">Download Brochure</a>
         </p>
       </div>
     </div>
@@ -261,7 +261,7 @@
   </footer>
 
   <!----------------------------------- footer ends ----------------------------------------------->
-
+  <script src="js/show-on-scroll.js"></script>
 </body>
 
 </html>

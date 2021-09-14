@@ -58,7 +58,7 @@ $to_email = $_SESSION['leader_email'];
               </div>
               <!-- <?php echo $_SESSION['leader_email'] ?> -->
               <div class="form-group">
-                <label style="color:white;" for="CUSTOMER_PAYMENT">To proceed further kindly pay Rs.100 </label>
+                <label style="color:white;" for="CUSTOMER_PAYMENT">To proceed further kindly pay Rs.149 </label>
               </div>
               <div class="form-group">
                 <button type="submit" name="submit" class="btn btn-danger btn-block rounded-pill"> Pay Now </button>

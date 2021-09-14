@@ -30,8 +30,8 @@
                         <select name="SIZE" style="width:70%;" class="form-control ml-md-5" id="exampleFormControlSelect1">
                             <option>1</option>
                             <option>2</option>
-                            <option>3</option>
-                            <option>4</option>
+                            <!-- <option>3</option> -->
+                            <!-- <option>4</option> -->
                             <!-- <option>5</option> -->
                         </select>
                     </div>
