@@ -97,7 +97,7 @@
 
         </div>
         <div class="col-md-3 mt-3 d-none d-lg-block d-md-block">
-          <img class="inline-photo show-on-scroll" src="https://startupconclave.ecellvnit.org/static/img/E-Cell%20typo%20-%20original%20copy.png"
+          <img class="" src="https://startupconclave.ecellvnit.org/static/img/E-Cell%20typo%20-%20original%20copy.png"
             alt="E-cell VNIT" class="img-fluid" style="height: 15vh;">
         </div>
         <div class="col-md-6 col-sm-12 col-xs-12">
