@@ -98,9 +98,9 @@
         </div>
         <div class="col-md-3 mt-3 d-none d-lg-block d-md-block">
           <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s"
-                    style="padding: 20px 20px 20px 50px">
+                    style="padding: 20px 20px 50px 50px">
                     <img class="img-responsive g-padding-x-0--xs" src="https://startupconclave.ecellvnit.org/static/img/E-Cell%20typo%20-%20original%20copy.png"
-            alt="E-cell VNIT" style="height: 15vh;">
+            alt="E-cell VNIT" style="height: 13vh; padding-right: 150px;">
           </div>
           <!-- <img class="" src="https://startupconclave.ecellvnit.org/static/img/E-Cell%20typo%20-%20original%20copy.png"
             alt="E-cell VNIT" class="img-fluid" style="height: 15vh;"> -->
