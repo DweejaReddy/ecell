@@ -42,9 +42,10 @@
     
   }
   .heading{
+      text-align: center;
       font-size: 5rem;
       font-family: 'Lato', sans-serif;
-      font-weight: 600;
+      font-weight: 700;
   }
   .iplPara{
     margin-top: -50vh;
@@ -120,7 +121,7 @@
 .arrow {
     position: relative;
     bottom: 0vw;
-    left: 100vw;
+    left: 98vw;
     transform: translate(-50%, -50%);
   }
   .arrow span {
@@ -169,7 +170,7 @@
   .text {
     text-align: center;
     color: white;
-    font-size: 1.8vw;
+    font-size: 2vw;
     font-family: 'Lato', sans-serif;
     font-weight: 500;
     text-transform: uppercase;

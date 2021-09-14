@@ -97,8 +97,13 @@
 
         </div>
         <div class="col-md-3 mt-3 d-none d-lg-block d-md-block">
-          <img class="" src="https://startupconclave.ecellvnit.org/static/img/E-Cell%20typo%20-%20original%20copy.png"
-            alt="E-cell VNIT" class="img-fluid" style="height: 15vh;">
+          <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s"
+                    style="padding: 20px 20px 20px 50px">
+                    <img class="img-responsive g-padding-x-0--xs" src="https://startupconclave.ecellvnit.org/static/img/E-Cell%20typo%20-%20original%20copy.png"
+            alt="E-cell VNIT" style="height: 15vh;">
+          </div>
+          <!-- <img class="" src="https://startupconclave.ecellvnit.org/static/img/E-Cell%20typo%20-%20original%20copy.png"
+            alt="E-cell VNIT" class="img-fluid" style="height: 15vh;"> -->
         </div>
         <div class="col-md-6 col-sm-12 col-xs-12">
           <p class="para">
@@ -262,6 +267,6 @@
 
   <!----------------------------------- footer ends ----------------------------------------------->
   <script src="js/show-on-scroll.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
-
 </html>
