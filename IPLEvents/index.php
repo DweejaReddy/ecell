@@ -33,6 +33,7 @@
 
 <body>
   <!-- nav section start -->
+  <div class="navBar">
   <nav id="mainNavbar" class="navbar navbar-expand-lg navbar-light bg-white shadow sticky-top">
       <div class="container">
       <a class="navbar-brand ml-0" href="../index.php"><img src="images/logo-ecell-sm.png" alt="Ecell Logo"></a>
@@ -63,6 +64,7 @@
           </ul>
         </div>
   </nav>
+</div>
 
   <!-- nav section end -->
   <div class="row bg_img">
