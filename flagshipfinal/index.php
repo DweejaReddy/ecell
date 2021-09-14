@@ -41,6 +41,9 @@
               <a class="nav-link" href="https://www.ecellvnit.org/#about">About</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link" href="https://www.ecellvnit.org/IPLEvents/index.php">Events</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="https://www.ecellvnit.org/team.php">Team</a>
             </li>
             <li class="nav-item">
