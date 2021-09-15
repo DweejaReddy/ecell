@@ -65,7 +65,7 @@ if (isset($_POST['loginButton'])) {
 
 </head>
     <body style="background-image: url('images/signup.jpg');">
-        <h4 style="color:white;" class="text-center pt-4">Enter your registered Leader email.</h4>
+        <h4 style="color:white;" class="text-center pt-4">Enter your registered Leader email for Payment.</h4>
         
       
 
