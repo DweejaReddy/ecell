@@ -127,13 +127,14 @@
       <img src="images/ipl laptop view.jpg" class="img-fluid d-none d-md-block" style="height: 100vh; width: 100%;">
       <img src="images/ipl mobile viewcroppedcrop.jpg" class="img-fluid d-xs-block d-sm-block d-md-none" style="height: 100vh; width: 100%;">
       <div class="col-md-5 col-sm-12 col-xs-12">
-        <p class="iplPara pl-2 text-left">
+        <p class="iplPara pl-2 text-left mb-2">
           Ever wondered how it feels like to be a part of an auction? Especially of our favourite event of the year,
           IPL? Well, here's your chance to experience it. With the help of your cricketing mind, manage your budget
           and decide your tactics and defeat your opponents. For the love, passion and excitement for the game of Cricket,
-          Join us where we welcome to you to build your 'dream team' for this year's IPL!<br><br>
-          <a class="btn btn-lg btn-light rounded-pill" href="paymentPortalipl/index.php">Register</a>
-          <a class="btn btn-lg btn-light rounded-pill pl-2  pt-2 pb-2" href="IPL Auction Brochure.pdf" style="margin-left: 2vh;">Download Brochure</a>
+          Join us where we welcome to you to build your 'dream team' for this year's IPL!<br>
+          <a class="btn btn-light rounded-pill" href="paymentPortalipl/index.php">Register <img style="height:20px;" src="https://img.icons8.com/windows/32/000000/enter-2.png"/></a>
+          <a class="btn btn-light rounded-pill " href="IPL Auction Brochure.pdf" style="margin-left: 2vh;">Download Brochure <img style="height:20px;" src="https://img.icons8.com/material-outlined/24/000000/download--v2.png"/></a>
+          <br><br><small class="mt-5">Already Registered? <a class="" href="paymentPortalipl/checkemail.php"><a style="height:40px; font-size:15px;" class="btn btn-light rounded-pill" href="paymentPortalipl/index.php">Proceed to Payment <img style="height:16px;" src="https://img.icons8.com/windows/32/000000/enter-2.png"/></a></a></small>
         </p>
       </div>
     </div>
