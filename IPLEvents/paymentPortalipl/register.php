@@ -86,6 +86,13 @@ else{
                         <!-- <small class="form-text">College name</small> -->
                     </div>
                 </div>
+                <div class="form-group row">
+                    <label for="referral[]" class="col-md-4 col-form-label">Referred By</label>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control rounded-pill" name="referral[]" placeholder="Reffered By" required>
+                        
+                    </div>
+                </div>
                 <?php
                     for($i=2; $i<=$mem; $i++):
                 ?>
