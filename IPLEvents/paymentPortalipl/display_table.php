@@ -29,7 +29,7 @@
             die("Connection failed: " . mysqli_connect_error());
         }
 
-        $sql = "SELECT id, name, age, job, startdesc, payment_status, order_id, razor_payment_id FROM employee_table";
+        $sql = "SELECT id, name, age, job, startdesc, referral, payment_status, order_id, razor_payment_id FROM employee_table";
         $result = mysqli_query($conn, $sql);
         
     ?>
@@ -42,6 +42,7 @@
                 <th scope="col">Contact Details</th>
                 <th scope="col">Email</th>
                 <th scope="col">College</th>
+                <th scope="col">Referral</th>
                 <th scope="col">Payment status</th>
                 <th scope="col">Order ID</th>
                 <th scope="col">Razorpay payment ID</th>
@@ -57,6 +58,7 @@
                 <td><?php echo $row["age"]; ?></td>
                 <td><?php echo $row["job"]; ?></td>
                 <td><?php echo $row["startdesc"]; ?></td>
+                <td><?php echo $row["referral"]; ?></td>
                 <td><?php echo $row["payment_status"]; ?></td>
                 <td><?php echo $row["order_id"]; ?></td>
                 <td><?php echo $row["razor_payment_id"]; ?></td>
