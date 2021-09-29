@@ -61,35 +61,35 @@ else{
                     </div>
                 </div> -->
                 <div class="form-group row">
-                    <label for="name[]" class="col-md-4 col-form-label">Leader Name</label>
+                    <label for="name[]" class="col-md-4 col-form-label">Leader Name *</label>
                     <div class="col-md-8">
                         <input type="text" class="form-control rounded-pill" name="name[]" placeholder="Leader Name" required>
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="job[]" class="col-md-4 col-form-label">Leader Email</label>
+                    <label for="job[]" class="col-md-4 col-form-label">Leader Email *</label>
                     <div class="col-md-8">
                         <input type="email" class="form-control rounded-pill" name="job[]" placeholder="Leader Email" required>
                         <small class="form-text">Please note down this email for payment purpose!</small>
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="age[]" class="col-md-4 col-form-label">Leader Phone Number</label>
+                    <label for="age[]" class="col-md-4 col-form-label">Leader Phone Number *</label>
                     <div class="col-md-8">
                         <input type="number" class="form-control rounded-pill" name="age[]" placeholder="Leader Phone Number" required>
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="startdesc" class="col-md-4 col-form-label">College Name</label>
+                    <label for="startdesc" class="col-md-4 col-form-label">College Name *</label>
                     <div class="col-md-8">
                         <input type="text" class="form-control rounded-pill" name="startdesc" placeholder="College Name" required>
                         <!-- <small class="form-text">College name</small> -->
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="referral[]" class="col-md-4 col-form-label">Referred By</label>
+                    <label for="referral" class="col-md-4 col-form-label">Referred By <small class="form-text">(If applicable)</small></label>
                     <div class="col-md-8">
-                        <input type="text" class="form-control rounded-pill" name="referral[]" placeholder="Reffered By" required>
+                        <input type="text" class="form-control rounded-pill" name="referral" placeholder="Name" >
                         
                     </div>
                 </div>

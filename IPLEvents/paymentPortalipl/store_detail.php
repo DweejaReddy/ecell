@@ -17,6 +17,7 @@ $name=$_POST['name'];
 $age=$_POST['age'];
 $job=$_POST['job'];
 $startdesc = $_POST['startdesc'];
+$referral = $_POST['referral'];
 //  $checkBox=$_POST['name'];
 
 $_SESSION['leader_name'] = $name[0];
@@ -28,14 +29,14 @@ $_SESSION['leader_email'] = $job[0];
  if(sizeof($name)==1){
     $name1= $name[0];
     $email1=$job[0];
-  $sql = "INSERT INTO employee_table (name, age, job,startdesc) VALUES ('$name1', '$age[0]', '$email1','$startdesc' )";
+  $sql = "INSERT INTO employee_table (name, age, job,startdesc, referral) VALUES ('$name1', '$age[0]', '$email1','$startdesc', '$referral' )";
  }
  elseif(sizeof($name)==2){
     $name1= $name[0];
     $m2name= $name[1];
     $email1=$job[0];
     $m2email=$job[1];
-  $sql = "INSERT INTO employee_table (name, age, job, startdesc, m2name, m2email) VALUES ('$name1', '$age[0]', '$email1','$startdesc','$m2name', '$m2email' )";
+  $sql = "INSERT INTO employee_table (name, age, job, startdesc, referral, m2name, m2email) VALUES ('$name1', '$age[0]', '$email1','$startdesc', '$referral', '$m2name', '$m2email' )";
  }
  elseif(sizeof($name)==3){
     $name1= $name[0];
@@ -44,7 +45,7 @@ $_SESSION['leader_email'] = $job[0];
     $email1=$job[0];
     $m2email=$job[1];
     $m3email = $job[2];
-  $sql = "INSERT INTO employee_table (name, age, job, startdesc, m2name, m2email, m3name, m3email) VALUES ('$name1', '$age[0]', '$email1','$startdesc','$m2name', '$m2email', '$m3name' ,'$m3email' )";
+  $sql = "INSERT INTO employee_table (name, age, job, startdesc, referral, m2name, m2email, m3name, m3email) VALUES ('$name1', '$age[0]', '$email1','$startdesc','$referral','$m2name', '$m2email', '$m3name' ,'$m3email' )";
  }
  else{
     $name1= $name[0];
@@ -55,7 +56,7 @@ $_SESSION['leader_email'] = $job[0];
     $m2email=$job[1];
     $m3email = $job[2];
     $m4email = $job[3];
-  $sql = "INSERT INTO employee_table (name, age, job, startdesc, m2name, m2email, m3name, m3email, m4name, m4email) VALUES ('$name1', '$age[0]', '$email1','$startdesc','$m2name', '$m2email', '$m3name' ,'$m3email' ,'$m4name' ,'$m4email')";
+  $sql = "INSERT INTO employee_table (name, age, job, startdesc, referral, m2name, m2email, m3name, m3email, m4name, m4email) VALUES ('$name1', '$age[0]', '$email1','$startdesc','$referral','$m2name', '$m2email', '$m3name' ,'$m3email' ,'$m4name' ,'$m4email')";
  }
  
     
