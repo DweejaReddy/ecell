@@ -132,7 +132,7 @@
           IPL? Well, here's your chance to experience it. With the help of your cricketing mind, manage your budget
           and decide your tactics and defeat your opponents. For the love, passion and excitement for the game of Cricket,
           Join us where we welcome to you to build your 'dream team' for this year's IPL!<br>
-          <a class="btn btn-light rounded-pill" href="closed.html">Register <img style="height:20px;" src="https://img.icons8.com/windows/32/000000/enter-2.png"/></a>
+          <a class="btn btn-light rounded-pill" href="registerSW/register.php">Register <img style="height:20px;" src="https://img.icons8.com/windows/32/000000/enter-2.png"/></a>
           <a class="btn btn-light rounded-pill " href="IPL Auction Brochure.pdf" style="margin-left: 2vh;">Download Brochure <img style="height:20px;" src="https://img.icons8.com/material-outlined/24/000000/download--v2.png"/></a>
           <br><br><small class="mt-5">Already Registered? <a style="height:40px; font-size:15px;" class="btn btn-light rounded-pill" href="https://pmny.in/wIsLpSBch7kO">Proceed to Payment <img style="height:16px;" src="https://img.icons8.com/windows/32/000000/enter-2.png"/></a></small>
         </p>
