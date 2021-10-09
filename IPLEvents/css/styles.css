@@ -69,9 +69,18 @@ html {
       font-weight: 700;
   }
   .iplPara{
-    margin-top: -50vh;
+    margin-top: -55vh;
     color: white;
-    padding-left: 10vh;
+    padding-left: 12vh;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+    
+  }
+  .swPara{
+    margin-top: -60vh;
+    color: white;
+    padding-left: 120vh;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 1.1rem;
@@ -111,6 +120,16 @@ body {
         padding-right: 1vh;
         color: white;
         margin-top: -60vh;
+        font-family: 'Lato', sans-serif;
+        font-weight: 400;
+        font-size: 1.1rem;
+        line-height: 1.5rem;
+      }
+      .swPara{
+        padding-left: 1vh;
+        padding-right: 1vh;
+        color: white;
+        margin-top: -65vh;
         font-family: 'Lato', sans-serif;
         font-weight: 400;
         font-size: 1.1rem;

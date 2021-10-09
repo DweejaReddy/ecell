@@ -131,7 +131,7 @@
           Ever wondered how it feels like to be a part of an auction? Especially of our favourite event of the year,
           IPL? Well, here's your chance to experience it. With the help of your cricketing mind, manage your budget
           and decide your tactics and defeat your opponents. For the love, passion and excitement for the game of Cricket,
-          Join us where we welcome to you to build your 'dream team' for this year's IPL!<br>
+          Join us where we welcome to you to build your 'dream team' for this year's IPL!<br><br>
           <a class="btn btn-light rounded-pill" href="registerSW/register.php">Register <img style="height:20px;" src="https://img.icons8.com/windows/32/000000/enter-2.png"/></a>
           <a class="btn btn-light rounded-pill " href="IPL Auction Brochure.pdf" style="margin-left: 2vh;">Download Brochure <img style="height:20px;" src="https://img.icons8.com/material-outlined/24/000000/download--v2.png"/></a>
           <br><br><small class="mt-5">Already Registered? <a style="height:40px; font-size:15px;" class="btn btn-light rounded-pill" href="https://pmny.in/wIsLpSBch7kO">Proceed to Payment <img style="height:16px;" src="https://img.icons8.com/windows/32/000000/enter-2.png"/></a></small>
@@ -141,6 +141,28 @@
   </section>
 
   <!-- IPL Section ends -->
+
+  <!-- Startup Weekend Section starts -->
+  <section>
+    <div class="row">
+      <img src="images/laptop sw.jpg" class="img-fluid d-none d-md-block" style="height: 100vh; width: 100%;">
+      <img src="images/mobile sw.jpg" class="img-fluid d-xs-block d-sm-block d-md-none" style="height: 100vh; width: 100%;">
+      <div class="col-md-11 col-sm-12 col-xs-12">
+        <p class="swPara text-right mb-2">
+        We understand that having an idea is one thing, and turning it into a startup is another.
+        Startup Weekend narrows that gap between your thoughts and execution by infusing the knowledge and 
+        skills required to turn your idea into reality. Startup Weekend will create an everlasting impact 
+        on budding entrepreneurial minds through its motivative and interactive sessions. Young ideas will 
+        be moulded and paths will be guided to enforce a healthy startup culture. <br><br>
+          <a class="btn btn-light rounded-pill" href="registerSW/register.php">Register <img style="height:20px;" src="https://img.icons8.com/windows/32/000000/enter-2.png"/></a>
+          <a class="btn btn-light rounded-pill " href="IPL Auction Brochure.pdf" style="margin-left: 2vh;">Download Brochure <img style="height:20px;" src="https://img.icons8.com/material-outlined/24/000000/download--v2.png"/></a>
+          <!-- <br><br><small class="mt-5">Already Registered? <a style="height:40px; font-size:15px;" class="btn btn-light rounded-pill" href="https://pmny.in/wIsLpSBch7kO">Proceed to Payment <img style="height:16px;" src="https://img.icons8.com/windows/32/000000/enter-2.png"/></a></small> -->
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Startup Weekend Section ends -->
   <!----------------------------------- footer starts --------------------------------------------->
   <footer class="g-bg-color--dark">
 
