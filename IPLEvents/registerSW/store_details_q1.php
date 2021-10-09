@@ -12,13 +12,13 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error){
     die("Connection failed: " . $conn->connect_error);
 }	 
-$name = $_SESSION['name'];
-$story=$_POST['story'];
-$link=$_POST['link'];
-$size=$_POST['size'];
-$que1 = $_POST['que1'];
-$que2 = $_POST['que2'];
-$que3 = $_POST['que3'];
+$name = mysqli_real_escape_string($conn, $_POST['name']);
+$story= mysqli_real_escape_string($conn, $_POST['story']);
+$link= mysqli_real_escape_string($conn, $_POST['link']);
+$size= mysqli_real_escape_string($conn, $_POST['size']);
+$que1 = mysqli_real_escape_string($conn, $_POST['que1']); 
+$que2 = mysqli_real_escape_string($conn, $_POST['que2']);
+$que3 = mysqli_real_escape_string($conn, $_POST['que3']);
 
 // age is phone number !! 
 // job is email id !!

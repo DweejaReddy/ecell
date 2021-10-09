@@ -13,12 +13,12 @@ if ($conn->connect_error){
     die("Connection failed: " . $conn->connect_error);
 }	 
  
-$name=$_POST['name'];
-$email=$_POST['email'];
-$phone=$_POST['phone'];
-$linkedin = $_POST['linkedin'];
-$college = $_POST['college'];
-$grad = $_POST['grad'];
+$name=mysqli_real_escape_string($conn, $_POST['name']);
+$email=mysqli_real_escape_string($conn, $_POST['email']);
+$phone=mysqli_real_escape_string($conn, $_POST['phone']);
+$linkedin = mysqli_real_escape_string($conn, $_POST['linkedin']);
+$college = mysqli_real_escape_string($conn, $_POST['college']);
+$grad = mysqli_real_escape_string($conn, $_POST['grad']);
 $check1 = $_POST['check1'];
 $check2 = $_POST['check2'];
 $check3 = $_POST['check3'];
