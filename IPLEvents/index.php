@@ -155,7 +155,7 @@
         on budding entrepreneurial minds through its motivative and interactive sessions. Young ideas will 
         be moulded and paths will be guided to enforce a healthy startup culture. <br><br>
           <a class="btn btn-light rounded-pill" href="registerSW/register.php">Register <img style="height:20px;" src="https://img.icons8.com/windows/32/000000/enter-2.png"/></a>
-          <a class="btn btn-light rounded-pill " href="IPL Auction Brochure.pdf" style="margin-left: 2vh;">Download Brochure <img style="height:20px;" src="https://img.icons8.com/material-outlined/24/000000/download--v2.png"/></a>
+          <a class="btn btn-light rounded-pill " href="https://drive.google.com/file/d/1PTPQdD79qWIjv0wqGbzQkoDoujc64tVe/view?usp=sharing" style="margin-left: 2vh;">Download Brochure <img style="height:20px;" src="https://img.icons8.com/material-outlined/24/000000/download--v2.png"/></a>
           <!-- <br><br><small class="mt-5">Already Registered? <a style="height:40px; font-size:15px;" class="btn btn-light rounded-pill" href="https://pmny.in/wIsLpSBch7kO">Proceed to Payment <img style="height:16px;" src="https://img.icons8.com/windows/32/000000/enter-2.png"/></a></small> -->
         </p>
       </div>
