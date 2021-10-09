@@ -12,7 +12,7 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error){
     die("Connection failed: " . $conn->connect_error);
 }	 
-$name =mysqli_real_escape_string($conn, $_POST['name']);
+$name =mysqli_real_escape_string($conn, $_SESSION['name']);
 $perspec=mysqli_real_escape_string($conn, $_POST['perspec']);
 $link=mysqli_real_escape_string($conn, $_POST['link']);
 $que1 = mysqli_real_escape_string($conn, $_POST['que1']);
