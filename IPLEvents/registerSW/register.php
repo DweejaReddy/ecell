@@ -13,7 +13,6 @@
     <!-- icons -->
     <link rel = "icon" href = "images/icon.png" type = "image/x-icon">
 
-
 </head>
 <body>
     <div class="container d-flex justify-content-center pt-3 shadow-lg p-3 mb-5 bg-white rounded">
