@@ -1,7 +1,7 @@
 <?php 
     $servername='localhost';
-    $username="root";
-    $password="";
+    $username="ias2020";
+    $password="ecell123";
     $database="SC_Questionaire";
 
     $conn=mysqli_connect($servername,$username,$password,$database);
