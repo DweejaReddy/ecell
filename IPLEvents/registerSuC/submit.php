@@ -1,7 +1,14 @@
-<?php include "conn.php" ?>
+<?php include "conn.php";
+
+require("phpmailer/PHPMailer.php");
+require("phpmailer/SMTP.php");
+require("phpmailer/Exception.php");
+
+?>
 
 
 <?php 
+    $email=$_POST['email'];
     $responses=array();
     array_push($responses,$_POST['name'],$_POST['email'],$_POST['t1a'],$_POST['t1b'],$_POST['t1c'],$_POST['t1d'],$_POST['t1e'],$_POST['t2a'],$_POST['t2b'],$_POST['t2c'],$_POST['t2d'],$_POST['t2e'],$_POST['t3a'],$_POST['t3b'],$_POST['t3c'],$_POST['t4a'],$_POST['t4b'],$_POST['t5a'],$_POST['t5b'],$_POST['t5c'],$_POST['t5d'],$_POST['t5e'],$_POST['t5f'],$_POST['t6a'],$_POST['t6b'],$_POST['t6c'],$_POST['t7a'],$_POST['t7b'],$_POST['t7c'],$_POST['t7d'],$_POST['t8a'],$_POST['t9a'],$_POST['t9b'],$_POST['t9c'],$_POST['t9d'],$_POST['t9e'],$_POST['t10a'],$_POST['t10b']);
 
@@ -10,7 +17,26 @@
 
     $result=mysqli_query($conn,$sql);
     if($result){
-        header("location:index.php?message=1");
+        $mail = new PHPMailer\PHPMailer\PHPMailer();
+            try {
+                $mail->isSMTP();                                            
+                $mail->Host       = 'smtp.gmail.com';         
+                $mail->SMTPAuth   = true;                         
+                $mail->Username   = 'contact@ecellvnit.org';             
+                $mail->Password   = '21Cont@ct22';                             
+                $mail->SMTPSecure = 'tls';        
+                $mail->Port       = 587;                                  
+                $mail->setFrom('contact@ecellvnit.org', 'Start-Up Conclave 2022');
+                $mail->addAddress($email);
+                // $mail->addAttachment('images/NEO_studymaterial.pdf'); 
+                $mail->isHTML(true);            
+                $mail->Subject = 'Registration for Start-Up Conclave 2022 successful !!!';
+                $mail->Body    = 'Dear '.$name.',<br>Your <b>registration</b> for Start-Up Conclave 2022 by E-Cell VNIT is <b>completed successfully.</b><br><br>For any queries visit: <br><a href="https://www.ecellvnit.org/">https://www.ecellvnit.org/<br></a>All the best!!<br><br>Regards<br><span style="color:#ff8606"><b>TEAM SuC</b></span>';
+                $mail->send();
+                header("location:index.php?message=1");
+            } catch (Exception $e) {
+                echo "Something went wrong!! Try again!!!";
+            }
     }else{
         header("location:index.php?message=0");
     }
