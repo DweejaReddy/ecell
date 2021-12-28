@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    font-family: Montserrat;
+    font-weight: 400;
+}
+/* form{
+    width: 50%;
+} */
+body h1{
+    font-weight: 600;
+    color: white;
+}
+form label{
+    color: white;
+}
