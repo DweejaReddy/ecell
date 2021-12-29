@@ -36,26 +36,27 @@ $vari=0;
    $sql = "INSERT INTO responses (teamName, name, phone, email) VALUES ('$teamName' , '$name[$i]', '$phone[$i]', '$email[$i]' )";
    if ($conn->query($sql) === TRUE) {
     if($vari==0){
-        $mail = new PHPMailer\PHPMailer\PHPMailer();
-        try {
-            $mail->isSMTP();                                            
-            $mail->Host       = 'smtp.gmail.com';         
-            $mail->SMTPAuth   = true;                         
-            $mail->Username   = 'contact@ecellvnit.org';             
-            $mail->Password   = '21Cont@ct22';                             
-            $mail->SMTPSecure = 'tls';        
-            $mail->Port       = 587;                                  
-            $mail->setFrom('contact@ecellvnit.org', 'SuC VNIT');
-            $mail->addAddress($email[0]);
-            // $mail->addAttachment('images/NEO_studymaterial.pdf'); 
-            $mail->isHTML(true);            
-            $mail->Subject = 'Registration for Startup Conclave 2022 successful !!!';
-            $mail->Body    = 'Dear '.$name[0].',<br>Your <b>registration</b> for Start-Up Conclave 2022 by E-Cell VNIT is <b>completed successfully.</b><br>We hope this mail finds you in the pink of your health.<br>Thank you for registering to our golden initiative of Startup Conclave 2022.<br>This opportunity might be the ultimate booster to your startup and creative ideas.<br>We request you to fill the form attached below; filling the questionnaire is necessary for participation in further rounds:<br><a href="https://forms.gle/udXpAQsqghBB3jQcA">https://forms.gle/udXpAQsqghBB3jQcA<br></a>All the best!!<br><br>Regards<br><span style="color:#ff8606"><b>TEAM SuC</b></span>';
-            $mail->send();
-            header('LOCATION:thanks.php');
-        } catch (Exception $e) {
-            echo "Something went wrong!! Try again!!!";
-        }
+        header('LOCATION:thanks.php');
+        // $mail = new PHPMailer\PHPMailer\PHPMailer();
+        // try {
+        //     $mail->isSMTP();                                            
+        //     $mail->Host       = 'smtp.gmail.com';         
+        //     $mail->SMTPAuth   = true;                         
+        //     $mail->Username   = 'contact@ecellvnit.org';             
+        //     $mail->Password   = '21Cont@ct22';                             
+        //     $mail->SMTPSecure = 'tls';        
+        //     $mail->Port       = 587;                                  
+        //     $mail->setFrom('contact@ecellvnit.org', 'SuC VNIT');
+        //     $mail->addAddress($email[0]);
+        //     // $mail->addAttachment('images/NEO_studymaterial.pdf'); 
+        //     $mail->isHTML(true);            
+        //     $mail->Subject = 'Registration for Startup Conclave 2022 successful !!!';
+        //     $mail->Body    = 'Dear '.$name[0].',<br>Your <b>registration</b> for Start-Up Conclave 2022 by E-Cell VNIT is <b>completed successfully.</b><br>We hope this mail finds you in the pink of your health.<br>Thank you for registering to our golden initiative of Startup Conclave 2022.<br>This opportunity might be the ultimate booster to your startup and creative ideas.<br>We request you to fill the form attached below; filling the questionnaire is necessary for participation in further rounds:<br><a href="https://forms.gle/udXpAQsqghBB3jQcA">https://forms.gle/udXpAQsqghBB3jQcA<br></a>All the best!!<br><br>Regards<br><span style="color:#ff8606"><b>TEAM SuC</b></span>';
+        //     $mail->send();
+        //     header('LOCATION:thanks.php');
+        // } catch (Exception $e) {
+        //     echo "Something went wrong!! Try again!!!";
+        // }
         $vari++;
     }
   } else {
