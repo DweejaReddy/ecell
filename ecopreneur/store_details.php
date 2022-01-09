@@ -25,7 +25,7 @@ $q3 = mysqli_real_escape_string($conn, $_POST['q3']);
 $_SESSION['name'] = $name;
 // age is phone number !! 
 // job is email id !!
-  $sql = "INSERT INTO ecoEntries (name, email, phone, college, branch, year, q1, q2, q3) VALUES ('$name', '$email', '$phone','$college', '$branch', '$year', '$q1', '$q2', '$q3' )";
+  $sql = "INSERT INTO ecoentries (name, email, phone, college, branch, year, q1, q2, q3) VALUES ('$name', '$email', '$phone','$college', '$branch', '$year', '$q1', '$q2', '$q3' )";
    if ($conn->query($sql) === TRUE) {
     header('LOCATION:thanks.php');
   } else {
