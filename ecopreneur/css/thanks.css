@@ -1,0 +1,12 @@
+body{
+    font-family: Montserrat;
+    font-weight: 400;
+    padding-top: 20px;
+    background-image: url('../img/birds.png');
+    background-color: #f0f1a1;
+    background-size: cover;
+}
+.container{
+    margin: auto;
+    color: #316835;
+}
