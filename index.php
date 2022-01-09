@@ -180,8 +180,8 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                 <div class="clearfix">
                                     <div class="pull-left">
                                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                                            <a href="flagshipfinal/index.php" title="Register" target="_blank">
-                                                <span class="text-uppercase g-font-size-22--xs g-color--white g-padding-x-5--xs"><b>FLAGSHIP'21</b></span>
+                                            <a href="ecopreneur/index.php" title="Register" target="_blank">
+                                                <span class="text-uppercase g-font-size-22--xs g-color--white g-padding-x-5--xs"><b>ECOPRENEUR</b></span>
                                                 <i class="s-icon s-icon--sm s-icon--white-bg g-radius--circle ti-arrow-right"></i>
                                             </a>
                                             <!--<span class="s-promo-block-v3__date g-font-size-60--xs g-font-size-30--sm g-font-size-50--lg g-font-weight--600 g-color--primary">E-CELL<br><span class="g-font-size-20--xs g-font-size-30--lg">VNIT</span></span>-->
