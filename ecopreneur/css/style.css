@@ -1,7 +1,7 @@
 body{
     background-image: url('../img/homebg.jpg');
     background-repeat: no-repeat;
-    background-size: 100vw 50vw;
+    background-size: 100vw auto;
     font-family: 'Lato',sans-serif;
     overflow-x: hidden;
 }
@@ -28,8 +28,9 @@ display: inline;
     font-size: 6vw;
     font-weight: 500;
     letter-spacing: 1px;
+    position: relative;
     margin-left: 42vw;
-    margin-top: 7vw;
+    margin-top: 3vw;
     font-family: 'Bebas Neue', cursive;
 }
 .subhead{
@@ -37,6 +38,7 @@ display: inline;
     font-size: 1vw;
     background-color: #316835;
     padding-left: 1.2vw;
+    padding-right: -30vw;
     margin-left: 42vw;
     margin-right: 34.5vw;
     margin-top: -1.5vw;
@@ -91,7 +93,8 @@ display: inline;
 }
 .about{
     background-color: #316835;
-    height: 38vw;
+    /* height: 38vw; */
+    height: auto;
     position: relative;
     border-radius: 40px;
     top: -1.2vw;
@@ -114,11 +117,12 @@ display: inline;
 .heading {
     color: #316835;
     background-color: #fff;
-    font-size: 2.5vw;
-    border-radius: 8px;
+    background-size: auto;
+    border-radius: 1vw;
     font-weight: 900;
-    position: relative;
-    margin:auto 30vw;
+    display: inline-block;
+    padding:0.5vw 1vw;
+    margin: auto;
     margin-bottom: 3vw;
   }
 .btn3{
@@ -151,10 +155,10 @@ display: inline;
     border-radius: 8px;
 }
 .bord{
-    border-right: 2px dashed #316835;
+    border-left: 2px dashed #316835;
     position: relative;
-    /* right: 75.7vw; */
-    right: 87.5%;
+    /* right: 87.5%; */
+    left: 12.5%;
     margin-bottom: -20vw;
     bottom: 8.8vw;
     height: 18vw;
@@ -162,11 +166,12 @@ display: inline;
 .bord1{
     border-right: 2px dashed #316835;
     position: relative;
+    /* left: 12.5%; */
     /* right: 69.8vw; */
-    right: 78.5%;
-    margin-bottom: -50vw;
+    right: 78%;
+    margin-bottom: -48vw;
     bottom: 11vw;
-    height: 23vw;
+    height: 20vw;
 }
 .row1 {
     display: inline;
@@ -234,14 +239,6 @@ display: inline;
   .foot1 {
     font-size: 1.3vw;
   }
-@media only screen and (min-width:1024px) and (max-width:1279px) {
-    .eco{
-        margin-top: 10vw;
-    }
-    .btn3{
-        margin-left: 45vw;
-    }
-}
 @media only screen and (max-width:1023px){
     html,
   body {
@@ -258,8 +255,8 @@ display: inline;
         font-size: 15vw;
         font-weight: 500;
         letter-spacing: 1px;
-        margin-left: 40vw;
-        margin-top: -90vw;
+        /* margin-left: 40vw; */
+        /* margin-top: -90vw; */
         font-family: 'Bebas Neue', cursive;
     }
     .subhead{
@@ -283,50 +280,55 @@ display: inline;
         font-size: 3.7vw;
     }
     .btn1{
-        margin-left: 15vw;
+        /* margin-left: 15vw; */
         border: 1.7px #316835 solid;
         color: #316835;
         font-weight: 900;
+        font-size: 3vw;
         border-radius: 8px;
-        margin-top: 6vw;
+        /* margin-top: 6vw; */
     }
     .btn2{
-        margin-top: 6vw;
+        /* margin-top: 6vw; */
         color: #fff;
-        margin-left:2vw;
+        /* margin-left:2vw; */
+        font-size: 3vw;
         font-weight: 800;
         background-color: #316835;
         border-radius: 8px;
     }
     .about{
         background-color: #316835;
-        height: 200vw;
+        height: auto;
         position: relative;
         border-radius: 40px;
         top: -1.2vw;
         padding-top: 3vw;
     }
     .heading {
-        color: #316835;
-        background-color: #fff;
-        font-size: 5vw;
-        border-radius: 8px;
-        font-weight: 900;
-        position: relative;
-        margin:auto 19vw;
-        margin-bottom: 5vw;
+      color: #316835;
+      background-color: #fff;
+      background-size: auto;
+      border-radius: 1vw;
+      font-weight: 900;
+      display: inline-block;
+      padding:0.5vw 2.5vw;
+      margin: auto;
+      margin-bottom: 3vw;
       }
       .btn3{
         margin-left: 42vw;
         border: 1.7px #fff solid;
         color: #fff;
         font-weight: 900;
+        font-size: 3vw;
         border-radius: 8px;
         margin-top: 4vw;
     }
     .btn4{
         color: #316835;
         font-weight: 800;
+        font-size: 3vw;
         background-color:#fff;
         border-radius: 8px;
         margin-top: -4vw;
@@ -334,35 +336,81 @@ display: inline;
     .bg{
         background-image: url('../img/birds.png');
         background-color: #f0f1a1;
-        height: 720vw;
+        height: auto;
         background-size: 130vw 180vw;
         margin-top: -16vw;
     }
     .about1{
         background-color: #316835;
-        height: 140vw;
+        /* height: 140vw; */
+        height: auto;
         position: relative;
         border-radius: 40px;
         top: -1.2vw;
         padding-top: 3vw;
     }
     .bord{
-        border-right: 2px dashed #316835;
+        border-left: 2px dashed #316835;
         position: relative;
-        right: 81vw;
+        /* right: 81vw; */
+        left: 12%;
         margin-bottom: -80vw;
         bottom: 28vw;
         height: 82vw;
     }
     .bord1{
-        border-right: 2px dashed #316835;
+        border-left: 2px dashed #316835;
         position: relative;
-        right: 81vw;
+        left: 12%;
+        /* right: 81vw; */
         margin-bottom: -105vw;
         bottom: 50.5vw;
         height: 105vw;
+        /* height: 100%; */
     }
     .foot1 {
         font-size: 3.7vw;
       }
+}
+@media  only screen and (min-width:768px) and (max-width:912px){
+  .bord{
+    border-left: 2px dashed #316835;
+    position: relative;
+    /* right: 81vw; */
+    left: 6%;
+    margin-bottom: -80vw;
+    bottom: 28vw;
+    height: 82vw;
+}
+.bord1{
+    border-left: 2px dashed #316835;
+    position: relative;
+    left: 6%;
+    /* right: 81vw; */
+    margin-bottom: -105vw;
+    bottom: 50.5vw;
+    height: 105vw;
+    /* height: 100%; */
+}
+}
+@media only screen and (min-width:540px) and (max-width:767px){
+  .bord{
+    border-left: 2px dashed #316835;
+    position: relative;
+    /* right: 81vw; */
+    left: 9%;
+    margin-bottom: -80vw;
+    bottom: 28vw;
+    height: 82vw;
+}
+.bord1{
+    border-left: 2px dashed #316835;
+    position: relative;
+    left: 9%;
+    /* right: 81vw; */
+    margin-bottom: -105vw;
+    bottom: 50.5vw;
+    height: 105vw;
+    /* height: 100%; */
+}
 }
