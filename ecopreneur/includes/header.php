@@ -46,7 +46,15 @@
         <li class="nav-item d-lg-none">
           <a href="#struct_mob" class="nav-link">Timeline<i class="fas fa-arrow-alt-circle-right ml-3 mt-0" style="float: right;" ></i></a>
          </li>
-        
+         <li class="nav-item d-none d-lg-block">
+          <a href="#footer" class="nav-link">Contact<i class="fas fa-arrow-alt-circle-right d-none ml-3 mt-0"></i></a>
+        </li>
+        <li class="nav-item d-lg-none">
+          <a href="#footer" class="nav-link">Contact<i class="fas fa-arrow-alt-circle-right  ml-3 mt-0" style="float: right;" ></i></a>
+        </li>
+        <li class="nav-item d-none d-lg-block">
+          <a href="register.php" target="_blank"  class="btn btn2" >Register Now</a>
+        </li>
       </ul>
       
     </div>
