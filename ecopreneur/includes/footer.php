@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <footer style="background-color: #316835;">
+    <footer style="background-color: #316835;" id="footer">
         <div class="row align-items-center">
           <div class="col-md-1"></div>
             <div class="col-md-3 text-center py-5">
