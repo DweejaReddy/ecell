@@ -94,7 +94,28 @@
             <div class="col-6 text-left para1" style="margin: auto;" data-aos="fade-left"
   data-aos-duration="2000">Ecopreneur is proudly conducted in association with the PAN NIT ALUMNI FORUM(PNAF), an umbrella organization, covering alumni associations and thereby alumni of all NITs, to evolve a brand "NIT" that would provide strong fraternity.<br><br> PNAF and E-CELL VNIT share common interests like innovation and entrepreneurship along with holistic development for responsible citizens.</div>
           </div>
-       
+      </div>
+
+      <div class="container align-items-center d-lg-block d-none my-5" id="contact">
+          <div class="text-center">
+          <h2 class="heading" data-aos="fade-down"
+  data-aos-duration="2000">EVENT MANAGERS</h2></div>
+
+  <div class="row align-items-center mx-auto text-center">
+    <div class="col-12 col-md-4 offset-md-1 text-white cont py-3">
+      <img src="img/girl.png" alt="" height="100px">
+      <h5>ADITI MARATHE</h5>
+      <h5>+91 8600536295</h5>
+    </div>
+    <div class="col-12 col-md-4 offset-md-2 text-white cont py-3">
+      <img src="img/boy.png" alt="" height="100px">
+      <h5>ROHIT CHOUHAN</h5>
+      <h5>+91 9323638602</h5>
+    </div>
+  </div>
+
+</div>
+
       </section>
 
 
@@ -192,8 +213,31 @@ data-aos-duration="2000" href="register.php" target="_blank" role="button">Regis
   data-aos-duration="2000" style="font-size: 3.7vw;margin-top:7vw;">Ecopreneur is proudly conducted in association with the PAN NIT ALUMNI FORUM(PNAF), an umbrella organization, covering alumni associations and thereby alumni of all NITs, to evolve a brand "NIT" that would provide strong fraternity.<br><br> PNAF and E-CELL VNIT share common interests like innovation and entrepreneurship along with holistic development for responsible citizens.</div>
         </div>
         </div>
+
+
+        <div class="container align-items-center d-lg-none d-block my-5" id="contact_mob">
+          <div class="text-center">
+          <h2 class="heading" data-aos="fade-down"
+  data-aos-duration="2000">EVENT MANAGERS</h2></div>
+
+  <div class="row align-items-center mx-auto text-center">
+    <div class="col-12 col-md-4 offset-md-1 text-white cont py-3 my-2">
+      <img src="img/girl.png" alt="" height="100px">
+      <h5>ADITI MARATHE</h5>
+      <h5>+91 8600536295</h5>
+    </div>
+    <div class="col-12 col-md-4 offset-md-2 text-white cont py-3 my-2">
+      <img src="img/boy.png" alt="" height="100px">
+      <h5>ROHIT CHOUHAN</h5>
+      <h5>+91 9323638602</h5>
+    </div>
+  </div>
+
+</div>
       </section>
       <div class="bg d-block d-lg-none" style="height: 15vw;"></div>
+
+     
   <?php include('includes/footer.php')?>
 </body>
 </html>

@@ -110,7 +110,8 @@ display: inline;
 .bg{
     background-image: url('../img/birds.png');
     background-color: #f0f1a1;
-    height: 170vw;
+    /* height: 170vw; */
+    height: auto;
     background-size: 130vw auto;
     margin-top: 11.5vw;
 }
@@ -179,6 +180,16 @@ display: inline;
     justify-content: left;
     color: #f0f1a1;
   }
+
+.cont{
+  background-color: #316835;
+  border-radius: 10px;
+  
+}
+.cont h5{
+  font-weight: 600;
+  color: #f0f1a1;
+}
   .icon{
       margin-top: 0.3vw;
   }
