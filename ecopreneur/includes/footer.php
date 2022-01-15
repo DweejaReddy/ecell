@@ -17,7 +17,7 @@
           </div>
         </div>
           <div class="col-md-4 text-white text-center foot1 mt-md-4">
-            <p>For Association Opportunities and Queries Contact: <br><a class="foot" href="mailto:corporateaffairs@ecellvnit.org">corporateaffairs@ecellvnit.org</a>
+            <p>For Association Opportunities and Queries Contact: <br><a class="foot" href="mailto:corporateaffairs@ecellvnit.co.in">corporateaffairs@ecellvnit.co.in</a>
             <br><a class="foot" href="mailto:ecellvnit.corporate@gmail.com">ecellvnit.corporate@gmail.com</a>
           <br>
           <a class="foot" href="tel:+91 9307627987">Mehul:93076 27987</a>
