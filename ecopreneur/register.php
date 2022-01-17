@@ -19,6 +19,7 @@
             <form class="p-4" method="post" action="store_details.php">
                 <div class="card-heading text-center">
                     <h1 class="title pb-2">Registration</h1>
+                    <h6 class="mt-3" style="color: #316835;font-weight: 600;">NOTE*:The event may require you to work in a team with people of your college who you may not know.</h6>
                     <hr>
                 </div>
                 <div class="form-group row mb-2">
