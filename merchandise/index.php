@@ -61,7 +61,7 @@
                 <span class="sizes text-lg-left mr-1" style="padding: 10px 15px;">XL</span>
                 <span class="sizes text-lg-left mr-1" style="padding: 10px 10px;">2XL</span>
                 <span class="sizes text-lg-left mr-1" style="padding: 10px 10px;">3XL</span>
-                <span class="sizes text-lg-left mr-1" style="padding: 10px 10px;">4XL</span>
+                <!-- <span class="sizes text-lg-left mr-1" style="padding: 10px 10px;">4XL</span> -->
             </div>
             <div class="row align-items-center d-flex justify-content-center d-lg-none" style="color: #919191;">
                 <div class="col-3">
