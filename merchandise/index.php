@@ -84,9 +84,9 @@
                 <div class="col-3 mt-4">
                     <span class="sizes" style="padding: 10px 13px;">3XL</span>
                 </div>
-                <div class="col-3 mt-4">
+                <!-- <div class="col-3 mt-4">
                     <span class="sizes" style="padding: 10px 13px;">4XL</span>
-                </div>
+                </div> -->
             </div>
             <div class="col-md-12 text-xl-left my-5 ml-xl-3">
                 <a href="register.php" target="_blank"><button type="button" class="btn text-white btn3">BUY NOW</button></a>
