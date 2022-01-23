@@ -1,0 +1,210 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+.bord{
+border-left: 1px solid #fff;
+left: 3%;
+position: absolute;
+height: 42vw;
+}
+.name{
+color: #919191;
+position: absolute;
+top:51vw;
+left:-0.5%;
+transform: rotate(-90deg);
+}
+.bord1{
+border-left: 1px solid #fff;
+left: 3%;
+top: 56vw;
+position: absolute;
+height: 274vw;
+}
+.bord2{
+border-right: 1px solid #fff;
+right: 3%;
+position: absolute;
+height: 325vw;
+}
+/* NAVBAR CSS */
+#mainNavbar {
+  font-size: 1rem;
+  font-weight: 900;
+  background-color: #fff;
+}
+.sticky-top {
+  background-color: #171717;
+  transition: background 0.5s;
+}
+#mainNavbar .navbar-nav {
+  margin-left: auto;
+}
+#mainNavbar .nav-link {
+  padding: 1rem 1rem;
+  color: #232323;
+  font-weight: bold;
+}
+#mainNavbar .nav-item a img {
+  display: none;
+}
+#mainNavbar .nav-item:hover a img {
+  display: inline;
+}
+#mainNavbar .nav-item .btn1{
+  color: #fff;
+  background-color: #0072FF;
+  border-radius: 50px;
+  box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.15);
+  border: none;
+  font-weight: bold;
+}
+
+/* HOME CSS */
+.home_shirt{
+  position: absolute;
+  top: 10vw;
+  left: 31vw;
+  width: 38vw;
+  filter: drop-shadow(4px 4px 25px rgba(0, 0, 0, 0.25));
+
+}
+.btn2{
+  position: absolute;
+  top: 42vw;
+  left: 38vw;
+  color: #fff;
+  background-color: #0072FF;
+  border-radius: 50px;
+  box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.15);
+  border: none;
+  font-weight: bold;
+  box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.15);
+  padding: 0.8vw 8vw;
+  font-size: larger;
+}
+.btn2:hover{
+  color: #fff;
+  background-color: #0072FF;
+}
+.merch{
+  
+  font-family: 'Bebas Neue',sans-serif;
+  font-size: 17vw;
+  font-weight: 400;
+  color: #232323;
+  -webkit-text-stroke-color: #fff;
+}
+.home_mob_shirt{
+  max-width: 90vw;
+  background-color: #fff;
+  border-radius: 50%;
+  margin-top: 20%;
+}
+.btn2_mob{
+  position: absolute;
+  top: 127vw;
+  left: 25vw;
+  color: #fff;
+  background-color: #0072FF;
+  border-radius: 50px;
+  box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.15);
+  border: none;
+  font-weight: bold;
+  box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.15);
+  padding: 1vw 14vw;
+}
+
+/* DISPLAY CSS */
+.bg{
+  background-color: #2f2f2f;
+  height: auto;
+  max-width: 85vw;
+  border-radius: 30px;
+}
+.front,.back{
+  background-color: #fff;
+  border-radius: 30px;
+}
+.sub{
+font-weight: 700;
+}
+.btn3{
+background-color: #0072FF;
+font-weight: bold;
+box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.15);
+border-radius: 50px;
+padding: 0.5vw 6vw;
+font-size: larger;
+}
+
+/* MODEL AND DETAILS CSS */
+.model{
+max-width: 80vw;
+}
+.heading{
+color: #0072FF;
+font-weight: bold;
+}
+.strikethrough {
+position: relative;
+}
+.strikethrough:before {
+position: absolute;
+content: "";
+left: 0;
+top: 50%;
+right: 0;
+border-top: 1px solid #fff;
+transform:rotate(-15deg);
+}
+.sizes{
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 10px;
+width: 50px;
+}
+/* MASK CSS */
+.free{
+font-size: 8vw;
+font-weight: 700;
+color: #0072FF;
+}
+.para{
+color: #0072FF;
+font-size: 2vw;
+font-weight: 400;
+margin-top: -2vw;
+}
+@media only screen and (max-width:1200px) {
+  html,body{
+      overflow-x: hidden;
+  }
+  .free{
+    font-size: 15vw;
+  }
+  .para{
+    font-size: 4.5vw;
+  }
+  .mask{
+    max-width: 70vw;
+  }
+}
+@media only screen and (max-width:767px) {
+  .front, .back{
+      max-width: 72vw;
+      align-items: center;
+  }
+  .btn3{
+    padding: 1vw 14vw;
+  }
+}
+@media only screen and (min-width:1280px) {
+.free{
+  background-image: url(img/group.png);
+  background-repeat: no-repeat;
+}
+}
