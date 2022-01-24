@@ -32,7 +32,7 @@ $_SESSION['email'] = $email;
         
     }
     else{
-        header('LOCATION:https://rzp.io/i/2QexfbTaVA');
+        header('LOCATION:https://rzp.io/l/B2YWU2P');
     }
     
   }
