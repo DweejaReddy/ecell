@@ -128,7 +128,7 @@
 
 <section class="container align-items-center">
     <h1 class="heading my-2 text-center">Size Chart</h1>
-    <img style="margin: 0 auto;" width="100%" src="img/chart.png" alt="">
+    <img style="margin: auto;" width="100%" src="img/sizeChartNew.jpeg" alt="">
 </section>
 </body>
 </html>
