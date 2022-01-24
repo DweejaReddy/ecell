@@ -116,7 +116,7 @@
             <h4 class="text-center text-white sub my-4">FRONT</h4>
         </div>
         <div class="col-lg-6 col-12 my-4">
-            <img class="back px-xl-5 py-4" src="img/Tshirt-back complete 1.png" alt="">
+            <img class="back px-xl-5 py-4" src="img/Tshirt-back complete(alumni) 1.png" alt="">
             <h4 class="text-center text-white sub my-4">BACK</h4>
         </div>
        

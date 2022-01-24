@@ -18,7 +18,7 @@ $enteredName = mysqli_real_escape_string($con, $_POST['enteredName']);
 $email = $_SESSION['email'];
 $sql = "UPDATE merchentries SET  enteredName = '$enteredName' WHERE email ='$email'";
    if ($con->query($sql) === TRUE) {
-    header('LOCATION:https://pmny.in/brXtQUw3o8Qy');    
+    header('LOCATION:https://rzp.io/l/fpGszt0iUl');    
 }
   else {
     echo "Error: " . $sql . "<br>" . $con->error;
