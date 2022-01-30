@@ -1,0 +1,93 @@
+footer{
+    font-family: 'Lato',sans-serif;
+    margin-top: 25px;
+}
+.row1 {
+    display: inline;
+    margin-top: 3vw;
+    justify-content: left;
+    color: navajowhite;
+}
+.icon{
+    margin-top: 0.3vw;
+}
+.fb {
+    padding-right: 1vw;
+}
+.twitter {
+    padding: 0vw 1vw;
+}
+.linkedin {
+    padding: 1vw;
+}
+.insta {
+    padding-left: 1vw;
+}
+.youtube {
+    padding: 1vw;
+}
+
+.fb:hover {
+    color: rgb(53, 105, 216);
+}
+.twitter:hover {
+    color: #1da1f2;
+}
+.insta:hover {
+    background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.linkedin:hover {
+    color: #0077b5;
+}
+.youtube:hover {
+    color: #ff0000;
+}
+.linkCol:hover {
+    color: white;
+    text-decoration: none !important;
+}
+.foot {
+    color: navajowhite;
+    font-weight: bold;
+    text-decoration: none;
+}
+.foot:hover {
+    color: white;
+    text-decoration: none;
+}
+.foot1 {
+    font-size: 1.3vw;
+}
+@media only screen and (max-width:1023px){
+    html,
+body {
+    overflow-x: hidden;
+}
+    /*body{
+        background-image: url('../img/home_mob.png');
+        background-repeat: no-repeat;
+        background-size: 100vw 100vh;
+        font-family: 'Lato',sans-serif;
+    }*/
+    
+    /*.bg{
+        background-image: url('../img/birds.png');
+        background-color: #f0f1a1;
+        height: auto;
+        background-size: 130vw 180vw;
+        margin-top: -16vw;
+    }*/
+    .foot1 {
+        font-size: 3.7vw;
+    }
+}
