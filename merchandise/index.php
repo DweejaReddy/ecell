@@ -52,7 +52,7 @@
             <h3 class="heading d-none d-lg-block my-2 text-left ml-xl-3">OFFICIAL E-CELL MERCHANDISE</h3>
             <h4 class="text-white text-xl-left ml-xl-3" style="font-weight: 400;">Half Sleeve T-Shirt</h4>
             <h4 class="text-white text-xl-left ml-xl-3" style="font-weight: 700;"><span class="mr-3"><i class="fas fa-rupee-sign"></i> 299 </span><span style="color: #919191;" class="strikethrough"><i class="fas fa-rupee-sign"></i> 499</span><span style="font-weight: 400;">(40% OFF)</span><span style="color: #919191;font-weight: 400;font-size: 1.3rem;"> Without Name</span></h4>
-            <h4 class="text-white text-xl-left ml-xl-3" style="font-weight: 700;"><span class="mr-3"><i class="fas fa-rupee-sign"></i> 349 </span><span style="color: #919191;" class="strikethrough"><i class="fas fa-rupee-sign"></i> 499</span><span style="font-weight: 400;">(30% OFF)</span><span style="color: #919191;font-weight: 400;font-size: 1.3rem;"> With Name</span></h4>
+            <h4 class="text-white text-xl-left ml-xl-3" style="font-weight: 700;"><span class="mr-3"><i class="fas fa-rupee-sign"></i> 349 </span><span style="color: #919191;" class="strikethrough"><i class="fas fa-rupee-sign"></i> 549</span><span style="font-weight: 400;">(40% OFF)</span><span style="color: #919191;font-weight: 400;font-size: 1.3rem;"> With Name</span></h4>
             <h4 class="mt-5 mb-4 text-xl-left ml-xl-3" style="color: #919191;font-weight: 400;">Sizes Available</h4>
             <div class="text-center d-xl-flex flex-row d-none sizebtn ml-xl-3" style="color: #919191;">
                 <span class="sizes text-lg-left mr-1" style="padding: 10px 19px;">S</span>
@@ -65,26 +65,26 @@
             </div>
             <div class="row align-items-center d-flex justify-content-center d-lg-none" style="color: #919191;">
                 <div class="col-3">
-                    <span class="sizes" style="padding: 10px 19px;">S</span>
+                    <span class="sizes mx-auto" style="padding: 10px 19px;">S</span>
                 </div>
                 <div class="col-3">
-                    <span class="sizes" style="padding: 10px 19px;">M</span>
+                    <span class="sizes mx-auto" style="padding: 10px 19px;">M</span>
                 </div>
                 <div class="col-3">
-                    <span class="sizes " style="padding: 10px 19px;">L</span>
+                    <span class="sizes mx-auto" style="padding: 10px 19px;">L</span>
                 </div>
                 <div class="col-3">
-                    <span class="sizes" style="padding: 10px 13px;">XL</span>
+                    <span class="sizes mx-auto" style="padding: 10px 13px;">XL</span>
                 </div>
             </div>
             <div class="row align-items-center d-flex justify-content-center d-lg-none" style="color: #919191;">
-                <div class="col-3  mt-4">
-                    <span class="sizes" style="padding: 10px 13px;">2XL</span>
+                <div class="col-3  mt-4 mx-auto">
+                    <span class="sizes" style="padding: 10px 11px;">2XL</span>
                 </div>
-                <div class="col-3 mt-4">
-                    <span class="sizes" style="padding: 10px 13px;">3XL</span>
+                <div class="col-3 mt-4 mx-auto">
+                    <span class="sizes" style="padding: 10px 11px;">3XL</span>
                 </div>
-                <!-- <div class="col-3 mt-4">
+                <!-- <div class="col-3 mt-4 mx-auto">
                     <span class="sizes" style="padding: 10px 13px;">4XL</span>
                 </div> -->
             </div>
@@ -103,7 +103,7 @@
         <div class="col-lg-6 col-12 my-4">
             <div class="group"></div>
             <div class="text-xl-left free">FREE</div>
-            <div class="text-xl-left para">MASK WITH EACH PURCHASE</div>
+            <div class="text-xl-left para">2 MASKS WITH EACH PURCHASE</div>
         </div>
     </div>
 </section>
@@ -126,7 +126,7 @@
     </div>
 </section>
 
-<section class="container align-items-center">
+<section class="container align-items-center my-5">
     <h1 class="heading my-2 text-center">Size Chart</h1>
     <img style="margin: auto;" width="100%" src="img/sizeChartNew.jpeg" alt="">
 </section>

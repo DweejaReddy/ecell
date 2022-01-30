@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat',sans-serif;
+  }
+  body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    padding: 10px;
+    background-image: url(https://s3-alpha-sig.figma.com/img/80cf/5cd7/424b92fd138982f1b54459bfbdaebca5?Expires=1644192000&Signature=GAX1wMSBQPREC4MtFe6831bZlMeDYGYIQpN9XVaJ9d2Yqvd6xmHXWy9O7ANLbAhPrkq2jmQudmyLyCnNjDCqhKNgcWmfWtpA5QOYPrvCuNe~Ellqx0EmCsrevmn~GWT4-YvCboAw5PsRkcWxSyKOXvkajb3tTVV2fMkByaYnM~pxsqcztcEphGjYlZyE9ThCTlnIKDWxTCoYslfAUvKcQ1uh-PQ10-dVAwS19all-Tjwzgd~YmjqFWUib0typsOuQ2Yp~ds4S5fPRwhuAyX-mfp7HVfRupnqUkn0c8TxTyPZVWwevTt6IE8Jgk16vyHTvz2tJrkfaFfoAzhZNLYObA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+  }
+  .content{
+    max-width: 1240px;
+    width: 100%;
+    background-color: #76BFDA;
+    padding: 25px 30px;
+    border-radius: 15px;
+    margin-top: 30px;
+  }
+  .container .title{
+    font-size: 25px;
+    font-weight: 700;
+    position: absolute;
+    top: 20vh;
+    left: calc(50% - 100px);
+    background: #76BFDA;
+    padding: 10px;
+    border-radius: 20px;
+  
+  }
+  .content form .user-details{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0 12px 0;
+  }
+  form .user-details .input-box{
+    margin-bottom: 15px;
+    width: calc(100% / 2 - 20px);
+  }
+  .user-details .input-box input{
+    height: 45px;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+    border-radius: 10px;
+    border-bottom-width: 2px;
+  }
+   form .button{
+     height: 45px;
+     margin: 35px 0;
+     position: absolute;
+     left: calc(50% - 68px);
+  
+  }
+   form .button input{
+     height: 100%;
+     width: 150%;
+     border-radius: 20px;
+     border: none;
+     color: black;
+     font-size: 22px;
+     font-weight: 700;
+     letter-spacing: 1px;
+     background: #76BFDA;
+     cursor: pointer;
+   }
+   form .button input:hover{
+     background-color: skyblue;
+   }
+   @media(max-width: 584px){
+   .container{
+    max-width: 100%;
+  }
+  form .user-details .input-box{
+      margin-bottom: 15px;
+      width: 100%;
+    }
+    .content form .user-details{
+      max-height: 300px;
+      overflow-y: scroll;
+    }
+    .user-details::-webkit-scrollbar{
+      width: 5px;
+    }
+  }
