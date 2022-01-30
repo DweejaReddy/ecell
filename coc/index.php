@@ -70,7 +70,7 @@
           </li>
         </ul>
         <li class="nav-item d-none d-lg-block mr-4">
-          <a class="btn btn-dark rounded-pill btn1 px-4" href="register.html" target="_blank" role="button"><b>Register</b></a>
+          <a class="btn btn-dark rounded-pill btn1 px-4" href="register.php" target="_blank" role="button"><b>Register</b></a>
         </li>
       </div>
     </nav>
@@ -81,7 +81,7 @@
             <div class="para text-white ml-5" style="font-size:1.4vw;">Chamber of Commerce is a premier body whose goal is the collective and communal enhancement of businesses. The organisation helps in enhancing communication and offer networking opportunities for ventures. It serves essential roles in development for projects and is indispensable in growth of member enterprises.</div>
         
             <div class="text-center align-items-end d-none d-lg-block">
-              <a class="btn btn1 my-4 px-4 mr-5 py-1 showcase-left" style="font-size: larger;" href="register.html" target="_blank" role="button">Register</a>
+              <a class="btn btn1 my-4 px-4 mr-5 py-1 showcase-left" style="font-size: larger;" href="register.php" target="_blank" role="button">Register</a>
             <a class="showcase-right1 my-4 px-4 py-1 btn2 mr-5 btn" style="font-size: larger;" href="documents/Chamber of Commerce Brochure.pdf" download="Chamber of Commerce Brochure"> Brochure</a>
               
               
@@ -108,7 +108,7 @@
        
         
           <li class="nav-item pt-3 text-center ">
-            <a class="btn btn1 my-4 px-4" data-aos="fade-right" data-aos-duration="1000" href="register.html" target="_blank" role="button">Register</a>
+            <a class="btn btn1 my-4 px-4" data-aos="fade-right" data-aos-duration="1000" href="register.php" target="_blank" role="button">Register</a>
             <a class="btn btn2 my-4 px-4" data-aos="fade-right" data-aos-duration="1000" href="documents/Chamber of Commerce Brochure.pdf" target="_blank" role="button"> Brochure</a>
           </li>
       </section>
