@@ -7,7 +7,7 @@ if(isset($_POST['submit']))
 //  $password = "ecell123";
 //  $dbname = "eco21";
 
- $con = mysqli_connect("localhost","root","","test");
+ $con = mysqli_connect("localhost","ias2020","ecell123","coc");
 // $conn = new mysqli($servername, $username, $password, $dbname);
 if ($con->connect_error){
     die("Connection failed: " . $con->connect_error);

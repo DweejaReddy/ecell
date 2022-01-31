@@ -13,26 +13,26 @@
         <div class="container">
             <div class="title">REGISRATION</div>
             <div class="content">
-                <form action="#" method="post">
+                <form action="store_details.php" method="post">
                     <div class="user-details">
                         <div class="input-box">
-                            <input type="text" placeholder="Name*" id="name" required>
+                            <input type="text" placeholder="Name*" name="name" required>
                         </div>
-                        <div class="input-box" id="">
-                            <input type="email" placeholder="Email*" required>
-                        </div>
-                        <div class="input-box">
-                            <input type="text" placeholder="College*"  id="college" required>
+                        <div class="input-box" >
+                            <input type="email" placeholder="Email*" name="email" required>
                         </div>
                         <div class="input-box">
-                            <input type="number" placeholder="Year*"  id="year" required>
+                            <input type="text" placeholder="College*"  name="college" required>
+                        </div>
+                        <div class="input-box">
+                            <input type="number" placeholder="Year*"  name="year" required>
                         </div>
                         <div class="input-box" id="contactfield">
-                            <input type="tel" placeholder="Contact no.*" id="contactNumber" required>
+                            <input type="tel" placeholder="Contact no.*" name="phone" required>
                         </div>
                     </div>
                     <div class="button">
-                        <input type="submit" value="Submit">
+                        <input type="submit" name="submit_form" value ="Submit">
                     </div>
                 </form>
             </div>
