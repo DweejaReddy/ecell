@@ -22,8 +22,8 @@ $_SESSION['name'] = $name;
  
   $sql = "INSERT INTO cocentries (name, email, college, year, phone) VALUES ('$name', '$email', '$college', '$year', '$phone')";
    if ($con->query($sql) === TRUE) {
-    // header('LOCATION:thanks.php');
-    echo "Done";
+    header('LOCATION:thanksmsg.php');
+    // echo "Done";
   } else {
     echo "Error: " . $sql . "<br>" . $con->error;
   } 
