@@ -384,7 +384,7 @@
                 </div>
                 <div class="col-md-4 text-white text-center foot1">
                     <p>For Association Opportunities and Queries Contact: <br>
-                        <a class="foot" href="mailto:contact@ecellvnit.org">contact@ecellvnit.org</a><br>
+                        <a class="foot" href="mailto:contact@ecellvnit.org">corporateaffairs@ecellvnit.co.in</a><br>
                         <a class="foot" href="mailto:cocconso2022@gmail.com">cocconso2022@gmail.com</a>
                     </p>
                 </div>
