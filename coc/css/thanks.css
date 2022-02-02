@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat',sans-serif;
+  }
+  body{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-image: url(https://s3-alpha-sig.figma.com/img/80cf/5cd7/424b92fd138982f1b54459bfbdaebca5?Expires=1644192000&Signature=GAX1wMSBQPREC4MtFe6831bZlMeDYGYIQpN9XVaJ9d2Yqvd6xmHXWy9O7ANLbAhPrkq2jmQudmyLyCnNjDCqhKNgcWmfWtpA5QOYPrvCuNe~Ellqx0EmCsrevmn~GWT4-YvCboAw5PsRkcWxSyKOXvkajb3tTVV2fMkByaYnM~pxsqcztcEphGjYlZyE9ThCTlnIKDWxTCoYslfAUvKcQ1uh-PQ10-dVAwS19all-Tjwzgd~YmjqFWUib0typsOuQ2Yp~ds4S5fPRwhuAyX-mfp7HVfRupnqUkn0c8TxTyPZVWwevTt6IE8Jgk16vyHTvz2tJrkfaFfoAzhZNLYObA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+  }
+  .wrapper{
+    max-width: 720px;
+    width: 100%;
+    background-color: white;
+    padding: 25px 30px;
+    border-radius: 15px;
+    margin-top: 30px;
+  }
+   @media(max-width: 584px){
+   .wrapper{
+    max-width: 100%;
+  }
+  }

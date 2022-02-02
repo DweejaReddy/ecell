@@ -1,0 +1,171 @@
+.cocevenassoguiseparator{
+    width: 100%;
+    background-color: #005177;
+    height: 12px;
+    margin: 0px;
+}
+.cocassoguimain{
+    background-color: #76BFDA;
+}
+.cocassoguicontentbox{
+    height: 100%;
+    background-color: #ffffff;
+    position: relative;
+    float: right;
+}
+.cocassoguiheadingmainblock{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cocassoguiheading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #76BFDA;
+    border-radius: 16px;
+    text-align: center;
+    box-shadow: 0px 4px 4px rgba(68, 48, 48, 0.20), 0px 4px 4px rgba(0, 0, 0, 0.20), 0px 4px 4px rgba(0, 0, 0, 0.20), 0px 4px 4px rgba(0, 0, 0, 0.20), 0px 4px 4px rgba(0, 0, 0, 0.20), 0px 4px 4px rgba(0, 0, 0, 0.20), 0px 4px 4px rgba(0, 0, 0, 0.20);
+}
+#cocassoguiheadingtext{
+    color : #FFFFFF;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.cocassoguiassociatecontainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0px;
+}
+.cocassoguidetext{
+    text-align: left !important;
+}
+.cocassoguidelinecontentbox{
+    list-style-type: symbols();
+    list-style-image: url('../images/star-fill_bootstrapsvg.svg') !important;
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+.cocassoguidelinecontentbox li{
+    margin: 25px;
+}
+
+@media only screen and (min-width : 768px) {
+    .cocassoguicontentbox{
+        width: 90%;
+    }
+    .cocassoguiheading{
+        width: 400px;
+        height: 85px;
+    }
+    #cocassoguiheadingtext{
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .cocdtopmargin{
+        margin-top: 20px !important;
+    }
+    .cocassoguiassociatecontainer{
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+    .cocassoguidelinecontentbox{
+        margin-top: 60px;
+        font-size: 30px;
+        line-height: 30px;
+    }
+    /*.cocassoguidetext{
+        font-size: 25px;
+        line-height: 25px;
+    }*/
+    .cocassoguiassociatecontainer{
+        justify-content: space-evenly;
+    }
+}
+@media only screen and (max-width : 768px) {
+    .cocassoguicontentbox{
+        width: 90%;
+    }
+    .cocassoguiheading{
+        width: 200px;
+        height: 60px;
+    }
+    #cocassoguiheadingtext{
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .cocassoguiassociatecontainer{
+        margin-top: 75px;
+        margin-bottom: 75px;
+    }
+    .cocassoguidelinecontentbox{
+        margin-top: 30px;
+        font-size: 25px;
+        line-height: 25px;
+    }
+    .pnafimg{
+        margin-top: 20px;
+        width: 300px;
+        height: 150px;
+    }
+    /*.cocassoguidetext{
+        margin-top: 25px;
+        margin-left: 20px;
+        margin-right: 20px;
+        font-size: 20px;
+        line-height: 20px;
+    }*/
+    .cocassoguiassociatecontainer{
+        justify-content: center; 
+    }
+    .cocassoguiassociatecontainer p{
+        text-align: center;
+    }
+}
+@media only screen and (max-width : 360px) {
+    .cocassoguicontentbox{
+        width: 95%;
+    }
+    .cocassoguiheading{
+        width: 200px;
+        height: 40px;
+    }
+    #cocassoguiheadingtext{
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .cocassoguiassociatecontainer{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .cocassoguidelinecontentbox{
+        margin-top: 20px;
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .pnafimg{
+        margin-top: 10px;
+        width: 150px;
+        height: 75px;
+    }
+    /*.cocassoguidetext{
+        font-size: 15px;
+        line-height: 15px;
+        margin-top: 20px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }*/
+    .cocassoguiassociatecontainer{
+        justify-content: center; 
+    }
+    .cocassoguiassociatecontainer p{
+        text-align: center;
+    }
+}

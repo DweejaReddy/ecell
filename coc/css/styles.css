@@ -1,0 +1,51 @@
+body{
+  font-family: 'Lato',sans-serif;
+  font-weight: 400;
+  padding-top: 20px;
+  background-image: url('../images/bg\ pattern.png');
+}
+body h1{
+  font-weight: 800;
+  color: #232323;
+}
+form label{
+  color: #232323;
+}
+.submit{
+  background-color: #232323;
+  border: none;
+}
+.submit:hover{
+  background-color: #fff;
+  color: #232323;
+}
+.container{
+  background-color: #76BFDA;
+}
+input::-webkit-input-placeholder {
+  font-size: 13px;
+  line-height: 3;
+}
+
+.hidden{
+  display: none;
+}
+.show{
+  display: block;
+}
+@media only screen and (min-width:992px) {
+  label {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    text-align: right;
+    width: 400px;
+    line-height: 26px;
+    margin-bottom: 10px;
+  }
+  
+  input,select {
+    flex: 0 0 200px;
+    margin-left: 150px;
+  }
+}

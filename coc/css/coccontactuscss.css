@@ -1,0 +1,140 @@
+.coccontactmain{
+clear: both;
+background-color: #232323;
+overflow: auto;
+}
+.coccontactheadingmainblock{
+margin-top: 20px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.coccontactusheading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #76BFDA;
+    border-radius: 16px;
+    text-align: center;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.20), 0px 4px 4px rgba(0, 0, 0, 0.20), 0px 4px 4px rgba(0, 0, 0, 0.20), 0px 4px 4px rgba(0, 0, 0, 0.20), 0px 4px 4px rgba(0, 0, 0, 0.20), 0px 4px 4px rgba(0, 0, 0, 0.20), 0px 4px 4px rgba(0, 0, 0, 0.20);
+}
+#coccontactheadingtext{
+    color : #FFFFFF;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+            .coccontactblock{
+                margin-top: 25px;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                align-items: center;
+                justify-content: center;
+                font-family: 'Montserrat', sans-serif;
+                font-style: normal;
+                font-weight: normal;
+                position: relative;
+            }
+            .coccontactinnerblock{
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: center;
+                align-items: center;
+            }
+            .coccontactdescription{
+                display: flex;
+                flex-direction: column;
+                justify-content : center;
+                align-items: center;
+                background-color: #76BFDA;
+                border-radius: 12px;
+                padding: 5px;
+                text-align: center;
+            }
+            .cocseparationline{
+                clear: both;
+                width: 100%;
+                height: 12px;
+                background-color: #76BFDA;
+            }
+
+@media only screen and (min-width : 768px) {
+    .coccontactusheading{
+        width: 440px;
+        height: 85px;
+    }
+    #coccontactheadingtext{
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .coccontactimg{
+        width: 150px;
+        height: 150px;
+    }
+    .coccontactblock{
+        font-size: 20px;
+    }
+    .coccontactdescription{
+        height: 75px;
+    }
+    .cocmar{
+        margin-right: 25px;
+    }
+    .cocseparationline{
+        margin-top: 75px;
+    }
+}
+@media only screen and (max-width : 768px) {
+    .coccontactusheading{
+        width: 300px;
+        height: 60px;
+    }
+    #coccontactheadingtext{
+        font-size: 25px;
+        line-height: 25px;
+    }
+    .coccontactimg{
+        width: 120px;
+        height: 120px;
+    }
+    .coccontactblock{
+        font-size: 15px;
+    }
+    .coccontactdescription{
+        height: 60px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .cocseparationline{
+        margin-top: 40px;
+    }
+}
+@media only screen and (max-width : 360px) {
+    .coccontactusheading{
+        width: 200px;
+        height: 40px;
+    }
+    #coccontactheadingtext{
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .coccontactimg{
+        width: 120px;
+        height: 120px;
+    }
+    .coccontactblock{
+        font-size: 15px;
+    }
+    .coccontactdescription{
+        height: 50px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .cocseparationline{
+        margin-top: 40px;
+    }
+}
