@@ -103,7 +103,7 @@
         <div class="col-lg-6 col-12 my-4">
             <div class="group"></div>
             <div class="text-xl-left free">FREE</div>
-            <div class="text-xl-left para">1 MASKS WITH EACH PURCHASE</div>
+            <div class="text-xl-left para">1 MASK WITH EACH PURCHASE</div>
         </div>
     </div>
 </section>
