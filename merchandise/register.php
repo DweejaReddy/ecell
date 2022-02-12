@@ -79,6 +79,12 @@ form{
                     </div>
                 </div>
                 <div class="form-group row mb-2 labels mt-4">
+                    <label for="code" class="col-md-3 col-form-label offset-1 offset-md-0">Coupon Code (If applicable)</label>
+                    <div class="col-md-8 col-10 offset-1 offset-md-0">
+                        <input class="form-control rounded-pill" name="code" placeholder="Coupon Code">
+                    </div>
+                </div>
+                <div class="form-group row mb-2 labels mt-4">
                     <label for="size" class="col-md-3 col-form-label offset-1 offset-md-0">Size*</label>
                     <div class="col-md-8 col-10 offset-1 offset-md-0">
                         <select name="size" class="form-control rounded-pill" id="size" required>
