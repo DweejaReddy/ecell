@@ -41,16 +41,16 @@
       <div class="collapse navbar-collapse" id="navLinks">
         <ul class="navbar-nav ml-auto ">
           <li class="nav-item d-none d-lg-block">
-            <a href="index.php#home" class="nav-link">Home</a>
+            <a href="" class="nav-link">Home</a>
           </li>
           <li class="nav-item d-lg-none">
-            <a href="index.php#home_mob" class="nav-link">Home</a>
+            <a href="" class="nav-link">Home</a>
           </li>
           <li class="nav-item">
-            <a href="index.php#events" class="nav-link">Events</a>
+            <a href="https://www.ecellvnit.org/" class="nav-link">Events</a>
           </li>
           <li class="nav-item">
-           <a href="index.php#speakers" class="nav-link">Speakers</a>
+           <a href="https://www.ecellvnit.org/" class="nav-link">Speakers</a>
           </li>
           <li class="nav-item dropdown align-items-center">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -62,7 +62,7 @@
             </div>
           </li>
           <li class="nav-item">
-            <a href="core.php" class="nav-link" target="_blank">Team</a>
+            <a href="https://www.ecellvnit.org/team.php" class="nav-link" target="_blank">Team</a>
           </li>
         </ul>
         <li class="nav-item d-none d-lg-block">
