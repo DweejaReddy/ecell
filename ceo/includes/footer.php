@@ -11,11 +11,11 @@
       <div class="row align-items-center py-3">
         <div class="text-white col-8 col-lg-4 ">
           <div class="contact d-none d-lg-block pt-3">
-      <h6 class="text-center"><span style="font-weight: 900;" class="text-center"> CONTACT US: </span><a class="text-white" style="text-decoration: none;" href="mailto:contact@ecellvnit.org"> contact@ecellvnit.org</a></h6>
+      <h6 class="text-center"><span style="font-weight: 900;" class="text-center"> CONTACT US: </span><a class="text-white" style="text-decoration: none;" href="mailto:events@ecellvnit.co.in">events@ecellvnit.co.in</a></h6>
       <!-- <h6 class="num">+91 9836272811</h6> -->
     </div>
     <div class="text-center contact_mob d-block d-lg-none py-2">
-      <h6><span style="font-weight: 900;" class="text-center"> CONTACT US: </span><a class="text-white mt-3" style="text-decoration: none;" href="mailto:contact@ecellvnit.org"> contact@ecellvnit.org</a></h6>
+      <h6><span style="font-weight: 900;" class="text-center"> CONTACT US: </span><a class="text-white mt-3" style="text-decoration: none;" href="mailto:events@ecellvnit.co.in">events@ecellvnit.co.in</a></h6>
       <!-- <h6 class="text-center">+91 9836272811</h6> -->
     </div>
 
