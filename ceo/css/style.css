@@ -4,7 +4,9 @@
     position: fixed;
     top: 45%;
 }
-
+a:hover{
+  text-decoration: none;
+}
 .hexa {
   -moz-animation: marquee 10s linear infinite;
   -webkit-animation: marquee 10s linear infinite;
