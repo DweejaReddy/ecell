@@ -23,7 +23,9 @@
         <div class="content">
             <div class="imgBx"><img src="img/advisory/mithil.jpg" alt=""></div>
             <div class="contentBx">
-                <h3>Mithil Rao <br><span>+91 96073 39838</span></h3>
+                <h3>Mithil Rao <br>
+                <!-- <span>+91 96073 39838</span> -->
+                </h3>
             </div>
         </div>
         <ul class="sci">
@@ -40,7 +42,9 @@
         <div class="content">
             <div class="imgBx"><img src="img/advisory/gauri.jpg" alt=""></div>
             <div class="contentBx">
-                <h3>Gauri Dixit <br><span>+91 93594 07052</span></h3>
+                <h3>Gauri Dixit <br>
+                <!-- <span>+91 93594 07052</span> -->
+            </h3>
             </div>
         </div>
         <ul class="sci">
@@ -57,7 +61,9 @@
         <div class="content">
             <div class="imgBx"><img src="img/advisory/ved.jpg" alt=""></div>
             <div class="contentBx">
-                <h3>Ved Kotpalliwar<br><span>+91 81048 66608</span></h3>
+                <h3>Ved Kotpalliwar<br>
+                <!-- <span>+91 81048 66608</span> -->
+            </h3>
             </div>
         </div>
         <ul class="sci">
@@ -74,7 +80,9 @@
         <div class="content">
             <div class="imgBx"><img src="img/advisory/rishabh.jpeg" alt=""></div>
             <div class="contentBx">
-                <h3>Rishabh Runwal<br><span>+91 93265 12345</span></h3>
+                <h3>Rishabh Runwal<br>
+                <!-- <span>+91 93265 12345</span> -->
+            </h3>
             </div>
         </div>
         <ul class="sci">
@@ -91,7 +99,9 @@
         <div class="content">
             <div class="imgBx"><img src="img/advisory/nandita.jpg" alt=""></div>
             <div class="contentBx">
-                <h3>Nandita Khajuria<br><span>+91 93594 58871</span></h3>
+                <h3>Nandita Khajuria<br>
+                <!-- <span>+91 93594 58871</span> -->
+            </h3>
             </div>
         </div>
         <ul class="sci">
@@ -110,7 +120,9 @@
         <div class="content">
             <div class="imgBx"><img src="img/advisory/digesh.jpg" alt=""></div>
             <div class="contentBx">
-                <h3>Digesh Gaundar<br><span>+91 83789 39747</span></h3>
+                <h3>Digesh Gaundar<br>
+                <!-- <span>+91 83789 39747</span> -->
+            </h3>
             </div>
         </div>
         <ul class="sci">
@@ -128,7 +140,9 @@
         <div class="content">
             <div class="imgBx"><img src="img/advisory/harsh.jpeg" alt=""></div>
             <div class="contentBx">
-                <h3>Harsh Mittal<br><span>+91 86027 61409</span></h3>
+                <h3>Harsh Mittal<br>
+                <!-- <span>+91 86027 61409</span> -->
+            </h3>
             </div>
         </div>
         <ul class="sci">
@@ -145,7 +159,9 @@
         <div class="content">
             <div class="imgBx"><img src="img/advisory/ritika.jpeg" alt=""></div>
             <div class="contentBx">
-                <h3>Ritika Meena<br><span>+91 96991 73231</span></h3>
+                <h3>Ritika Meena<br>
+                <!-- <span>+91 96991 73231</span> -->
+            </h3>
             </div>
         </div>
         <ul class="sci">
@@ -162,7 +178,9 @@
         <div class="content">
             <div class="imgBx"><img src="img/advisory/yash.jpg" alt=""></div>
             <div class="contentBx">
-                <h3>Yash Mantri<br><span>+91 76208 72471</span></h3>
+                <h3>Yash Mantri<br>
+                <!-- <span>+91 76208 72471</span> -->
+            </h3>
             </div>
         </div>
         <ul class="sci">
@@ -179,7 +197,9 @@
         <div class="content">
             <div class="imgBx"><img src="img/advisory/piyush.jpg" alt=""></div>
             <div class="contentBx">
-                <h3>Piyush Aggarwal<br><span>+91 81079 55598</span></h3>
+                <h3>Piyush Aggarwal<br>
+                <!-- <span>+91 81079 55598</span> -->
+            </h3>
             </div>
         </div>
         <ul class="sci">
@@ -196,7 +216,9 @@
         <div class="content">
             <div class="imgBx"><img src="img/advisory/rushikesh.jpg" alt=""></div>
             <div class="contentBx">
-                <h3>Rushikesh Bhojne<br><span>+91 88884 21359</span></h3>
+                <h3>Rushikesh Bhojne<br>
+                <!-- <span>+91 88884 21359</span> -->
+            </h3>
             </div>
         </div>
         <ul class="sci">
