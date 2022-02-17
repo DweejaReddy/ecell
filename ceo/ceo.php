@@ -92,7 +92,7 @@
             </div>
             <div class="col-7">
             <div class="struct my-4 py-4" >
-                <h4 class="text-left ml-3 zoom"><a class="zoom" style="color: #292929;" href="https://forms.gle/fHt2a7PpPxBgxRQy6" target="_blank">QUALIFYING ROUND (Click here to Participate Now)</a> </h4>
+                <h4 class="text-left ml-3">QUALIFYING ROUND </h4>
                     <br>
                     <p class="text-left ml-3">The qualifying round begins the moment you register, with the completion of a basic questionnaire covering corporate and financial topics. Keep in mind that you must submit your responses before we close registrations.
 Our experts will shortlist the contenders for the first round based on their critical thinking, decisiveness, business-related strategizing, and creative thinking.
