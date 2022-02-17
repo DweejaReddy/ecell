@@ -12,7 +12,7 @@
             
     
             <div class="col-12 col-md-5 text-white ml-4 pt-4">
-                <h1  style="font-weight: 900;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 3.5rem;" data-aos="fade-down" data-aos-duration="2000">CEO</h1>
+                <h1  style="font-weight: 900;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 4.5rem;" data-aos="fade-down" data-aos-duration="2000">CEO</h1>
                 <h5  style="font-weight: 500;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 1.3rem;" data-aos="fade-right" data-aos-duration="2000">UNCOVER THE FUTURE LEADERS</h5>
                 <p style="color: #D5242A;font-size: 1.4vw;">Real problems, real losses, and real disagreements in search of real solutions <br>
                 Do you have what it takes to be a CEO?
@@ -27,16 +27,19 @@
                 <div class="col-12 col-md-5">
                     <div class="owl-carousel owl-theme pt-5" id="one">
                         <div class="item">
-                            <img src="img/pic1.png" alt="">
+                            <img src="img/ceo1.jpeg" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/pic2.jpg" alt="">
+                            <img src="img/ceo2.jpeg" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/pic3.jpg" alt="">
+                            <img src="img/ceo3.jpeg" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/pic4.jpg" alt="">
+                            <img src="img/ceo4.jpeg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="img/ceo5.jpeg" alt="">
                         </div>
                     </div>
                 </div>
@@ -48,18 +51,21 @@
             <h1 class="text-center text-white mb-4"  style="font-weight: 900;font-size: 3.5rem;">CEO</h1>
             <div class="col-12 col-md-5">
                 <div class="owl-carousel owl-theme" id="two">
-                    <div class="item">
-                        <img src="img/pic1.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="img/pic2.jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="img/pic3.jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="img/pic4.jpg" alt="">
-                    </div>
+                <div class="item">
+                            <img src="img/ceo1.jpeg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="img/ceo2.jpeg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="img/ceo3.jpeg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="img/ceo4.jpeg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="img/ceo5.jpeg" alt="">
+                        </div>
                 </div>
             </div>
     

@@ -125,24 +125,6 @@ e:after {
     margin-top: 30rem;
   }
 }
-@media only screen and (min-width:1080px){
-  @keyframes zoom-in-zoom-out {
-    0% {
-    transform: scale(1, 1);
-    }
-    50% {
-    transform: scale(1.1, 1.1);
-    margin-left: 30px;
-    }
-    100% {
-    transform: scale(1, 1);
-    }
-    }
-  .zoom{
-    animation: zoom-in-zoom-out 1s ease infinite;
-  }
-}
-
 
 /* TIMELINE */
 .timeline {
