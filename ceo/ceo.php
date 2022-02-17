@@ -20,8 +20,8 @@
                 <!-- <p style="font-size: 1.2vw;" class="my-4">In this era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something unique. CEO is more than a competition; it’s a mission to decode future leaders; it’s a chance for students to show, test, and improve their leadership skills in a real-world setting. An event that provides a glimpse into the future, where excellent leadership is necessary for success, and where participants take risks and even thrive during the most challenging times. -->
 
                   </p>
-                <a href="ceoReg.php"><button class="btn btn3 " style="font-size: 1.4vw;" >Register Now for Free</button></a><br>
-                <a href="ceoReg.php"><button class="btn btn3" style="font-size: 1.4vw;" >Download Brochure</button></a><br>
+                <a href="ceoReg.php"><button class="btn btn3 px-3" style="font-size: 1.4vw;" >Register Now for Free</button></a>
+                <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button class="btn btn3 ml-2 my-2" style="font-size: 1.4vw;" >Brochure</button></a><br>
                 <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-5 mt-2">Last Date: 15th March</p></div>
                   
                 <div class="col-12 col-md-5">
@@ -70,10 +70,10 @@
                 </p>
                 <!-- <p style="color: rgb(160, 160, 160);font-size: 3.7vw;" class="text-center my-3" >In this era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something unique. CEO is more than a competition; it’s a mission to decode future leaders; it’s a chance for students to show, test, and improve their leadership skills in a real-world setting. An event that provides a glimpse into the future, where excellent leadership is necessary for success, and where participants take risks and even thrive during the most challenging times. -->
 
-                  <br></p>
+                  </p>
                 <div class="text-center mt-3 px-5">
-                    <a href="ceoReg.php" target="_blank"><button type="button" class="btn btn3" style="font-size: 3.7vw;">Register Now for Free</button></a>
-                    <a href="ceoReg.php" target="_blank"><button type="button" class="btn btn3" style="font-size: 3.7vw;">Download Brochure</button></a>
+                    <a href="ceoReg.php" target="_blank"><button type="button" class="btn btn3 my-2 px-3" style="font-size: 3.7vw;">Register Now for Free</button></a>
+                    <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button type="button" class="btn btn3 my-2 px-5" style="font-size: 3.7vw;">Brochure</button></a>
                     <p style="color: rgb(160, 160, 160);font-size: 4.2vw;" class=" mt-2">Last Date: 15th March</p></div>
                 </div></div>
         </div>
@@ -86,7 +86,7 @@
             </div>
             <div class="col-7">
             <div class="struct my-4 py-4" >
-                <h4 class="text-left ml-3">QUALIFYING ROUND</h4>
+                <h4 class="text-left ml-3 zoom"><a class="zoom" style="color: #292929;" href="https://forms.gle/fHt2a7PpPxBgxRQy6" target="_blank">QUALIFYING ROUND (Click here to Participate Now)</a> </h4>
                     <br>
                     <p class="text-left ml-3">The qualifying round begins the moment you register, with the completion of a basic questionnaire covering corporate and financial topics. Keep in mind that you must submit your responses before we close registrations.
 Our experts will shortlist the contenders for the first round based on their critical thinking, decisiveness, business-related strategizing, and creative thinking.
