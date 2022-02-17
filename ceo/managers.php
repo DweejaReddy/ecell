@@ -155,7 +155,7 @@
           <a href="https://www.linkedin.com/in/tanishqa-mishra-406ab5209/" target="_blank"><h5>Tanishqa Mishra <i class="fa fa-linkedin"></i></h5></a>
         </div>
         <div class="col-12 col-6 col-lg-4 managerName5 mx-1 my-2 pt-3 pb-2 px-5">
-          <h5>Ummeemun Hussain</h5>
+          <h5 style="font-size: 17px;">Ummeemun Hussain</h5>
         </div>
       </div>
       
@@ -218,8 +218,14 @@
         </div>
       </div>
 
-      <button type="button"  class="btnman crypto btn-block py-3 my-3 mx-auto" onclick="Function7()" data-aos="fade-right" data-aos-duration="2000">EntreMUN <i class="fa fa-caret-down"></i></button>
+      <button type="button"  class="btnman crypto btn-block py-3 my-3 mx-auto" onclick="Function7()" data-aos="fade-right" data-aos-duration="2000">Entre MUN <i class="fa fa-caret-down"></i></button>
       <div class="row my-4 hidden" id="hidden7">
+      <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
+          <a href="https://www.linkedin.com/in/akshay-archak-b26a30205" target="_blank"><h5>Akshay Archak <i class="fa fa-linkedin"></i></h5></a>
+      </div>
+      <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
+          <a href="https://www.linkedin.com/in/ishika-jain-b56637218" target="_blank"><h5>Ishika Jain <i class="fa fa-linkedin"></i></h5></a>
+      </div>
       <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
           <a href="https://www.linkedin.com/in/mitali-khodke-63408220b/" target="_blank"><h5>Mitali Khodke <i class="fa fa-linkedin"></i></h5></a>
       </div>
@@ -228,12 +234,6 @@
         </div>
         <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
           <a href="https://www.linkedin.com/in/vibhash-rathi-02364a204/" target="_blank"><h5>Vibhash Rathi <i class="fa fa-linkedin"></i></h5></a>
-        </div>
-        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
-          <a href="https://www.linkedin.com/in/ishika-jain-b56637218" target="_blank"><h5>Ishika Jain <i class="fa fa-linkedin"></i></h5></a>
-        </div>
-        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
-          <a href="https://www.linkedin.com/in/akshay-archak-b26a30205" target="_blank"><h5>Akshay Archak <i class="fa fa-linkedin"></i></h5></a>
         </div>
       </div>
       <span><img src="img/wireframe.png" alt="" width="1300px" style="position: relative;bottom: 1050px;z-index:-1;margin-bottom: -1280px;left: -10px;opacity: 0.7;"></span>

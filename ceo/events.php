@@ -74,7 +74,7 @@
 
           <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
-            <img src="img/coc.jpg" alt="">
+            <img src="img/ceo1.jpeg" alt="">
             <h5 class="mt-2" style="font-weight: bold;">CEO</h5>
               <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">CEO is an event that provides a glimpse into the future, where excellent leadership is necessary for success, and where participants take risks during the most challenging times.</h6>
               <div class="col-md-12 text-right mb-5 mt-2">
@@ -98,10 +98,10 @@
 
   <div class="heading text-center my-5 container py-3" style="background-color: #3a3a3a;">
     <h2>Contact Us</h2>
-    <p>For any sponsorship related queries, do reach out to us</p>
+    <p>For any queries relating to all events, do reach out to us at <span><a href="mailto:events@ecellvnit.co.in" style="color: red;">events@ecellvnit.co.in</a></span></p>
     <div class="row align-items-center">
      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4" style="height: 365px;width: 280px;">
-       <img src="img/team/Tanvi.jpg" style="height: 230px;width: 280px;" alt="">
+       <img src="img/team/tanvi.jpg" style="height: 230px;width: 280px;" alt="">
        <h5 class="mt-2">Tanvi Khurana</h5>
        <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
        <h6 class="my-2 desig">Head of Events & Planning</h6>
@@ -113,7 +113,7 @@
      </div>
 
      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4" style="height: 365px;width: 280px;">
-       <img src="img/team/Bhavishya.jpg" style="height: 230px;width: 280px;" alt="">
+       <img src="img/team/bhavishya.jpg" style="height: 230px;width: 280px;" alt="">
        <h5 class="mt-2">Bhavishya Jain</h5>
        <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
        <h6 class="my-2 desig">Head of Events & Planning</h6>
