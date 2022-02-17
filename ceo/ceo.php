@@ -14,13 +14,14 @@
             <div class="col-12 col-md-5 text-white ml-4 pt-4">
                 <h1  style="font-weight: 900;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 3.5rem;" data-aos="fade-down" data-aos-duration="2000">CEO</h1>
                 <h5  style="font-weight: 500;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 1.3rem;" data-aos="fade-right" data-aos-duration="2000">UNCOVER THE FUTURE LEADERS</h5>
-                <p style="color: #D5242A;font-size: 1.4vw;">Real problems, real losses, and real disagreements in search of real solutions
+                <p style="color: #D5242A;font-size: 1.4vw;">Real problems, real losses, and real disagreements in search of real solutions <br>
                 Do you have what it takes to be a CEO?
                 </p>
-                <p style="font-size: 1.2vw;" class="my-4">In this era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something unique. CEO is more than a competition; it’s a mission to decode future leaders; it’s a chance for students to show, test, and improve their leadership skills in a real-world setting. An event that provides a glimpse into the future, where excellent leadership is necessary for success, and where participants take risks and even thrive during the most challenging times.
+                <!-- <p style="font-size: 1.2vw;" class="my-4">In this era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something unique. CEO is more than a competition; it’s a mission to decode future leaders; it’s a chance for students to show, test, and improve their leadership skills in a real-world setting. An event that provides a glimpse into the future, where excellent leadership is necessary for success, and where participants take risks and even thrive during the most challenging times. -->
 
                   </p>
                 <a href="ceoReg.php"><button class="btn btn3 " style="font-size: 1.4vw;" >Register Now for Free</button></a><br>
+                <a href="ceoReg.php"><button class="btn btn3" style="font-size: 1.4vw;" >Download Brochure</button></a><br>
                 <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-5 mt-2">Last Date: 15th March</p></div>
                   
                 <div class="col-12 col-md-5">
@@ -64,15 +65,16 @@
     
             <div class="col-12 col-md-5 text-white text-center">
                 <h6  style="font-weight: 500;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 4.5vw;" class="mt-4">UNCOVER THE FUTURE LEADERS</h6>
-                <p style="color: #D5242A;font-size: 3.7vw;">Real problems, real losses, and real disagreements in search of real solutions
+                <p style="color: #D5242A;font-size: 3.7vw;">Real problems, real losses, and real disagreements in search of real solutions <br>
                 Do you have what it takes to be a CEO?
                 </p>
-                <p style="color: rgb(160, 160, 160);font-size: 3.7vw;" class="text-center my-3" >In this era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something unique. CEO is more than a competition; it’s a mission to decode future leaders; it’s a chance for students to show, test, and improve their leadership skills in a real-world setting. An event that provides a glimpse into the future, where excellent leadership is necessary for success, and where participants take risks and even thrive during the most challenging times.
+                <!-- <p style="color: rgb(160, 160, 160);font-size: 3.7vw;" class="text-center my-3" >In this era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something unique. CEO is more than a competition; it’s a mission to decode future leaders; it’s a chance for students to show, test, and improve their leadership skills in a real-world setting. An event that provides a glimpse into the future, where excellent leadership is necessary for success, and where participants take risks and even thrive during the most challenging times. -->
 
                   <br></p>
                 <div class="text-center mt-3 px-5">
                     <a href="ceoReg.php" target="_blank"><button type="button" class="btn btn3" style="font-size: 3.7vw;">Register Now for Free</button></a>
-                    <p style="color: rgb(160, 160, 160);font-size: 4.2vw;" class=" mt-2">Last Date: 25th Feb</p></div>
+                    <a href="ceoReg.php" target="_blank"><button type="button" class="btn btn3" style="font-size: 3.7vw;">Download Brochure</button></a>
+                    <p style="color: rgb(160, 160, 160);font-size: 4.2vw;" class=" mt-2">Last Date: 15th March</p></div>
                 </div></div>
         </div>
     </section>
@@ -321,7 +323,7 @@ Our experts will shortlist the contenders for the first round based on their cri
                     <a class="ml-4" href="https://www.linkedin.com/in/tanishqa-mishra-406ab5209/" target="_blank" >
                         <img id="linkedin" src="img/linkedin_black.png" alt="">
                     </a>
-                    <div class="phone pb-4" style="margin-top: -30px;">+91 968991 20105</div>
+                    <div class="phone pb-4" style="margin-top: -30px;">+968 99120105</div>
                 </div>
             </div>
         </div>
