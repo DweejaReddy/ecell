@@ -41,32 +41,26 @@
       <div class="collapse navbar-collapse" id="navLinks">
         <ul class="navbar-nav ml-auto ">
           <li class="nav-item d-none d-lg-block">
-            <a href="index.php#home" class="nav-link">Home</a>
+            <a href="#home" class="nav-link">Home</a>
           </li>
           <li class="nav-item d-lg-none">
-            <a href="index.php#home_mob" class="nav-link">Home</a>
+            <a href="#home_mob" class="nav-link">Home</a>
           </li>
           <li class="nav-item">
-            <a href="events.php" target="_blank" class="nav-link">Events</a>
+            <a href="#struct" class="nav-link">Structure</a>
+          </li>
+          <li class="nav-item d-none d-lg-block">
+           <a href="#timeline" class="nav-link">Timeline</a>
+          </li>
+          <li class="nav-item d-lg-none">
+           <a href="#timeline_mob" class="nav-link">Timeline</a>
           </li>
           <li class="nav-item">
-           <a href="speakers.php" target="_blank" class="nav-link">Speakers</a>
-          </li>
-          <li class="nav-item dropdown align-items-center">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Sponsors
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item text-center text-white disabled" href="newSponsors.php" target="_blank">Consortium'22 Sponsors</a>
-              <a class="dropdown-item text-center text-md-left text-white" href="pastSponsors.php" target="_blank">Past Sponsors</a>
-            </div>
-          </li>
-          <li class="nav-item">
-            <a href="core.php" class="nav-link" target="_blank">Team</a>
+            <a href="#managers" class="nav-link">Managers</a>
           </li>
         </ul>
         <li class="nav-item d-none d-lg-block">
-          <a class="btn btn-dark bg btn1 px-4" href="" target="_blank" role="button">Register</a>
+          <a class="btn btn-dark bg btn1 px-4" href="ceoReg.php" target="_blank" role="button">Register</a>
         </li>
         <li class="nav-item d-none d-lg-block">
           <a class="btn btn-dark bg  btn2 mx-4 px-4" href="" target="_blank" role="button">Login</a>
