@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="css/eventStyle.css">
 <body>
 <hr style="border-top: 1px solid #fff;opacity: 0.8;margin-top: 3px;" class="mt-2">
-    <section class="d-none d-md-block my-5">
+    <section class="d-none d-md-block my-5" id="home">
         <div class="about row align-items-center py-4 mx-auto" style="max-width: 80%;">
             
     
@@ -46,7 +46,7 @@
         </div>
     </section>
 
-    <section class="d-block d-md-none my-5">
+    <section class="d-block d-md-none my-5" id="home_mob">
         <div class="about row align-items-center py-4 mx-auto d-block d-lg-none">
             <h1 class="text-center text-white mb-4"  style="font-weight: 900;font-size: 3.5rem;">CEO</h1>
             <div class="col-12 col-md-5">
@@ -84,7 +84,7 @@
                 </div></div>
         </div>
     </section>
-    <section class="my-5 text-center ">
+    <section class="my-5 text-center " id="struct">
         <h1  style="font-weight: 900;font-size: 2.3rem;" class="text-white">EVENT STRUCTURE</h1>
         <div class="row align-items-center">
             <div class="col-1">
@@ -138,7 +138,7 @@ Our experts will shortlist the contenders for the first round based on their cri
             </ul>
         </div>
     </section> -->
-    <section class="d-none d-lg-block mx-auto text-center" style="max-width: 90%;">
+    <section class="d-none d-lg-block mx-auto text-center" style="max-width: 90%;" id="timeline">
         <h1  style="font-weight: 900;font-size: 2.3rem;" class="text-white my-4">TIMELINE</h1>
         <div id="horizontal-timeline" class="timeline horizontal reverse">
             <div class="block">
@@ -214,7 +214,7 @@ Our experts will shortlist the contenders for the first round based on their cri
           </div>
     </section>
 
-    <section class="d-block d-lg-none mx-auto text-center" style="max-width: 90%;">
+    <section class="d-block d-lg-none mx-auto text-center" style="max-width: 90%;" id="timeline_mob">
         <h1  style="font-weight: 900;font-size: 2.3rem;" class="text-white my-5">TIMELINE</h1>
         <div id="vertical-timeline" class="timeline vertical">
             <div class="block">
@@ -293,7 +293,7 @@ Our experts will shortlist the contenders for the first round based on their cri
     </section>
 
     <section>
-        <div class="text-center about cont text-white mx-auto my-5 py-5" style="max-width: 80%;">
+        <div class="text-center about cont text-white mx-auto my-5 py-5" style="max-width: 80%;" id="managers">
             <h1  style="font-weight: 900;font-size: 2.3rem;color: #D5242A;">Contact Us</h1>
             <p class="px-3 my-4">For any event related queries, do reach out to us</p>
             <div class="row align-items-center">
