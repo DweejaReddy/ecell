@@ -1,0 +1,145 @@
+body {
+  background: #3f3d3e;
+  color: white;
+  font-family: "Proxima Nova", sans-serif;
+}
+.main{
+  background: url("images/imgBg.png");
+  background-size: cover;
+}
+
+.nav-link {
+  color: white;
+}
+
+.titleComing{
+  font-size: 4vw;
+}
+
+.titleDate{
+  font-size: 2.5vw;
+
+}
+
+ul {
+  margin-left: 2vw;
+  font-weight: 700;  
+  position: absolute;
+  text-decoration: none;
+}
+
+.comingSoon {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: -36vw;
+  margin-left: 28vw;
+}
+
+.about {
+  margin-top: 27vw;
+  margin-bottom: 4vw;
+  text-align: center;
+
+}
+
+/* h1 {
+    font-weight: 700;
+    font-size: 4vw;
+} */
+
+.lead {
+    font-size: 25px;
+    line-height: 25px;
+    font-weight: 400;
+    padding-top: 2vw;
+    padding-right: 10vw;
+    padding-bottom: 0vw;
+    padding-left: 10vw
+}
+
+/* .dash {
+    background-color: white;
+    height: 0.2vw;
+    margin-left: 39vw;
+    width: 19vw;
+    border-radius: 1vw;
+    
+    
+} */
+
+.yellowBar {
+    width: 100%;
+    height: 1vw;
+    background: #FFDB58;
+}
+
+article{
+  margin: 16vw;
+  margin-top: 8vw;
+  margin-bottom: 0vw;
+}
+
+.blog-post-title{
+  font-size: 6vw;
+  font-weight: 700;
+  background: rgba(141, 140, 141, 0.5);
+  border-radius: 1vw;
+  border: 0.1vw solid #FFDB58;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30vw;
+  margin-bottom: 4vw;
+}
+
+h2{
+  font-size: 3.5vw;
+  font-weight: 600;
+  margin: 2.5vw;
+  margin-left: 0vw;
+}
+
+p{
+  /* font-size: 1.7vw; */
+  font-family: "Proxima Nova";
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 20px;
+}
+
+@media screen and (max-width:767px) {
+  h2{
+    font-size: 30px;
+    font-weight: 600;
+  margin: 2.5vw;
+  margin-left: 0vw;
+  }
+  .blog-post-title{
+    font-size: 8vw;
+    font-weight: 700;
+    background: rgba(141, 140, 141, 0.5);
+    border-radius: 1vw;
+    border: 0.1vw solid #FFDB58;
+    width: 30vw;
+    margin-bottom: 4vw;
+  }
+  .lead {
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 400;
+    padding-top: 5vw;
+    padding-right: 10vw;
+    padding-bottom: 0vw;
+    padding-left: 10vw
+}
+.comingSoon {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: -40vw;
+  margin-left: 28vw;
+}
+}
+
+
