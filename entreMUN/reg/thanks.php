@@ -12,7 +12,7 @@ $name = $_SESSION['name'];
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <!-- external css  -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/thanks.css">
     <!-- Web Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
     <!-- favicon -->
@@ -30,6 +30,9 @@ $name = $_SESSION['name'];
                
                 <div class="px-3 py-3 mx-3" style="color: #000;background-color: #fff;border-radius: 25px;width: 450px;max-width: 90%;">
                   <?php echo "<h3 style=font-weight: 600 class=pt-4><b> Congratulations,</b>$name <br>Your registration is completed.</h3>";?><br>
+                  <h5>Please proceed to payment.</h5>
+                      <button class="btn btn-danger"><a class="btndg" href="https://rzp.io/l/YqJmuCyFyk">Pay Now</a>
+                      </button>
                 </div>
             </div>
         </div>

@@ -2,29 +2,31 @@ body {
   background: #3f3d3e;
   color: white;
   font-family: "Proxima Nova", sans-serif;
+  overflow-x: hidden;
 }
 .main{
   background: url("images/imgBg.png");
-  background-size: cover;
+  background-size: auto;
 }
-
+.text-dark {
+  color: rgb(24 26 27) !important;
+}
 .nav-link {
   color: white;
 }
-
 .titleComing{
   font-size: 4vw;
 }
-
 .titleDate{
   font-size: 2.5vw;
 
 }
 
+.homeimg{
+  margin-top: -80px;
+}
 ul {
-  margin-left: 2vw;
   font-weight: 700;  
-  position: absolute;
   text-decoration: none;
 }
 
@@ -67,10 +69,13 @@ ul {
     
     
 } */
-
+.navF{
+  margin-top: 2vw; 
+  font-size: 20px;
+}
 .yellowBar {
     width: 100%;
-    height: 1vw;
+    height: 1em;
     background: #FFDB58;
 }
 
@@ -81,14 +86,14 @@ article{
 }
 
 .blog-post-title{
-  font-size: 6vw;
+  font-size: 5.5vw;
   font-weight: 700;
   background: rgba(141, 140, 141, 0.5);
   border-radius: 1vw;
   border: 0.1vw solid #FFDB58;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30vw;
+  margin-left: 0vw;
+  margin-right: 41vw;
+  width: auto;
   margin-bottom: 4vw;
 }
 
@@ -97,31 +102,37 @@ h2{
   font-weight: 600;
   margin: 2.5vw;
   margin-left: 0vw;
+  -webkit-text-underline-position: under;
+  -ms-text-underline-position: below;
+  text-underline-position: under; 
+  text-decoration-line: underline;
+  text-decoration-thickness: 0.1rem;
 }
 
 p{
   /* font-size: 1.7vw; */
   font-family: "Proxima Nova";
 font-style: normal;
-font-weight: normal;
-font-size: 20px;
-line-height: 20px;
+font-weight: 300;
+font-size: 25px;
+line-height: 25px;
 }
 
 @media screen and (max-width:767px) {
   h2{
-    font-size: 30px;
+    font-size: 9vw;
     font-weight: 600;
   margin: 2.5vw;
   margin-left: 0vw;
   }
   .blog-post-title{
-    font-size: 8vw;
+    font-size: 11vw;
     font-weight: 700;
     background: rgba(141, 140, 141, 0.5);
     border-radius: 1vw;
-    border: 0.1vw solid #FFDB58;
-    width: 30vw;
+    border: 0.5vw solid #FFDB58;
+    width: auto;
+    margin: auto;
     margin-bottom: 4vw;
   }
   .lead {
@@ -133,6 +144,9 @@ line-height: 20px;
     padding-bottom: 0vw;
     padding-left: 10vw
 }
+p{
+  font-size: 20px;
+}
 .comingSoon {
   align-items: center;
   display: flex;
@@ -140,6 +154,21 @@ line-height: 20px;
   margin-top: -40vw;
   margin-left: 28vw;
 }
+.navF{
+  margin-top: 2vw; 
+  font-size: 15px;
+}
+html,body{
+  overflow-x: hidden;
 }
 
-
+}
+@media only screen and (max-width:993px){
+  
+  .homeimg{
+    margin-top: 0;
+  }
+  #mainNavbar{
+    background-color: #092031;
+  }
+}

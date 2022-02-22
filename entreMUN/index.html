@@ -18,17 +18,17 @@
 
   <body>
     <div class="title">
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark" aria-label="Fourth navbar example"
+      <!-- <nav class="navbar navbar-expand-md navbar-dark bg-dark" aria-label="Fourth navbar example"
         style="position: absolute; margin-top: 2vw;--bs-bg-opacity: inherit;">
         <div class="container-fluid">
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample04"
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04"
             aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
 
           <div class="collapse navbar-collapse" id="navbarsExample04">
-            <ul class="navbar-nav me-auto mb-2 mb-md-0" style="margin-top: 2vw; font-size: 1.2vw;">
-              <li class=" nav-item">
+            <ul class="navbar-nav me-auto mb-2 mb-md-0 navF" >
+              <li class=" nav-item d-none d-lg-block">
                 <a class="nav-link" aria-current="page" href="#" style="color: white;">HOME</a>
               </li>
               <li class="nav-item">
@@ -44,27 +44,60 @@
                 <a class="nav-link" href="index.html#contact" style="color: white;">CONTACT</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="reg/index.html"><span class="badge rounded-pill bg-warning text-dark"
-                    style="padding: 0.7vw; background-color:#FFDB58 !important;">REGISTRATION</span></a>
+                <a class="nav-link" href="#"><span class="badge rounded-pill bg-warning text-dark"
+                    style="padding: 2px; background-color:#FFDB58 !important;">REGISTRATION</span></a>
               </li>
             </ul>
           </div>
         </div>
-      </nav>
+      </nav> -->
 
-      <img src=" images/Rectangle 1.png" class="img-fluid" alt="hero image" style="height: 55vw; width: 100vw;">
+      <nav id="mainNavbar" class="navbar navbar-dark navbar-expand-lg py-2 py-lg-0 sticky-top">
+        <a href="" class="navbar-brand">
+        <img class="d-none d-lg-block ml-3" src="" width="170px">
+        <img class="d-sm d-lg-none ml-3" src="" width="120px"></a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navLinks"
+          aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navLinks">
+          <ul class="navbar-nav ml-auto mb-2 mb-md-0 navF">
+            <li class=" nav-item d-none d-lg-block">
+              <a class="nav-link" aria-current="page" href="#" style="color: white;">HOME</a>
+            </li>
+            <li class="nav-item mx-auto">
+              <a class="nav-link" href="index.html#Abt" style="color: white;">ABOUT</a>
+            </li>
+            <li class="nav-item mx-auto">
+              <a class="nav-link" href="index.html#Council" style="color: white;">COUNCILS</a>
+            </li>
+            <li class="nav-item mx-auto">
+              <a class="nav-link" aria-current="page" href="index.html#event" style="color: white;">RESOURCES</a>
+            </li>
+            <li class="nav-item mx-auto">
+              <a class="nav-link" href="index.html#contact" style="color: white;">CONTACT</a>
+            </li>
+            <li class="nav-item mx-auto">
+              <a class="nav-link" href="reg/index.html"><span class="badge rounded-pill bg-warning"
+                  style="padding: 10px; background-color:#FFDB58 !important;color: #000;font-weight: 900;">REGISTRATION</span></a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  
+      <img src=" images/Rectangle 1.png" id="home" class="img-fluid homeimg" alt="hero image" style="height: 55vw; width: 100vw;">
 
 
       <div class="container-fluid">
         <div class="comingSoon">
           <div class="titleComing">Entre MUN</div>
           <div class="titleDate">9-10 April 2022</div>
-          <!-- <a class="nav-link" href="#" style="padding: 0px;"><span
-                    class="badge rounded-pill bg-warning text-dark" style="font-size: 1.3vw; padding: 0,8vw; background-color:#FFDB58 !important;">Register</span></a> -->
-          <a class="nav-link" href="reg/index.html"><span><button type="submit" class="btn btn-primary" onclick="handlesubmit()"
-                data-bs-dismiss="modal">
-                Register
-              </button></span></a>
+          <a class="nav-link" href="reg/index.html"><span class="badge rounded-pill bg-warning"
+            style="padding: 8px 20px ; background-color:#FFDB58 !important;color: #000;font-weight: 900;font-size: 2.2vw;">Register</span></a>
         </div>
 
       </div>
@@ -104,15 +137,11 @@
         <dic class="t">
           <h2><a href="#" style="color: white;">E-Cell</a></h2>
         </dic>
-        <p>E-Cell VNIT is the entrepreneurship cell of VNIT The very purpose of E-CEll is to foster a
-          community of
-          entrepreneurs and stimulate a constructive ecosystem for them. Throughout the year E-cell
-          organises events
-          which promtoes managerial value amongbudding students across the country.
+        <p>E-Cell VNIT is the entrepreneurship cell of VNIT The very purpose of E-CELL is to foster a community of entrepreneurs and stimulate a constructive ecosystem for them. Throughout the year E-cell organises events which promtoes managerial value amongbudding students across the country.
         </p>
 
         <h2><a href="#" style="color: white;">CEC Samvād</a></h2>
-        <p>CEC Samvād is the Debate and Discussion club along with being the Competitve Exam Club of
+        <p>Competitive Exam Club Samvād is the Debate and Discussion club along with being the Competitve Exam Club of
           VNIT. Having such a
           wide jurisdiction has allowed us to carefully curate and envision a platform that allows for
           students to
@@ -127,8 +156,8 @@
 
 
       </article>
-      <img src="images/img.png" class="img-fluid" alt="background image"
-        style="width: 50%; height: 50%; margin-left: 22vw;">
+      <img src="images/img2.png" class="img-fluid" alt="background image"
+        style="width: 70%; height: 70%; margin-left: 11vw;">
 
 
       <div id="event">
@@ -136,12 +165,12 @@
           <h1 class="text-center name">Event Timeline</h1>
           <hr>
         </div>
-        <div class="container">
+        <div class="container mx-auto" style="max-width: 80%;">
           <div class="row">
             <div class="main-timeline">
               <div class="timeline col-md-12">
                 <a href="" class="timeline-content">
-                  <p class="description">21st & 22nd February, 2022 <br> Launch of Entre MUN</p>
+                  <p class="description">22nd February, 2022 <br>Delegate Registrations goes live</p>
                 </a>
               </div>
               <div class="timeline col-md-12">
@@ -161,7 +190,7 @@
               </div>
               <div class="timeline col-md-12">
                 <a href="" class="timeline-content">
-                  <p class="description">8th & 9th April, 2022 <br> Entre-MUN</p>
+                  <p class="description">9th & 10th April, 2022 <br> Entre-MUN</p>
                 </a>
               </div>
 
@@ -175,25 +204,22 @@
           <hr>
         </div>
         <!--First row-->
-        <div class="row align-items-center">
+        <div class="row align-items-center mx-auto" style="max-width: 95%;">
           <div class="col-md-4 my-3 col-sm-12">
             <div class="card border-warning shadow p-3">
 
-              <img src="images/EU.png" alt="image" class="eu">
-              <h3 class="card-title text-center text-white fw-bolder">EU</h3>
-              <p class="card-text text-white">
+              <img src="images/EU.png" alt="image" class="UNimg">
+              <h3 class="card-title text-center text-white fw-bolder" style="margin-top:5px">EU</h3>
+              <p class="card-text text-center text-white">
                 <b>Agenda</b> - Regional Disparities of Development in EU.
               </p>
-              <!-- s -->
-
-
             </div>
           </div>
           <div class="col-md-4 my-3 col-sm-12">
             <div class="card border-warning shadow p-3">
               <img src="images/unoosa.png" alt="image" class="UNimg">
               <h3 class="card-title text-center text-white fw-bolder" style="margin-top:5px">UNOOSA</h3>
-              <p class="card-text text-white">
+              <p class="card-text text-center text-white">
                 <b>Agenda</b> -The formation of an extra terrestrial constitution.
               </p>
             </div>
@@ -203,25 +229,18 @@
 
               <img src="images/Lok Sabha.png" alt="image" class="UNimg">
               <h3 class="card-title text-center text-white fw-bolder" style="margin-top:5px">Lok Sabha</h3>
-              <p class="card-text text-white">
+              <p class="card-text text-center text-white">
                 <b>Agenda</b> - Essential Defense Services Bill.
               </p>
-              <!-- s -->
-
-
             </div>
           </div>
-        </div>
-      </div>
 
-      <!--Second row-->
-      <div class="row align-items-center">
         <div class="col-md-4 my-3 col-sm-12 ">
           <div class="card border-warning">
 
             <img src="images/UNGA.png" alt="image" class="UNimg">
             <h3 class="card-title text-center text-white fw-bolder" style="margin-top:5px">UNGA</h3>
-            <p class="card-text text-white" style="margin-left: 0.8rem;">
+            <p class="card-text text-center text-white px-2">
               <b>Agenda</b> - Framing of Charter for United Nations Entrepreneurship Commission.
             </p>
             <!-- s -->
@@ -234,13 +253,9 @@
 
             <img src="images/UNHRC.png" alt="image" class="UNimg">
             <h3 class="card-title text-center text-white fw-bolder" style="margin-top:5px">UNHRC</h3>
-            <p class="card-text text-white" style="margin-left: 1rem;">
+            <p class="card-text text-center text-white px-2">
               <b>Agenda</b> - The human rights issues around the world with a specific focus on Hong Kong.
             </p>
-
-            <!-- s -->
-
-
           </div>
         </div>
         <div class="col-md-4 my-3 col-sm-12">
@@ -248,11 +263,9 @@
 
             <img src="images/UNSC.jfif" alt="image" class="UNimg">
             <h3 class="card-title text-center text-white fw-bolder">UNSC</h3>
-            <p class="card-text text-white" style="margin-left: 2.25rem;">
+            <p class="card-text text-center text-white">
               <b>Agenda</b> - Ukraine Crisis.
             </p>
-
-
           </div>
         </div>
       </div>
@@ -267,8 +280,8 @@
           <div class="CN">
             <h3 class="text-white text-center"
               style="font-family: Proxima Nova; user-select: auto; margin-top: 1%; margin-bottom: 1.5%; font-size: 25px;">
-              Vibhash Rathi: +91 9421256442<br> Lorem Ipsum: +91 987654321 <br><br>
-              Email: MUN@vnit.ac.in</h3>
+              Siddhi: +91 9175950453<br> Lima: +91 9352086414 <br><br>
+              Email: events@ecellvnit.co.in</h3>
 
           </div>
           <form>
@@ -292,7 +305,7 @@
             </div>
 
 
-            <button type="submit" class="btn btn-default" onclick="handlesubmit()" data-bs-dismiss="modal">
+            <button type="submit" class="btn btn-default mb-5">
               Submit
             </button>
           </form>
@@ -302,9 +315,22 @@
 
 
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-      crossorigin="anonymous"></script>
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"
+    ></script>
+    <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"
+    ></script>
+    <script
+    src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+    integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"
+    ></script>
+    </div>
   </body>
 
 </html>

@@ -1,0 +1,12 @@
+body{
+    background: url('../images/bg-home.png');
+    background-size: cover;
+}
+.btndg{
+    text-decoration: none;
+    color: white;
+}
+.btndg:hover{
+    text-decoration: none;
+    color: white;
+}
