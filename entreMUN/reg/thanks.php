@@ -29,7 +29,7 @@ $name = $_SESSION['name'];
             <div class="row text-center box mx-auto" style="max-width: 95%;">
                
                 <div class="px-3 py-3 mx-3" style="color: #000;background-color: #fff;border-radius: 25px;width: 450px;max-width: 90%;">
-                  <?php echo "<h3 style=font-weight: 600 class=pt-4><b> Congratulations,</b>$name <br>Your registration is completed.</h3>";?><br>
+                  <?php echo "<h3 style=font-weight: 600 class=pt-4><b> Congratulations,</b>$name <br>Step 1 for the registration is complete. Kindly, proceed to the final step given below.</h3>";?><br>
                   <h5>Please proceed to payment.</h5>
                       <button class="btn btn-danger"><a class="btndg" href="https://rzp.io/l/YqJmuCyFyk">Pay Now</a>
                       </button>
