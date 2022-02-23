@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registration | CEO</title>
+    <title>Registration | WALLSTREET</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <!-- external css  -->
@@ -17,7 +17,7 @@
 <body>
     <div class="container d-flex justify-content-center pt-3 shadow-lg p-3 mb-5 rounded">
         <div class="row align-items-center">
-            <form class="p-4" method="post" action="ceoStore_details.php">
+            <form class="p-4" method="post" action="store_details.php">
                 <div class="card-heading text-center">
                     <h1 class="title pb-2">Registration</h1>
                     <hr>

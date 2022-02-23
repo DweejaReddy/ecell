@@ -24,7 +24,7 @@ Implement your best strategies and win the best profits.
                   </p>
                 <a href="register.php"><button class="btn btn3 px-3" style="font-size: 1.4vw;" >Register Now for Free</button></a>
                 <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button class="btn btn3 ml-2 my-2" style="font-size: 1.4vw;" >Brochure</button></a><br>
-                <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-5 mt-2">Last Date: 15th March</p></div>
+                <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-5 mt-2">Last Date: 25th March</p></div>
                   
                 <!-- <div class="col-12 col-md-5">
                     <div class="owl-carousel owl-theme pt-5" id="one">
@@ -83,7 +83,7 @@ Implement your best strategies and win the best profits.
                 <div class="text-center mt-3 px-5">
                     <a href="register.php" target="_blank"><button type="button" class="btn btn3 my-2 px-3" style="font-size: 3.7vw;">Register Now for Free</button></a>
                     <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button type="button" class="btn btn3 my-2 px-5" style="font-size: 3.7vw;">Brochure</button></a>
-                    <p style="color: rgb(160, 160, 160);font-size: 4.2vw;" class=" mt-2">Last Date: 15th March</p></div>
+                    <p style="color: rgb(160, 160, 160);font-size: 4.2vw;" class=" mt-2">Last Date: 25th March</p></div>
                 </div></div>
         </div>
     </section>

@@ -20,9 +20,9 @@ $college=mysqli_real_escape_string($conn, $_POST['college']);
 $course=mysqli_real_escape_string($conn, $_POST['course']);
 $year=mysqli_real_escape_string($conn, $_POST['year']);
 $_SESSION['name'] = $name;
-  $sql = "INSERT INTO ceo (name, email, phone, college, course, year) VALUES ('$name', '$email', '$phone','$college', '$course', '$year')";
+  $sql = "INSERT INTO cryptowin (name, email, phone, college, course, year) VALUES ('$name', '$email', '$phone','$college', '$course', '$year')";
    if ($conn->query($sql) === TRUE) {
-    header('LOCATION:https://forms.gle/fHt2a7PpPxBgxRQy6');
+    header('LOCATION:thanks.php');
   } else {
     echo "Error: " . $sql . "<br>" . $conn->error;
   } 

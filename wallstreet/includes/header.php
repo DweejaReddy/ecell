@@ -60,7 +60,7 @@
           </li>
         </ul>
         <li class="nav-item d-none d-lg-block">
-          <a class="btn btn-dark bg btn1 px-4" href="ceoReg.php" target="_blank" role="button">Register</a>
+          <a class="btn btn-dark bg btn1 px-4" href="register.php" target="_blank" role="button">Register</a>
         </li>
         <li class="nav-item d-none d-lg-block">
           <a class="btn btn-dark bg  btn2 mx-4 px-4" href="" target="_blank" role="button">Login</a>
