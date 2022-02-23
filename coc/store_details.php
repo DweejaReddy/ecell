@@ -7,7 +7,7 @@ if(isset($_POST['submit_form']))
 //  $password = "ecell123";
 //  $dbname = "eco21";
 
- $con = mysqli_connect("localhost","ias2020","ecell123","coc");
+ $con = mysqli_connect("localhost","ias2020","ecell123","conso22");
 // $conn = new mysqli($servername, $username, $password, $dbname);
 if ($con->connect_error){
     die("Connection failed: " . $con->connect_error);
@@ -24,14 +24,14 @@ $name2 = mysqli_real_escape_string($con, $_POST['name2']);
 $name3 = mysqli_real_escape_string($con, $_POST['name3']);
 $name4 = mysqli_real_escape_string($con, $_POST['name4']);
 $_SESSION['name'] = $name;
-$checkUser = "SELECT * FROM cocentries where email = '$email'";
+$checkUser = "SELECT * FROM coc where email = '$email'";
 $result = mysqli_query($con, $checkUser);
 $count = mysqli_num_rows($result);
 if($count>0){
     header('LOCATION:thanksmsg.php');   
 }
 else{
-  $sql = "INSERT INTO cocentries (name, email, college, year, phone, emergencyphone, size, name2, name3, name4) VALUES ('$name', '$email', '$college', '$year', '$phone', '$emergencyphone','$size','$name2','$name3', '$name4')";
+  $sql = "INSERT INTO coc (name, email, college, year, phone, emergencyphone, size, name2, name3, name4) VALUES ('$name', '$email', '$college', '$year', '$phone', '$emergencyphone','$size','$name2','$name3', '$name4')";
   if ($con->query($sql) === TRUE) {
    header('LOCATION:thanksmsg.php');
  } else {

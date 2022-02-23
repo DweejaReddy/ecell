@@ -21,7 +21,7 @@
         $servername = "localhost";
         $username = "ias2020";
         $password = "ecell123";
-        $dbname = "eco21";
+        $dbname = "conso22";
 
         $conn = mysqli_connect($servername, $username, $password, $dbname);
         
@@ -29,7 +29,7 @@
             die("Connection failed: " . mysqli_connect_error());
         }
 
-        $sql = "SELECT sno, name, email, phone, college, branch, year, q1, q2, q3 FROM ecoentries";
+        $sql = "SELECT sno, name, email, phone, college, branch, year, q1, q2, q3 FROM eco";
         $result = mysqli_query($conn, $sql);
         
     ?>

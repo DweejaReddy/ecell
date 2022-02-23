@@ -21,7 +21,7 @@
         $servername = "localhost";
         $username = "ias2020";
         $password = "ecell123";
-        $dbname = "coc";
+        $dbname = "conso22";
 
         $conn = mysqli_connect($servername, $username, $password, $dbname);
         
@@ -29,7 +29,7 @@
             die("Connection failed: " . mysqli_connect_error());
         }
 
-        $sql = "SELECT name, email, college, year, phone, emergencyphone, size, name2, name3, name4 FROM cocentries";
+        $sql = "SELECT name, email, college, year, phone, emergencyphone, size, name2, name3, name4 FROM coc";
         $result = mysqli_query($conn, $sql);
         $sno=1;
     ?>
