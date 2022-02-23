@@ -22,7 +22,7 @@ Implement your best strategies and win the best profits.
                 <!-- <p style="font-size: 1.2vw;" class="my-4">In this era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something unique. CEO is more than a competition; it’s a mission to decode future leaders; it’s a chance for students to show, test, and improve their leadership skills in a real-world setting. An event that provides a glimpse into the future, where excellent leadership is necessary for success, and where participants take risks and even thrive during the most challenging times. -->
 
                   </p>
-                <a href="ceoReg.php"><button class="btn btn3 px-3" style="font-size: 1.4vw;" >Register Now for Free</button></a>
+                <a href="register.php"><button class="btn btn3 px-3" style="font-size: 1.4vw;" >Register Now for Free</button></a>
                 <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button class="btn btn3 ml-2 my-2" style="font-size: 1.4vw;" >Brochure</button></a><br>
                 <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-5 mt-2">Last Date: 15th March</p></div>
                   
@@ -50,7 +50,7 @@ Implement your best strategies and win the best profits.
 
     <section class="d-block d-md-none my-5" id="home_mob">
         <div class="about row align-items-center py-4 mx-auto d-block d-lg-none">
-            <h1 class="text-center text-white mb-4"  style="font-weight: 900;font-size: 3.5rem;">CRYPTOWIN</h1>
+            <h1 class="text-center text-white mb-4"  style="font-weight: 900;font-size: 3rem;">CRYPTOWIN</h1>
             <div class="col-12 col-md-5">
                 <div class="owl-carousel owl-theme" id="two">
                 <!-- <div class="item">
@@ -81,13 +81,13 @@ Implement your best strategies and win the best profits.
 
                   </p>
                 <div class="text-center mt-3 px-5">
-                    <a href="ceoReg.php" target="_blank"><button type="button" class="btn btn3 my-2 px-3" style="font-size: 3.7vw;">Register Now for Free</button></a>
+                    <a href="register.php" target="_blank"><button type="button" class="btn btn3 my-2 px-3" style="font-size: 3.7vw;">Register Now for Free</button></a>
                     <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button type="button" class="btn btn3 my-2 px-5" style="font-size: 3.7vw;">Brochure</button></a>
                     <p style="color: rgb(160, 160, 160);font-size: 4.2vw;" class=" mt-2">Last Date: 15th March</p></div>
                 </div></div>
         </div>
     </section>
-    <section class="my-5 text-center " id="struct">
+    <!-- <section class="my-5 text-center " id="struct">
         <h1  style="font-weight: 900;font-size: 2.3rem;" class="text-white">EVENT STRUCTURE</h1>
         <div class="row align-items-center">
             <div class="col-1">
@@ -96,7 +96,6 @@ Implement your best strategies and win the best profits.
             <div class="col-7">
             <div class="struct my-4 py-4" >
                 <h4 class="text-left ml-3">QUALIFYING ROUND </h4>
-                    <!-- <br> -->
                     <p class="text-left ml-3">The qualifying round begins the moment you register, with the completion of a basic questionnaire covering corporate and financial topics. Keep in mind that you must submit your responses before we close registrations.
 Our experts will shortlist the contenders for the first round based on their critical thinking, decisiveness, business-related strategizing, and creative thinking.
                     
@@ -123,31 +122,34 @@ Our experts will shortlist the contenders for the first round based on their cri
         </div>
         </div>
         <span><img src="img/wireframe.png" alt="" width="1300px" style="position: relative;bottom: 1250px;z-index:-1;margin-bottom: -1280px;left: -10px;opacity: 0.7;"></span>
-    </section>
+    </section> -->
     
-    <!-- <section>
+    <section>
         <div class="text-center about mx-auto my-5 py-5" style="max-width: 80%;">
-            <h1  style="font-weight: 900;font-size: 2.3rem;color: #D5242A;">WHY PARTICIPATE?</h1>
+            <h1  style="font-weight: 900;font-size: 2.3rem;color: #D5242A;">EVENT STRUCTURE</h1>
             <ul class="text-center reason mx-auto">
                 <li class="py-4 container">
-                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                      Individual Event. 
                 </li>
                 <li class="py-2 container">
-                     Lorem Ipsum has been the industry's standard dummy text ever since the
+                A 4-day event where all the participants will be given a fixed amount of virtual money and they have to trade during the market hours.
+                </li>
+                <li class="py-2 container">
+                Participants will have to build their virtual portfolio and keep trading until the game ends.
                 </li>
                 <li class="py-4 container">
-                     1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived
+                Traders with the highest percentage gain win.
                 </li>
             </ul>
         </div>
-    </section> -->
-    <section class="d-none d-lg-block mx-auto text-center" style="max-width: 90%;" id="timeline">
+    </section>
+    <section class="d-none d-lg-block mx-auto text-center" id="timeline">
         <h1  style="font-weight: 900;font-size: 2.3rem;" class="text-white my-4">TIMELINE</h1>
         <div id="horizontal-timeline" class="timeline horizontal reverse">
             <div class="block">
               <div class="square up" data-aos="fade-down" data-aos-duration="2000">
-                <h3>REGISTRATION CUM QUALIFYING ROUND</h3>
-                <h4>17 Feb-15 March</h4>
+                <h3>REGISTRATION STARTS</h3>
+                <h4>24/25 th Feb, 2022</h4>
               </div>
               <div class="circle">
                 <p>1</p>
@@ -162,14 +164,14 @@ Our experts will shortlist the contenders for the first round based on their cri
               </div>
               <div class="link"></div>
               <div class="square down" data-aos="fade-up" data-aos-duration="2000">
-                <h3>WEBINAR FOR ROUND 1</h3>
-                <h4>19th March</h4>
+                <h3>REGISTRATION ENDS</h3>
+                <h4>25th March, 2022</h4>
               </div>
             </div>
             <div class="block">
               <div class="square up" data-aos="fade-down" data-aos-duration="2000">
-                <h3>ROUND 1: GROUP DISCUSSION</h3>
-                <h4>20th March</h4>
+                <h3>EVENT DATES</h3>
+                <h4>29th March - 1st April, 2022</h4>
               </div>
               <div class="circle">
                 <p>3</p>
@@ -184,35 +186,10 @@ Our experts will shortlist the contenders for the first round based on their cri
               </div>
               <div class="link"></div>
               <div class="square down" data-aos="fade-up" data-aos-duration="2000">
-                <h3>WORKSHOP</h3>
-                <h4>2nd April</h4>
+                <h3>RESULTS</h3>
+                <h4>10th April,2022</h4>
               </div>
             </div>
-          
-            <div class="block">
-              <div class="square up" data-aos="fade-down" data-aos-duration="2000">
-                <h3>ROUND 2: MARKETISTAAN</h3>
-                <h4>3rd April</h4>
-              </div>
-              <div class="circle">
-                <p>5</p>
-              </div>
-              <div class="link"></div>
-              <div class="square down blank"></div>
-            </div>
-
-            <div class="block">
-                <div class="square up blank"></div>
-                <div class="circle">
-                  <p>6</p>
-                </div>
-                <div class="link"></div>
-                <div class="square down" data-aos="fade-up" data-aos-duration="2000">
-                  <h3>ROUND 3: THE BOARDROOM DILEMMA</h3>
-                  <h4>9th April</h4>
-                </div>
-              </div>
-            
             <div id="end"></div>
           </div>
     </section>
@@ -222,8 +199,8 @@ Our experts will shortlist the contenders for the first round based on their cri
         <div id="vertical-timeline" class="timeline vertical">
             <div class="block">
               <div class="square right vert"data-aos="fade-right" data-aos-duration="2000" >
-                <h3>REGISTRATION CUM QUALIFYING ROUND</h3>
-                <h4>17 Feb-15 March</h4>
+              <h3>REGISTRATION STARTS</h3>
+                <h4>24/25 th Feb, 2022</h4>
               </div>
               <div class="circle" style="left: 27px;margin-left: -18px;">
                 <p>1</p>
@@ -239,15 +216,15 @@ Our experts will shortlist the contenders for the first round based on their cri
               </div>
               <div class="link"></div>
               <div class="square left vert" data-aos="fade-left" data-aos-duration="2000">
-                <h3>WEBINAR FOR ROUND 1</h3>
-                <h4>19th March</h4>
+              <h3>REGISTRATION ENDS</h3>
+              <h4>25th March, 2022</h4>
               </div>
             </div>
           
             <div class="block">
               <div class="square right vert" data-aos="fade-right" data-aos-duration="2000">
-                <h3>ROUND 1: GROUP DISCUSSION</h3>
-                <h4>20th March</h4>
+              <h3>EVENT DATES</h3>
+              <h4>29th March - 1st April, 2022</h4>
               </div>
               <div class="circle activated" style="left: 27px;margin-left: -18px;">
                 <p>3</p>
@@ -263,34 +240,12 @@ Our experts will shortlist the contenders for the first round based on their cri
               </div>
               <div class="link"></div>
               <div class="square left vert" data-aos="fade-left" data-aos-duration="2000">
-                <h3>WORKSHOP</h3>
-                <h4>2nd April</h4>
+              <h3>RESULTS</h3>
+                <h4>10th April,2022</h4>
               </div>
             </div>
           
-            <div class="block">
-              <div class="square right vert" data-aos="fade-right" data-aos-duration="2000">
-                <h3>ROUND 2: MARKETISTAAN</h3>
-                <h4>3rd April</h4>
-              </div>
-              <div class="circle" style="left: 27px;margin-left: -18px;">
-                <p>5</p>
-              </div>
-              <div class="link"></div>
-              <div class="square left blank"></div>
-            </div>
-
-            <div class="block">
-                <div class="square right blank"></div>
-                <div class="circle" style="left: 27px;margin-left: -18px;">
-                  <p>6</p>
-                </div>
-                <div class="link"></div>
-                <div class="square left vert" data-aos="fade-left" data-aos-duration="2000">
-                  <h3>ROUND 3: THE BOARDROOM DILEMMA</h3>
-                  <h4>9th April</h4>
-                </div>
-              </div>
+            
             <div id="end"></div>
           </div>
     </section>
