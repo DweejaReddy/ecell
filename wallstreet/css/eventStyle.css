@@ -40,7 +40,7 @@ e:after {
   list-style-type: none;
 }
 .reason li::before {
-  content: "⚪"; 
+  content: "🔴"; 
   font-size: 0.8rem;
   margin-right: 10px; 
 }
