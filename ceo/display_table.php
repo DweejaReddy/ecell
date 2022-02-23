@@ -29,7 +29,7 @@
             die("Connection failed: " . mysqli_connect_error());
         }
 
-        $sql = "SELECT id, teamName, name, email, phone FROM suc";
+        $sql = "SELECT sno, name, email, phone, college, course, year FROM ceo";
         $result = mysqli_query($conn, $sql);
         
     ?>
@@ -38,10 +38,12 @@
         <thead class="thead-dark">
             <tr>
                 <th scope="col">Index</th>
-                <th scope="col">Team Name</th>
                 <th scope="col">Name</th>
-                <th scope="col">Email </th>
-                <th scope="col">Contact</th>
+                <th scope="col">Email</th>
+                <th scope="col">Contact Details</th>
+                <th scope="col">College</th>
+                <th scope="col">Course</th>
+                <th scope="col">Year</th>
             </tr>
         </thead>
         <?php
@@ -49,11 +51,13 @@
         ?>
         <tbody>
             <tr>
-                <td><?php echo $row["id"]; ?></td>
-                <td><?php echo $row["teamName"]; ?></td>
+                <td><?php echo $row["sno"]; ?></td>
                 <td><?php echo $row["name"]; ?></td>
                 <td><?php echo $row["email"]; ?></td>
                 <td><?php echo $row["phone"]; ?></td>
+                <td><?php echo $row["college"]; ?></td>
+                <td><?php echo $row["course"]; ?></td>
+                <td><?php echo $row["year"]; ?></td>
             </tr>
         </tbody>
         <?php endwhile; ?>

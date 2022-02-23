@@ -11,7 +11,7 @@ if(isset($_POST['submit_row']))
  $servername = "localhost";
  $username = "ias2020";
  $password = "ecell123";
- $dbname = "suc21";
+ $dbname = "conso22";
 
 
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -33,7 +33,7 @@ $vari=0;
     // echo $age[$i];
     // echo $job[$i];
     $_SESSION['leader_email'] = $email[0];
-   $sql = "INSERT INTO responses (teamName, name, phone, email) VALUES ('$teamName' , '$name[$i]', '$phone[$i]', '$email[$i]' )";
+   $sql = "INSERT INTO suc (teamName, name, phone, email) VALUES ('$teamName' , '$name[$i]', '$phone[$i]', '$email[$i]' )";
    if ($conn->query($sql) === TRUE) {
     if($vari==0){
         header('LOCATION:thanks.php');
