@@ -7,71 +7,47 @@
 <link rel="stylesheet" href="css/eventStyle.css">
 <body>
 <hr style="border-top: 1px solid #fff;opacity: 0.8;margin-top: 3px;" class="mt-2">
-    <section class="d-none d-md-block my-5" id="home">
+<section class="d-none d-md-block my-5" id="home">
         <div class="about row align-items-center py-4 mx-auto" style="max-width: 80%;">
             
     
             <div class="col-12 col-md-5 text-white ml-4 pt-4">
-                <h1  style="font-weight: 900;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 4.5rem;" data-aos="fade-down" data-aos-duration="2000">CRYPTOWIN</h1>
+                <h1  style="font-weight: 900;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 3.5rem;" data-aos="fade-down" data-aos-duration="2000">CRYPTOWIN</h1>
                 <!-- <h5  style="font-weight: 500;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 1.3rem;" data-aos="fade-right" data-aos-duration="2000">UNCOVER THE FUTURE LEADERS</h5> -->
                 <p style="color: #D5242A;font-size: 1.4vw;">Win the challenge with the best Trades. <br>
 Implement your best strategies and win the best profits.
-
 
                 </p>
                 <!-- <p style="font-size: 1.2vw;" class="my-4">In this era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something unique. CEO is more than a competition; it’s a mission to decode future leaders; it’s a chance for students to show, test, and improve their leadership skills in a real-world setting. An event that provides a glimpse into the future, where excellent leadership is necessary for success, and where participants take risks and even thrive during the most challenging times. -->
 
                   </p>
                 <a href="register.php"><button class="btn btn3 px-3" style="font-size: 1.4vw;" >Register Now for Free</button></a>
-                <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button class="btn btn3 ml-2 my-2" style="font-size: 1.4vw;" >Brochure</button></a><br>
-                <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-5 mt-2">Last Date: 25th March</p></div>
+                <a href="https://drive.google.com/file/d/1SLUwZswbAIa03vSYpRfaZp2GPVpnTH_Y/view" target="_blank"><button class="btn btn3 ml-2 my-2" style="font-size: 1.4vw;" >Brochure</button></a><br>
+                <!-- <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button class="btn btn3 ml-2 my-2" style="font-size: 1.4vw;" >Brochure</button></a><br> -->
+                <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-5 mt-2">Last Date: 1st April</p></div>
                   
-                <!-- <div class="col-12 col-md-5">
+                <div class="col-12 col-md-5">
                     <div class="owl-carousel owl-theme pt-5" id="one">
                         <div class="item">
-                            <img src="img/ceo1.jpeg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="img/ceo2.jpeg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="img/ceo3.jpeg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="img/ceo4.jpeg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="img/ceo5.jpeg" alt="">
+                            <img src="img/crypto poster 1.png" alt="">
                         </div>
                     </div>
-                </div> -->
+                </div>
         </div>
     </section>
 
     <section class="d-block d-md-none my-5" id="home_mob">
-        <div class="about row align-items-center py-4 mx-auto d-block d-lg-none">
+    <div class="about row align-items-center py-4 mx-auto d-block d-lg-none">
             <h1 class="text-center text-white mb-4"  style="font-weight: 900;font-size: 3rem;">CRYPTOWIN</h1>
             <div class="col-12 col-md-5">
                 <div class="owl-carousel owl-theme" id="two">
-                <!-- <div class="item">
-                            <img src="img/ceo1.jpeg" alt="">
+                <div class="item">
+                            <img src="img/crypto poster 1.png" alt="">
                         </div>
-                        <div class="item">
-                            <img src="img/ceo2.jpeg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="img/ceo3.jpeg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="img/ceo4.jpeg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="img/ceo5.jpeg" alt="">
-                        </div>
-                </div> -->
+                </div>
             </div>
     
-            <div class="col-12 col-md-5 text-white text-center">
+            <div class="col-12 col-md-5 text-white text-center pt-3">
                 <!-- <h6  style="font-weight: 500;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 4.5vw;" class="mt-4">UNCOVER THE FUTURE LEADERS</h6> -->
                 <p style="color: #D5242A;font-size: 3.7vw;">Win the challenge with the best Trades. <br>
 Implement your best strategies and win the best profits.
@@ -82,11 +58,25 @@ Implement your best strategies and win the best profits.
                   </p>
                 <div class="text-center mt-3 px-5">
                     <a href="register.php" target="_blank"><button type="button" class="btn btn3 my-2 px-3" style="font-size: 3.7vw;">Register Now for Free</button></a>
-                    <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button type="button" class="btn btn3 my-2 px-5" style="font-size: 3.7vw;">Brochure</button></a>
-                    <p style="color: rgb(160, 160, 160);font-size: 4.2vw;" class=" mt-2">Last Date: 25th March</p></div>
+                    <a href="https://drive.google.com/file/d/1SLUwZswbAIa03vSYpRfaZp2GPVpnTH_Y/view" target="_blank"><button type="button" class="btn btn3 my-2 px-5" style="font-size: 3.7vw;">Brochure</button></a>
+                    <!-- <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button type="button" class="btn btn3 my-2 px-5" style="font-size: 3.7vw;">Brochure</button></a> -->
+                    <p style="color: rgb(160, 160, 160);font-size: 4.2vw;" class=" mt-2">Last Date: 1st April</p></div>
                 </div></div>
         </div>
     </section>
+
+
+
+
+
+
+
+
+
+
+
+
+    
     <!-- <section class="my-5 text-center " id="struct">
         <h1  style="font-weight: 900;font-size: 2.3rem;" class="text-white">EVENT STRUCTURE</h1>
         <div class="row align-items-center">
@@ -149,7 +139,7 @@ Our experts will shortlist the contenders for the first round based on their cri
             <div class="block">
               <div class="square up" data-aos="fade-down" data-aos-duration="2000">
                 <h3>REGISTRATION STARTS</h3>
-                <h4>24/25 th Feb, 2022</h4>
+                <h4>5 th March, 2022</h4>
               </div>
               <div class="circle">
                 <p>1</p>
@@ -200,7 +190,7 @@ Our experts will shortlist the contenders for the first round based on their cri
             <div class="block">
               <div class="square right vert"data-aos="fade-right" data-aos-duration="2000" >
               <h3>REGISTRATION STARTS</h3>
-                <h4>24/25 th Feb, 2022</h4>
+                <h4>5 th March, 2022</h4>
               </div>
               <div class="circle" style="left: 27px;margin-left: -18px;">
                 <p>1</p>
@@ -249,6 +239,15 @@ Our experts will shortlist the contenders for the first round based on their cri
             <div id="end"></div>
           </div>
     </section>
+
+    <section id="sponsors" class="text-center my-5">
+      <h1  style="font-weight: 900;font-size: 2.3rem;color: #D5242A;">PLATFORM PATRNER</h1>
+
+      <div class="row align-items-center container1 text-center mx-auto" style="max-width: 85%;">
+        <div class="col-12 col-md-6 col-lg-4 card mx-4 align-items-center" data-aos="fade-up" data-aos-duration="2000">
+          <img class="my-auto" style="max-width: 70%;" src="img/roostoo.jpeg" alt="" width="204px">
+        </div>
+</div>
 
     <section>
         <div class="text-center about cont text-white mx-auto my-5 py-5" style="max-width: 80%;" id="managers">
