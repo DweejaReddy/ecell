@@ -24,7 +24,7 @@ Implement your best strategies and win the best profits.
                 <a href="register.php"><button class="btn btn3 px-3" style="font-size: 1.4vw;" >Register Now for Free</button></a>
                 <a href="https://drive.google.com/file/d/1SLUwZswbAIa03vSYpRfaZp2GPVpnTH_Y/view" target="_blank"><button class="btn btn3 ml-2 my-2" style="font-size: 1.4vw;" >Brochure</button></a><br>
                 <!-- <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button class="btn btn3 ml-2 my-2" style="font-size: 1.4vw;" >Brochure</button></a><br> -->
-                <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-5 mt-2">Last Date: 1st April</p></div>
+                <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-6 mt-2">Last Date: 1st April</p></div>
                   
                 <div class="col-12 col-md-5">
                     <div class="owl-carousel owl-theme pt-5" id="one">
