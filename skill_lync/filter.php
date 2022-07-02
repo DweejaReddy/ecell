@@ -7,7 +7,7 @@ require('fpdf.php');
 
 // to store the connection
 // $con = mysqli_connect($server, $username, $password, $dbname);
-$con = mysqli_connect("localhost","root","","skilllync");
+$con = mysqli_connect("localhost","ias2020","ecell123","skilllync");
 
 // to check whether the db is connected or not
 if (!$con) {
