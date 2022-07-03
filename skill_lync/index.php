@@ -17,7 +17,7 @@
     </header>
     <div class="group text-center text-white">
       <img src="ecell.png" width="20%" class="ecell" alt="logo">
-        <h3 class="mt-3" style="color: #0083FF;font-weight: 700;font-size: 1.5rem;">Download your participation certificate</h3>
+        <h3 class="mt-3" style="color: #0083FF;font-weight: 700;font-size: 1.5rem;">Download your Full Stack Development Workshop Participation certificate</h3>
     <main class="text-center my-3 text-white">
       <form method="post" action="filter.php">
         <label for="name">Enter Your Name</label><br>

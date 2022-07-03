@@ -37,7 +37,7 @@
         <div class="container d-flex align-items-center justify-content-center min-vh-100">
             <div class="row text-center text">
                 <div class="text my-4" style="color:white;">
-                  <?php echo "<h4>Dear Student,<br>Please<span style=color:#0083FF> verify your registered mobile number</span> you have entered.<br>If you have <span style=color:#0083FF>successfully</span> attended the Skill-Lync Full Stack Web Development workshop of E-CELL, VNIT and still not able to get your certificate, mail your query at <a style=color:#0083FF;text-decoration:none href=mailto:neo.pr.ecellvnit@gmail.com> contact@ecellvnit.org</a><br><br>Do visit E-CELL, VNIT website for regular updates";?><br><br>
+                  <?php echo "<h4>Dear Student,<br>Please<span style=color:#0083FF> verify your registered mobile number</span> you have entered.<br>If you have <span style=color:#0083FF>successfully</span> attended the Skill-Lync Full Stack Web Development workshop of E-CELL, VNIT and still not able to get your certificate, mail your query at <a style=color:#0083FF;text-decoration:none href=mailto:vnitecell.contact@gmail.com> vnitecell.contact@gmail.com</a><br><br>Do visit E-CELL, VNIT website for regular updates";?><br><br>
                   <a href="https://www.ecellvnit.org/" target="_blank"> 
               <button class="btn btnth">Visit E-CELL Website</button></a><br><br>
               
