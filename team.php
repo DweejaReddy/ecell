@@ -63,10 +63,11 @@
         <!-- Speakers -->
         <div class="container g-padding-y-80--xs g-padding-y-125--sm">
             <div class="row g-overflow--hidden">
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/bhatt-sir.jpeg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);"  src="img/400x400/bhatt-sir.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
                             <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Dr. S. S. Bhat</p>
@@ -75,13 +76,29 @@
                     </div>
                     <!-- End Speaker -->
                 </div>
-                <div class="col-xs-6 g-full-width--xs">
+                <div class="col-xs-4 g-full-width--xs">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/taiwade-sir.jpeg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);"  src="img/400x400/taiwade-sir.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
                             <p class="g-font-size-22--xs g-font-size-22--sm g-font-weight--700 g-margin-b-0--xs">Dr. R. V. Taiwade</p>
+                            <p class="g-font-weight--700">Professor Incharge</p>
+                        </div>
+                    </div>
+                    <!-- End Speaker -->
+                </div>
+
+
+            <div class="col-xs-4 g-full-width--xs">
+                    <!-- Speaker -->
+                    <div class="center-block g-width-300--xs">
+                        <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);"  src="img/400x400/karthik sir.png" alt="Image">
+                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
+
+                            <p class="g-font-size-22--xs g-font-size-20--sm g-font-weight--700 g-margin-b-0--xs">Dr. Karthik Balasundaram</p>
                             <p class="g-font-weight--700">Professor Incharge</p>
                         </div>
                     </div>
@@ -92,157 +109,139 @@
 
 
             <div class="row g-overflow--hidden">
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Archis.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Bhargav.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
 
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/archis-bodkhe-655824160" class="link">Archis Bodkhe <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" class="link">Bhargav Choudhury <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">President</p>
-                            <p>+91 97676 07235</p>
-                        </div>
-                    </div>
-                    <!-- End Speaker -->
-                </div>
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
-                    <!-- Speaker -->
-                    <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Kanishka.jpg" alt="Image">
-                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
-
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/kanishka-meena-50a4a317a" class="link">Kanishka Meena <i class="ti-linkedin"></i></a></p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Vice President</p>
-                            <p>+91 93257 14868</p>
-                        </div>
-                    </div>
-                    <!-- End Speaker -->
-                </div>
-
-            </div>
-
-            <div class="row g-overflow--hidden">
-
-                <div class="col-xs-12 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
-                    <!-- Speaker -->
-                    <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Bhargav.jpg" alt="Image">
-                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
-
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197" class="link">Bhargav Choudhury <i class="ti-linkedin"></i></a></p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Treasurer</p>
                             <p>+91 63761 28630<br>bhargavchoudhury071@gmail.com</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
                 </div>
-
-            </div>
-
-
-
-            <div class="row g-overflow--hidden">
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Nikita.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Rajat.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/nikita-lohiya-4b21161a1" class="link">Nikita Lohiya <i class="ti-linkedin"></i></a></p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Head of Corporate Relations</p>
-                            <p>+91 83908 63006<br>lohiyanikita01@gmail.com</p>
-                        </div>
-                    </div>
-                    <!-- End Speaker -->
-                </div>
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
-                    <!-- Speaker -->
-                    <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Rajat.jpg" alt="Image">
-                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
-
-                          <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/rajat-patni-9508211a0" class="link">Rajat Patni <i class="ti-linkedin"></i></a></p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Head Of Corporate Relations</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/kanishka-meena-50a4a317a" class="link">Rajat Patni <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Vice President</p>
                             <p>+91 70280 81122<br>rajat.s.patni@gmail.com</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
                 </div>
-
-
-            </div>
-
-            <div class="row g-overflow--hidden">
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Bhavishya.jpg" alt="Image">
+                        <img class="img-responsive " style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Atharva Balpande.png" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/bhavishya-jain-212051196" class="link">Bhavishya Jain <i class="ti-linkedin"></i></a></p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Head Of Events and Planning</p>
-                            <p>+91 91306 12265<br>bhavishyajn7@gmail.com</p>
+
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/atharva-balpande-59105b218/" class="link">Atharva Balpande <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Treasurer</p>
+                            <p>+91 84461 03465<br>atharvabalpande07@gmail.com</p>
+                        </div>
+                    </div>
+                    <!-- End Speaker -->
+                </div>
+                
+
+            </div>
+            <div class="row g-overflow--hidden">
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                    <!-- Speaker -->
+                    <div class="center-block g-width-300--xs">
+                        <img class="img-responsive " style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Harsh Kaabra.jpeg" alt="Image">
+                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
+
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/harsh-kaabra-4641221b9/" class="link">Harsh Kaabra <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Head of Corporate Communications</p>
+                            <p>+91 76202 16041<br>harshkaabra@gmail.com</p>
+                        </div>
+                    </div>
+                    <!-- End Speaker -->
+                </div>
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                    <!-- Speaker -->
+                    <div class="center-block g-width-300--xs">
+                        <img class="img-responsive" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Vaishnavi Kench.png" alt="Image">
+                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
+
+                          <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/vaishnavi-kench-a9651b211/" class="link">Vaishnavi Kench <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Head Of Corporate Communications</p>
+                            <p>+91 93596 30766<br>vaishnavikench5@gmail.com</p>
+                        </div>
+                    </div>
+                    <!-- End Speaker -->
+                </div>
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                    <!-- Speaker -->
+                    <div class="center-block g-width-300--xs">
+                        <img class="img-responsive" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Nikhil Khanwani.jpg" alt="Image">
+                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
+
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/nikhil-khanwani-3a33471ba/" class="link">Nikhil Khanwaniy <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Head of Corporate Communications</p>
+                            <p>+91 6260 911 167<br>nk.nikhilkhanwani@gmail.com</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
                 </div>
 
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+            </div>
+            
+
+            <div class="row g-overflow--hidden">
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Tanvi.jpg" alt="Image">
+                        <img class="img-responsive " style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Akanksha Dudhe.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/tanvi-khurana-1149651b4/" class="link">Tanvi Khurana <i class="ti-linkedin"></i></a></p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Head Of Events and Planning</p>
-                            <p>+91 77578 20308<br>tksagi1212@gmail.com</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/akanksha-dudhe-600444205/" class="link">Akanksha Dudhe <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Head of Brand Development</p>
+                            <p>+91 72182 221890<br>atdudhe29@gmail.com</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
                 </div>
-
-
-            </div>
-
-            <!-- <div class="row g-overflow--hidden">
-                <div class="col-xs-12 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
-                    Speaker
-                    <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Ritika.jpeg" alt="Image">
-                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/ritika-meena-bb7839168/" class="link">Ritika Meena <i class="ti-linkedin"></i></a></p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Head Of Planning & Marketing</p>
-                            <p>+91 96991 73231<br>ritikameena17dec@gmail.com</p>
-                        </div>
-                    </div>
-                    End Speaker
-                </div>
-            </div> -->
-
-            <div class="row g-overflow--hidden">
-
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Vanshika.jpg" alt="Image">
+                        <img class="img-responsive" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Rohit Chouhan.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/vanshikagupta-" class="link">Vanshika Gupta <i class="ti-linkedin"></i></a></p>
+
+                          <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/rohit-chouhan-9a4a95213/" class="link">Rohit Chouhan <i class="ti-linkedin"></i></a></p>
                             <p class="g-font-weight--700" style="margin-bottom:0">Head Of Brand Development</p>
-                            <p>+91 91668 45041<br>vg11072001@gmail.com</p>
+                            <p>+91 90212 55966<br>rohitgone123@gmail.co</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
                 </div>
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Siddhesh.jpg" alt="Image">
+                        <img class="img-responsive" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Dweeja Reddy.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/siddhesh-dumbre-b7aa76195/" class="link">Siddhesh Dumbre <i class="ti-linkedin"></i></a></p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Head Of Brand Development</p>
-                            <p>+91 70579 97990<br>sdumbre07@gmail.com</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/dweeja-reddy-devi-b12508204/" class="link">Dweeja Reddy <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Head of Technical Affairs</p>
+                            <p>+91 83175 67940<br>dweeja54@gmail.com</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
@@ -251,29 +250,45 @@
             </div>
 
             <div class="row g-overflow--hidden">
-
-              <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
-                  <!-- Speaker -->
-                  <div class="center-block g-width-300--xs">
-                      <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Prasen.jpg" alt="Image">
-                      <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
-
-                          <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/prasen-kumar-b19b541b3/" class="link">Prasen Kumar <i class="ti-linkedin"></i></a></p>
-                          <p class="g-font-weight--700" style="margin-bottom:0">Head Of Operations</p>
-                          <p>+91 62653 46554<br>prasenk05@gmail.com</p>
-                      </div>
-                  </div>
-                  <!-- End Speaker -->
-              </div>
-
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Mehul.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Tanmay Nagrale.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/mehul-madne-932446191" class="link">Mehul Madne <i class="ti-linkedin"></i></a></p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Head Of Operations</p>
-                            <p>+91 93076 27987<br>mmadne1999@gmail.com</p>
+
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/tanmay-nagrale-6b38b7205/" class="link">Tanmay Nagrale <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Head Of Events and Planning</p>
+                            <p>+91 91461 88972<br>nagraletanmay123@gmail.com</p>
+                        </div>
+                    </div>
+                    <!-- End Speaker -->
+                </div>
+
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                    <!-- Speaker -->
+                    <div class="center-block g-width-300--xs">
+                        <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Tanishqa Mishra.jpg" alt="Image">
+                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
+
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/tanishqa-mishra-406ab5209/" class="link">Tanishqa Mishra <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Head Of Events and Planning</p>
+                            <p>+91 91797 13005<br>tanishqam30@gmail.com</p>
+                        </div>
+                    </div>
+                    <!-- End Speaker -->
+                </div>
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                    <!-- Speaker -->
+                    <div class="center-block g-width-300--xs">
+                        <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Priyanshu Singh.jpg" alt="Image">
+                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
+
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/priyanshu-singh-480405214/" class="link">Priyanshu Singh <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Head of Public Relations</p>
+                            <p>+91 99204 79815<br>thisispriyanshu2001@gmail.com</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
@@ -283,64 +298,51 @@
             </div>
 
             <div class="row g-overflow--hidden">
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Deepak.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Mitali Khodke.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
-
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/deepak-patil-156390176/" class="link">Deepak Patil <i class="ti-linkedin"></i></a></p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Technical Head </p>
-                            <p>+91 84850 95752<br>patildeep2000@gmail.com</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/mitali-khodke-63408220b/" class="link">Mitali Khodke <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Head of Public Relations</p>
+                            <p>+91 93095 76732<br>mitalikhodke@gmail.com</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
                 </div>
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Niharika.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Atharv Borkute.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/niharika-madke-5879721b4" class="link">Niharika Madke <i class="ti-linkedin"></i></a></p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Technical Head </p>
-                            <p>+91 97265 94357<br>niharikamadke@gmail.com</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/atharv-borkute-5a396620b/" class="link">Atharv Borkute <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Head of Operations</p>
+                            <p>+91 80106 10772<br>borkuteatharva@gmail.com</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
                 </div>
-            </div>
-
-
-            <div class="row g-overflow--hidden">
-
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Snehal.jpg" alt="Image">
-                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/snehal-patil-10b08a1a7" class="link">Snehal Patil <i class="ti-linkedin"></i></a></p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Head Of Public Relations</p>
-                            <p>+91 94231 32631<br>snehalpatil1801@gmail.com</p>
-                        </div>
-                    </div>
-                    <!-- End Speaker -->
-                </div>
-                <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
-                    <!-- Speaker -->
-                    <div class="center-block g-width-300--xs">
-                        <img class="img-responsive g-width-100-percent--xs core" src="img/400x400/Jay.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/Kushagra Upadhyaya.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
 
-                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/jay-chheda-8739a0192/" class="link">Jay Chheda <i class="ti-linkedin"></i></a></p>
-                            <p class="g-font-weight--700" style="margin-bottom:0">Head Of Public Relations</p>
-                            <p>+91 98700 36145<br>jaychheda2410@gmail.com</p>
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/kushagra-upadhyaya-967b7220a/" class="link">Kushagra Upadhyaya <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Head of Operations</p>
+                            <p>+91 94147 41300<br>kushagraupa5@gmail.com</p>
                         </div>
                     </div>
                     <!-- End Speaker -->
                 </div>
 
             </div>
+
 
             <!--<div class="row g-overflow--hidden">-->
 
