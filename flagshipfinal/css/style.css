@@ -1,0 +1,88 @@
+body{
+    overflow-x: hidden;
+    font-family: 'Montserrat', 'sans-serif';
+    background-image: url('../img/Vector6.png');
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+/* header */
+#mainNavbar {
+    font-size: 1rem;
+    font-weight: 400;
+    background-color: rgba(0,0,0,0);
+  }
+.sticky-top {
+transition: background 0.5s;
+}
+#mainNavbar .nav-link {
+padding: 1rem 1.5rem;
+color: #000;
+font-weight: 500;
+}
+#mainNavbar .nav-link:hover{
+    color: #FF4200;
+}
+#mainNavbar .nav-item a img {
+display: none;
+}
+#mainNavbar .nav-item:hover a img {
+display: inline;
+}
+
+
+.flagship-text{
+    color: #FF4200;
+    font-weight: 800;
+    font-size: 3rem;
+    line-height: 96px;
+
+}
+.para-head{
+    font-weight: 600;
+}
+.para-text{
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #101010;
+}
+.btn{
+    background-color: #FF4200;
+    color: #fff;
+    
+}
+.heading{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.coming-soon{
+    font-size: 6rem;
+    color: #FF4200;
+    font-weight: 600;
+
+}
+.form-control{
+    border: 1px solid #FF4200;
+    color: #000;
+    border-radius: 8px;
+    background-color: rgba(255, 66, 0, 0.07);;
+}
+.down-arrows{
+    margin-right: 10vw;
+    margin-top: -50px;
+}
+.up-arrows{
+    margin-left: 10vw;
+    margin-top: -100px;
+}
+@media screen and (max-width:992px){
+    .up-arrows{
+        margin-left: 0vw;
+    }
+    .down-arrows{
+        margin-right: 0vw;
+    }
+    .coming-soon{
+        font-size: 3rem;
+    }
+ }

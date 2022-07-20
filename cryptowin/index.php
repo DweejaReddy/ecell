@@ -23,10 +23,13 @@ Implement your best strategies and win the best profits.
                   </p>
                 <a href="register.php"><button class="btn btn3 px-3" style="font-size: 1.4vw;" >Register Now for Free</button></a>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 <a href="https://drive.google.com/file/d/1SLUwZswbAIa03vSYpRfaZp2GPVpnTH_Y/view" target="_blank"><button class="btn btn3 ml-2 my-2" style="font-size: 1.4vw;" >Brochure</button></a><br>
                 <!-- <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button class="btn btn3 ml-2 my-2" style="font-size: 1.4vw;" >Brochure</button></a><br> -->
                 <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-6 mt-2">Last Date: 1st April</p></div>
 =======
+=======
+>>>>>>> Stashed changes
                 <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button class="btn btn3 ml-2 my-2" style="font-size: 1.4vw;" >Brochure</button></a><br>
                 <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-5 mt-2">Last Date: 15th March</p></div>
 >>>>>>> Stashed changes
@@ -46,6 +49,9 @@ Implement your best strategies and win the best profits.
     <div class="about row align-items-center py-4 mx-auto d-block d-lg-none">
 =======
         <div class="about row align-items-center py-4 mx-auto d-block d-lg-none">
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             <h1 class="text-center text-white mb-4"  style="font-weight: 900;font-size: 3rem;">CRYPTOWIN</h1>
             <div class="col-12 col-md-5">
@@ -68,6 +74,7 @@ Implement your best strategies and win the best profits.
                 <div class="text-center mt-3 px-5">
                     <a href="register.php" target="_blank"><button type="button" class="btn btn3 my-2 px-3" style="font-size: 3.7vw;">Register Now for Free</button></a>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                     <a href="https://drive.google.com/file/d/1SLUwZswbAIa03vSYpRfaZp2GPVpnTH_Y/view" target="_blank"><button type="button" class="btn btn3 my-2 px-5" style="font-size: 3.7vw;">Brochure</button></a>
                     <!-- <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button type="button" class="btn btn3 my-2 px-5" style="font-size: 3.7vw;">Brochure</button></a> -->
                     <p style="color: rgb(160, 160, 160);font-size: 4.2vw;" class=" mt-2">Last Date: 1st April</p></div>
@@ -88,11 +95,16 @@ Implement your best strategies and win the best profits.
 
     
 =======
+=======
+>>>>>>> Stashed changes
                     <a href="https://drive.google.com/file/d/16gdF-f04rbMDK5ogoHDiRiUc4BrlMtTS/view?usp=sharing" target="_blank"><button type="button" class="btn btn3 my-2 px-5" style="font-size: 3.7vw;">Brochure</button></a>
                     <p style="color: rgb(160, 160, 160);font-size: 4.2vw;" class=" mt-2">Last Date: 15th March</p></div>
                 </div></div>
         </div>
     </section>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     <!-- <section class="my-5 text-center " id="struct">
         <h1  style="font-weight: 900;font-size: 2.3rem;" class="text-white">EVENT STRUCTURE</h1>
@@ -138,11 +150,19 @@ Our experts will shortlist the contenders for the first round based on their cri
                 <li class="py-4 container">
                       Individual Event. 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 </li>
                 <li class="py-2 container">
                 A 4-day event where all the participants will be given a fixed amount of virtual money and they have to trade during the market hours.
                 </li>
                 <li class="py-2 container">
+=======
+                </li>
+                <li class="py-2 container">
+                A 4-day event where all the participants will be given a fixed amount of virtual money and they have to trade during the market hours.
+                </li>
+                <li class="py-2 container">
+>>>>>>> Stashed changes
 =======
                 </li>
                 <li class="py-2 container">
@@ -165,7 +185,11 @@ Our experts will shortlist the contenders for the first round based on their cri
               <div class="square up" data-aos="fade-down" data-aos-duration="2000">
                 <h3>REGISTRATION STARTS</h3>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 <h4>5 th March, 2022</h4>
+=======
+                <h4>24/25 th Feb, 2022</h4>
+>>>>>>> Stashed changes
 =======
                 <h4>24/25 th Feb, 2022</h4>
 >>>>>>> Stashed changes
@@ -220,7 +244,11 @@ Our experts will shortlist the contenders for the first round based on their cri
               <div class="square right vert"data-aos="fade-right" data-aos-duration="2000" >
               <h3>REGISTRATION STARTS</h3>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 <h4>5 th March, 2022</h4>
+=======
+                <h4>24/25 th Feb, 2022</h4>
+>>>>>>> Stashed changes
 =======
                 <h4>24/25 th Feb, 2022</h4>
 >>>>>>> Stashed changes
