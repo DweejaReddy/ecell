@@ -120,10 +120,15 @@
     <div class="container-fluid text-center mt-5">
       <div class="heading mt-3 mb-5">Speakers <span style="color: #FF4200;">Flagship ❛22</span></div>
       <div class="row">
-      <div class="col-12 mb-5">
-        <img src="img/Aman sir.JPG" style="border: 7px solid #FF4200;border-radius: 50%;" height="250px" width="250px" alt="">
+      <div class="col-12 col-md-6 mb-5">
+        <img src="img/Aman sir.jpg" style="border: 7px solid #FF4200;border-radius: 50%;" height="250px" width="250px" alt="">
         <p class="mt-3" style="color: #FF4200;font-size: 1.3rem;font-weight: 500;">Aman Dhattarwal</p>
         <p class="mb-5" style="font-size: 1rem;font-weight: 500;">Founder, Apni Kaksha & Apna College</p>
+      </div>
+      <div class="col-12 col-md-6 mb-5">
+        <img src="img/AnilSwarup.jpg" style="border: 7px solid #FF4200;border-radius: 50%;" height="250px" width="250px" alt="">
+        <p class="mt-3" style="color: #FF4200;font-size: 1.3rem;font-weight: 500;">Anil Swarup</p>
+        <p class="mb-5" style="font-size: 1rem;font-weight: 500;">Former IAS Officer, Former Coal Secretary, Govt. of India</p>
       </div>
       </div>
     </div>
