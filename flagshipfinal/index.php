@@ -130,6 +130,11 @@
         <p class="mt-3" style="color: #FF4200;font-size: 1.3rem;font-weight: 500;">Anil Swarup</p>
         <p class="mb-5" style="font-size: 1rem;font-weight: 500;">Former IAS Officer, Former Coal Secretary, Govt. of India</p>
       </div>
+      <div class="col-12 mb-5">
+        <img src="img/Shefali.png" style="border: 7px solid #FF4200;border-radius: 50%;" height="250px" width="250px" alt="">
+        <p class="mt-3" style="color: #FF4200;font-size: 1.3rem;font-weight: 500;">Shefali Vijaywargiya</p>
+        <p class="mb-5" style="font-size: 1rem;font-weight: 500;">Brand Manager, Amul | Forbes India 30 Under 30</p>
+      </div>
       </div>
     </div>
     </div>
