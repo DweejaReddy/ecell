@@ -56,7 +56,7 @@
             <a class="nav-link" href="https://www.ecellvnit.org/team.php">TEAM</a>
           </li>
           <li class="nav-item mx-auto">
-            <a class="nav-link" href="https://www.ecellvnit.org/spons.php">SPONSORS</a>
+            <a class="nav-link" href="sponsors.php">SPONSORS</a>
           </li>
           <li class="nav-item mx-auto">
             <a class="nav-link" href="#contact">CONTACT US</a>
