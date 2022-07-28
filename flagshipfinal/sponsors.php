@@ -91,16 +91,16 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item mx-auto d-none d-md-block">
-            <a class="nav-link" aria-current="page" href="#home">HOME</a>
+            <a class="nav-link" aria-current="page" href="index.php#home">HOME</a>
           </li>
           <li class="nav-item mx-auto d-block d-md-none">
-            <a class="nav-link" aria-current="page" href="#home_mob">HOME</a>
+            <a class="nav-link" aria-current="page" href="index.php#home_mob">HOME</a>
           </li>
           <li class="nav-item mx-auto d-block d-md-none">
-            <a class="nav-link" aria-current="page" href="#about">ABOUT</a>
+            <a class="nav-link" aria-current="page" href="index.php#about">ABOUT</a>
           </li>
           <li class="nav-item mx-auto">
-            <a class="nav-link" href="#speakers">FLAGSHIP'22</a>
+            <a class="nav-link" href="index.php#speakers">FLAGSHIP'22</a>
           </li>
           <li class="nav-item mx-auto">
             <a class="nav-link" href="https://www.ecellvnit.org/team.php">TEAM</a>
@@ -109,7 +109,7 @@
             <a class="nav-link" href="sponsors.php">SPONSORS</a>
           </li>
           <li class="nav-item mx-auto">
-            <a class="nav-link" href="#contact">CONTACT US</a>
+            <a class="nav-link" href="index.php#contact">CONTACT US</a>
           </li>
         </ul>
       </div>
