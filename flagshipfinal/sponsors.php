@@ -36,7 +36,7 @@
       background: url(images/faq_bg1.png) repeat center right fixed;
       background-size: cover;
       background-color: #171717;
-      font-family: "Lato";
+      font-family: 'Montserrat', 'sans-serif';
       overflow-x: hidden;
     }
     .card img {
