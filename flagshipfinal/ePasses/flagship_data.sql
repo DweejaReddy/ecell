@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Jul 29, 2022 at 02:04 PM
+-- Generation Time: Jul 29, 2022 at 02:12 PM
 -- Server version: 10.5.16-MariaDB
 -- PHP Version: 7.4.29
 
@@ -1253,7 +1253,12 @@ INSERT INTO `flagship_data` (`sno`, `name`, `email`, `contact`, `college`) VALUE
 (1209, 'Naveena Mothukuri', 'mnaveena111@gmail.com', '9346349575', 'Visvesvaraya National Institute of Technology, Nagpur'),
 (1210, 'ATHARVA NITIN GAURKHEDE', 'ATHARVA20703@GMAIL.COM', '0817 799 8264', 'GH raisoni college of engineering '),
 (1211, 'Jyoti Sharma ', 'jyotis8390@gmail.com', '8669736380', 'Dharampeth Science College '),
-(1212, 'Madhur Indani', 'mithil00013@gmail.com', '7278787673', 'All india institute of medical sciences, nagpur');
+(1212, 'Madhur Indani', 'mithil00013@gmail.com', '7278787673', 'All india institute of medical sciences, nagpur'),
+(1213, 'Abhishek kumar ', 'abhi911964@gmail.com', '6387494281', 'VNIT NAGPUR'),
+(1214, 'Subhasree Tewary', 'subhasreetewary115@gmail.com', '9167581831', 'Visvesvaraya National Institute Of Technology'),
+(1215, 'Tanvi Vijay Chavan', 'tvc12092002@gmail.com', '8805719150', 'Visvesvaraya National Institute of Technology'),
+(1216, 'Chinmay badwaik', 'chinmaybadwaik9@gmail.com', '07387699647', 'Gh Raisoni College of Commerce & Technology'),
+(1217, 'Tejaswini jadhav', 'tejaswinijadhav4june@gmail.com', '8380063023', 'VNIT, NAGPUR ');
 
 --
 -- Indexes for dumped tables
@@ -1273,7 +1278,7 @@ ALTER TABLE `flagship_data`
 -- AUTO_INCREMENT for table `flagship_data`
 --
 ALTER TABLE `flagship_data`
-  MODIFY `sno` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1213;
+  MODIFY `sno` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1218;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
