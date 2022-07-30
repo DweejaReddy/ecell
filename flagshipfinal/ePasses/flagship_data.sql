@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Jul 30, 2022 at 12:03 PM
+-- Generation Time: Jul 30, 2022 at 12:24 PM
 -- Server version: 10.5.16-MariaDB
 -- PHP Version: 7.4.29
 
@@ -2067,7 +2067,52 @@ INSERT INTO `flagship_data` (`sno`, `name`, `email`, `contact`, `college`) VALUE
 (2022, 'Aniket H. Pataihe', 'pataihea@gmail.com', '7066465445', 'College of agriculture nagpur'),
 (2023, 'Nupur Patil', 'patilnupur006@gmail.com', '9763148238', 'IIT HOME'),
 (2024, 'Abhijeet Konar ', 'abhijeetkonar03@gmail.com', '9665053466', 'YCCE'),
-(2025, 'Abhijeet ', 'abhijeetsahu937@gmail.com', '9922509022', 'YCCE');
+(2025, 'Abhijeet ', 'abhijeetsahu937@gmail.com', '9922509022', 'YCCE'),
+(2026, 'Mangesh', 'bwanjari77@gmail.com', '7057015440', 'Shri jayantrao wanjari juniors college'),
+(2027, 'NAUDIT KHUMRAJ BISEN', 'NAUDITBISEN64@GMAIL.COM', '8766540797', 'Pce ngp'),
+(2028, 'Saurav Uikey', 'sauravuikey6@gmail.com', '7378377898', 'DMPSMS Nagpur'),
+(2029, 'Sakshi Arun Dudhe ', 'sakshidudhe21@gmail.com', '8605982344', 'yeshwantrao chawan college of engineering '),
+(2030, 'Atharva bobade', 'atharvabobade044@gmail.com', '7558365794', 'Ambedkar college Nagpur '),
+(2031, 'Richal meshram', 'richalmeshram2@gmail.com', '9356970651', 'Priyadarshini college engineering'),
+(2032, 'Gitesh Sunil Raut', 'giteshraut23@gmail.com', '7709506762', 'None'),
+(2033, 'KUNAL DEWANGAN', 'kunaldewangan1001@gmail.com', '8964860478', 'Shri Ramdeo Baba college of Engineering and Management'),
+(2034, 'Ansh Asati', 'anshasati934@gmail.com', '9422731075', 'Ramdeobaba college of engineering and management'),
+(2035, 'Gyan ranjan ', 'gyanranjan721@gmail.com', '6206321593', 'National fire service college nagpur '),
+(2036, 'Akash Gupta', 'akash808166@gmail.com', '8081667519', 'VNIT Nagpur'),
+(2037, 'Omkar wagh ', 'lileshwarwagh@gmail.com', '+91 76663 96471', 'G H Raisoni college of engineering nagpur '),
+(2038, 'Abhishek kumar', 'abh81304@gmail.com', '8651846871', 'National Fire service college, Nagpur'),
+(2039, 'Himanshu Mohan Bankar', 'himanshubankar34@gmail.com', '8652380150 ', 'VNIT NAGPUR'),
+(2040, 'Mrunali Dhoke', 'prajwalzodape6@gmail.com', '7517527142', 'Yashwantrao chavhan college of engineering '),
+(2041, 'Manas soman', 'manas04soman@gmail.com', '09370884289', 'Kv vsn nagpur'),
+(2042, 'Debananda pradhan', 'devrdxzaka@gmail.com', '8260812012', 'Vetenary collage nagpur '),
+(2043, 'Harsh Agarkar', 'browncertain8@gmail.com', '+91 9511296735', 'Priyadarshi Bhagwati'),
+(2044, 'Hitanshu dadhich', 'luckydadhich02@gmail.com', '8949122605', 'Ycce'),
+(2045, 'Akash Gedam', 'gedam6912@gmail.com', '9172322367', 'VNIT'),
+(2046, 'Sonal gajbhiye', 'gajbhiyesonal294@gmail.com', '9325403712', 'Govindrao wanjari college of engineering and technology'),
+(2047, 'Girish kedar', 'billionaireentity@gmail.com', '7389468468', 'Girish kedar'),
+(2048, 'VIVEK KUMAR', 'vk4895167@gmail.com', '9685084230', 'ICMAI KOLKATA '),
+(2049, 'Hardik Pravin Nerkar ', 'nerkarhardik640@gmail.com', '9404332677', 'Priyadarshini college of engineering nagpur '),
+(2050, 'Akshat Upadhyay ', 'akshatupadhyay790@gmail.com', '9579625679', 'Dy Patil pune '),
+(2051, 'Anuj fadnavis', 'anujfadnavis04@gmail.com', '8767664896', 'Mount litera Zee school '),
+(2052, 'AKASH PRAKASH GHITRE ', 'akashghitre07@gmail.com', '9921718806', 'Rajesh bhaiyya tope college of pharmacy '),
+(2053, 'Zeenat Sheikh', 'zeenatsheikh1508@gmail.com', '7796346356', 'Shri Ramdev Baba College of Engineering and Management'),
+(2054, 'Prafful shivshankar shahu', 'ashwinsshahu321@gmail.com', '8530829807', 'Sindhu mahavidyalaya '),
+(2055, 'Tejas Ganesh Chaudhari ', 'tejaschaudhari8007@gmail.com', '9011340287', 'VNIT NAGPUR (B.Arch)'),
+(2056, 'Dhiraj Kumar Sah', '2002dhirajsah@gmail.com', '9309951747', 'GS college of commerce and economics '),
+(2057, 'Harshkumar Ghodmare ', 'harshghodmare19@gmail.com', '9561609518', 'Priyadarshini,Hinga'),
+(2058, 'Soham Dange', 'sohamdange@students.vnit.ac.in', '8805292561', 'VNIT ,NAGPUR'),
+(2059, 'samir zade', 'samirzadeofficial@gmail.com', '9021808113', 'G H Raisoni college of engineering, Nagpur'),
+(2060, 'Anurag Belsare ', 'anuragabelsare.ee@kdkce.edu.in', '8329004464', 'KDKCE, NANDANVAN NAGPUR '),
+(2061, 'Preet singh', 'preetkumarsingh0812@gmail.com', '9822700804', 'Preet singh'),
+(2062, 'Sanket Rajendra Bhavsar ', 'sanketbhavsar604@gmail.com', '8956029985', 'Visveswaraya National Institute of technology '),
+(2063, 'Om Ashok Sharma', 'aumsharma2001@gmail.com', '+918208032725', 'Shri Ramdeobaba College of Engineering and Management'),
+(2064, 'Naincy Pande ', 'naincyrpande@gmail.com', '9158494481', 'Yeshwantrao Chavhan College of Engineering '),
+(2065, 'Kothapalli yaswanth', 'christopheryaswanth@gmail.com', '9398444847', 'vnit'),
+(2066, 'Rajat Paigwar ', 'rajatpaigwar6@gmail.com', '9022616490', 'Yashwantrao chavhan college of engineering '),
+(2067, 'Sumedh Bhagat', 'sumedhbhagat05@gmail.com', '9356858076', 'Y.C.C.E'),
+(2068, 'Kamesh Goundhare ', 'kameshrg275@gmail.com', '9284920076', 'Yeshwantrao Chavhan College of engineering nagpur'),
+(2069, 'ROHIT RAJPAL', 'rajpalsunil7@gmail.com', '9850698512', 'S.k Porwal '),
+(2070, 'Sahil Asnani', 'asnanisahil0@gmail.com', '8668308383', 'Visvesvaraya National institute of technology');
 
 --
 -- Indexes for dumped tables
@@ -2087,7 +2132,7 @@ ALTER TABLE `flagship_data`
 -- AUTO_INCREMENT for table `flagship_data`
 --
 ALTER TABLE `flagship_data`
-  MODIFY `sno` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2026;
+  MODIFY `sno` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2071;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
