@@ -75,7 +75,8 @@
           <div class="para-text">The Entrepreneurship Cell, VNIT presents Flagship, its inaugural event of the year. <br><br>
             Flagship connects the youth to experienced speakers to help them achieve their purpose by sharing their stories of hustle and perseverance and the lessons they learned on their path to glory, providing them the required direction to increase the productivity of work & the inspiration to never give up in their journey.
             </div>
-            <a class="btn px-5 mt-4 mb-4 my-3 rounded-pill" href="#register">Register Now</a>
+            <!-- <a class="btn px-5 mt-4 mb-4 my-3 rounded-pill" href="#register">Register Now</a> -->
+            <div style="font-size: 1.5rem;color: #FF4200;font-weight: 700;" class="mt-4">Registrations are closed for Flagship'22</div>
         </div>
 
         <div class="" ><a href="#speakers"><img src="img/Arrow 3.png" style="transform: rotate(180deg);top: 70vh;position: absolute;left: 50vw;z-index: 4;" alt=""></a></div>
@@ -85,7 +86,7 @@
          </div>
         
       </div>
-      <div class=""><img src="img/Vector3.png" style="width: 100vw;margin-left: -15px;margin-top: 70px;top:100vw" alt=""></div>
+      <div class=""><img src="img/Vector3.png" style="width: 100vw;margin-left: -15px;margin-top: 10%;" alt=""></div>
       
     </div>
   </section>
@@ -95,8 +96,9 @@
     <div class="container-fluid">
       <div>
         <img src="img/home_mob.png" alt="">
-        <div style="color: #000;font-size: 1.8rem;font-weight: 800;margin-top: -170px;margin-left: 60px;">FLAGSHIP ❛22</div>
-        <a class="btn px-5 mt-4 mb-4 my-3 rounded-pill" style="margin-top: -130px;margin-left: 65px;" href="#register">Register Now</a>
+        <div style="color: #000;font-size: 1.8rem;font-weight: 800;margin-top: -180px;margin-left: 60px;">FLAGSHIP ❛22</div>
+        <!-- <a class="btn px-5 mt-4 mb-4 my-3 rounded-pill" style="margin-top: -130px;margin-left: 65px;" href="#register">Register Now</a> -->
+        <div style="font-size: 1.5rem;color: #FF4200;font-weight: 700;width: 70%;margin-left: 5rem;margin-top: -0.5rem;">Registrations are closed for Flagship'22</div>
       
       </div>
     </div>
@@ -112,7 +114,7 @@
   </section>
 
 
-  <div class="mt-5 " style="transform: rotate(180deg);margin-right: 15vw;"><img src="img/Arrow 3.png" alt=""></div>
+  <div class="mt-5" style="transform: rotate(180deg);margin-right: 15vw;"><img src="img/Arrow 3.png" alt=""></div>
   <div class="down-arrows" style="transform: rotate(180deg);"><img src="img/Arrow 2.png" alt=""></div>
 
   
@@ -176,7 +178,7 @@
   <div style="margin-left: 15vw;"><img src="img/Arrow 3.png" alt=""></div>
   <div class="up-arrows"><img src="img/Arrow 2.png" alt=""></div>
 
-  <section id="register" style="background-color: rgba(255, 66, 0, 0.07);">
+  <!-- <section id="register" style="background-color: rgba(255, 66, 0, 0.07);">
     <div class="container-fluid text-center">
     <div class="heading mt-3 my-4 pt-5">Register <span style="color: #FF4200;">Now</span></div>
     <form action="store_details.php" class="p-4" method="post">
@@ -199,7 +201,7 @@
         </center>
     </form>
   </div>
-  </section>
+  </section> -->
 
 
   <section id="contact" style="background-color: #1c1c1c;">
