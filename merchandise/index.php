@@ -12,7 +12,7 @@
 
     <section id="home" class="d-none d-md-block">
     <img src="img/home.png" style="width: 100vw;margin-top: -12vw;">
-    <img class=" home_shirt" src="img/website tshirt image 1.png">
+    <img class=" home_shirt" src="img/combine.png">
     <a class="btn btn2" href="register.php" target="_blank" role="button">BUY NOW</a>
 </section>
 
@@ -20,7 +20,7 @@
     <div class="merch text-center" style="margin-top: -8vw;opacity: 0.25;-webkit-text-stroke-width: 0.1vw;">MERCHANDISE</div>
     <div class="merch text-center" style="margin-top: -10vw;opacity: 0.5;-webkit-text-stroke-width: 0.1vw;">MERCHANDISE</div>
     <div class="merch text-center" style="margin-top: -10vw;color: #fff;">MERCHANDISE</div>
-    <img class=" home_mob_shirt" style="margin-top: -10vw;" src="img/website tshirt image 1.png">
+    <img class=" home_mob_shirt" style="margin-top: -10vw;" src="img/combine.png">
     <a class="btn btn2_mob text-center" href="register.php" target="_blank" role="button">BUY NOW</a>
     <img style="margin-top: -10vw;margin-left: 20vw;" src="img/group.png" alt="">
 </section>
@@ -28,11 +28,11 @@
 <section class="container bg my-5 py-5 text-center align-items-center mx-auto" style="max-width: 85vw;">
     <div class="row align-items-center mx-auto">
         <div class="col-lg-6 col-12 my-4">
-            <img class="front px-xl-5" src="img/Tshirt_front.png" alt="">
+            <img class="front px-xl-5" src="img/Tshirt_Frontside.png" alt="">
             <h4 class="text-center text-white sub my-4">FRONT</h4>
         </div>
         <div class="col-lg-6 col-12 my-4">
-            <img class="back px-xl-5" src="img/Tshirt-back complete(with name) 1.png" alt="">
+            <img class="back px-xl-5" src="img/Tshirt_Backside.png" alt="">
             <h4 class="text-center text-white sub my-4">BACK</h4>
         </div>
        
@@ -42,7 +42,7 @@
     </div>
 </section>
 
-<section class="container my-5 text-center align-items-center mx-auto">
+<!-- <section class="container my-5 text-center align-items-center mx-auto">
     <h4 class="heading d-block d-lg-none">OFFICIAL E-CELL MERCHANDISE</h4>
     <div class="row align-items-center">
         <div class="col-12 col-lg-6 my-4">
@@ -61,8 +61,7 @@
                 <span class="sizes text-lg-left mr-1" style="padding: 10px 15px;">XL</span>
                 <span class="sizes text-lg-left mr-1" style="padding: 10px 10px;">2XL</span>
                 <span class="sizes text-lg-left mr-1" style="padding: 10px 10px;">3XL</span>
-                <!-- <span class="sizes text-lg-left mr-1" style="padding: 10px 10px;">4XL</span> -->
-            </div>
+                </div>
             <div class="row align-items-center d-flex justify-content-center d-lg-none" style="color: #919191;">
                 <div class="col-3">
                     <span class="sizes mx-auto" style="padding: 10px 19px;">S</span>
@@ -84,18 +83,15 @@
                 <div class="col-3 mt-4 mx-auto">
                     <span class="sizes" style="padding: 10px 11px;">3XL</span>
                 </div>
-                <!-- <div class="col-3 mt-4 mx-auto">
-                    <span class="sizes" style="padding: 10px 13px;">4XL</span>
-                </div> -->
             </div>
             <div class="col-md-12 text-xl-left my-5 ml-xl-3">
                 <a href="register.php" target="_blank"><button type="button" class="btn text-white btn3">BUY NOW</button></a>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
-<section class="container bg my-5 py-5 text-center align-items-center mx-auto">
+<!-- <section class="container bg my-5 py-5 text-center align-items-center mx-auto">
     <div class="row align-items-center mx-auto">
         <div class="col-lg-6 col-12 my-4">
             <img class="mask" src="img/mask.png" alt="">
@@ -103,7 +99,7 @@
         <div class="col-lg-6 col-12 my-4">
             <div class="group"></div>
             <div class="text-xl-left free">FREE</div>
-            <div class="text-xl-left para">1 MASK WITH EACH PURCHASE</div>
+            <div class="text-xl-left para">2 MASKS WITH EACH PURCHASE</div>
         </div>
     </div>
 </section>
@@ -124,11 +120,23 @@
             <a href="register.php" target="_blank"><button type="button" class="btn text-white btn3">BUY NOW</button></a>
         </div>
     </div>
-</section>
+</section> -->
 
 <section class="container align-items-center my-5">
     <h1 class="heading my-2 text-center">Size Chart</h1>
-    <img style="margin: auto;" width="100%" src="img/sizeChartNew.jpeg" alt="">
+    <img style="margin: 0 auto;" width="100%" src="img/chart.png" alt="">
 </section>
+
+<script>
+            const scriptURL = 'https://script.google.com/macros/s/AKfycbzXlW-T95TlI-WD0gqG3LrjmRVbeGPwGxkrpJ7iV84deWG_tIymu-5iFW-Mivrs1_QS/exec'
+            const form = document.forms['MERCHANDISE-2023']
+          
+            form.addEventListener('submit', e => {
+              e.preventDefault()
+              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
+                .catch(error => console.error('Error!', error.message))
+            })
+          </script>
 </body>
 </html>
