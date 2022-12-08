@@ -59,7 +59,7 @@
         <div class="container d-flex align-items-center justify-content-center min-vh-100">
             <div class="row text-center">
                 <div class="" style="color:white;">
-                  <?php echo "<h4>You have successfully booked your free T-shirt. Visit Auditorium Foyer to collect your T-shirt after verification.</h4>";?><br>
+                  <?php echo "<h4>Keep checking your email for confirmation of registration and offline document verification slot.</h4>";?><br>
                 </div>
             </div>
             <!-- <br> -->

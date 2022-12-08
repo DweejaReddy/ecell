@@ -159,8 +159,8 @@ label {
   </fieldset>
   <fieldset>
     <div class="form-group my-4">
-    <label for="date">Choose a Date for pickup: *</label>
-    <select name="date" class="form-control rounded-pill" id="date" required>
+    <label for="date1">Select a Date for offline verification: * (Preference 1)</label>
+    <select name="date1" class="form-control rounded-pill" id="date1" required>
         <div class="btn btn-light">
         <option class="option" value="">--Choose one option below--</option>
         <option class="option" value="9 Dec">9 Dec</option>
@@ -170,8 +170,8 @@ label {
         </select>   
 </div>
     <div class="form-group my-4">
-    <label for="time">Choose a time on picked date: *</label>
-    <select name="time" class="form-control rounded-pill" id="time" required>
+    <label for="time1">Select a time for offline verification on picked date: * (Preference 1)</label>
+    <select name="time1" class="form-control rounded-pill" id="time1" required>
         <div class="btn btn-light">
         <option class="option" value="">--Choose one option below--</option>
         <option class="option" value="9am - 10am">9am - 10am</option>
@@ -186,6 +186,36 @@ label {
         <option class="option" value="6pm - 7pm">6pm - 7pm</option>
         </select>   
     </div>
+
+    <div class="form-group my-4">
+      <label for="date2">Select a Date for offline verification: * (Preference 2)</label>
+      <select name="date2" class="form-control rounded-pill" id="date2" required>
+          <div class="btn btn-light">
+          <option class="option" value="">--Choose one option below--</option>
+          <option class="option" value="9 Dec">9 Dec</option>
+          <option class="option" value="10 Dec">10 Dec</option>
+          <option class="option" value="11 Dec">11 Dec</option>
+          <option class="option" value="12 Dec">12 Dec</option>
+          </select>   
+  </div>
+      <div class="form-group my-4">
+      <label for="time2">Select a time for offline verification on picked date: * (Preference 2)</label>
+      <select name="time2" class="form-control rounded-pill" id="time2" required>
+          <div class="btn btn-light">
+          <option class="option" value="">--Choose one option below--</option>
+          <option class="option" value="9am - 10am">9am - 10am</option>
+          <option class="option" value="10am - 11am">10am - 11am</option>
+          <option class="option" value="11am - 12pm">11am - 12pm</option>
+          <option class="option" value="12pm - 1pm">12pm - 1pm</option>
+          <option class="option" value="1pm - 2pm">1pm - 2pm</option>
+          <option class="option" value="2pm - 3pm">2pm - 3pm</option>
+          <option class="option" value="3pm - 4pm">3pm - 4pm</option>
+          <option class="option" value="4pm - 5pm">4pm - 5pm</option>
+          <option class="option" value="5pm - 6pm">5pm - 6pm</option>
+          <option class="option" value="6pm - 7pm">6pm - 7pm</option>
+          </select>   
+      </div>
+  
 
 
     <p style="color: #0072FF;" class="mx-4">* Disclaimer: Filling this form doesn't ensure a free Merchandise and Zerodha account. Proper verification will be there. All the eligible candidates will be contacted through email after document verification.</p>
