@@ -1,22 +1,3 @@
-<?php
-
-session_start();
-// include('mailing.php');
-
-
-// $name = $_POST["name"];
-$name = $_SESSION['Name'];
-$date = $_SESSION['date'];
-$time = $_SESSION['time'];
-// $name = $_SESSION['name1'];
-// $sub = "Welcome To C-Suites";
-// $teamname = "";
-// $event = "";
-
-//htmlMail($to_email, $sub, $name, $teamname, $event );
-?>
-
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -78,7 +59,7 @@ $time = $_SESSION['time'];
         <div class="container d-flex align-items-center justify-content-center min-vh-100">
             <div class="row text-center">
                 <div class="" style="color:white;">
-                  <?php echo "<h4>You have successfully booked your free T-shirt, $name. Visit Auditorium Foyer on <span style=color:#0275d8>$date</span> during <span style=color:#0275d8>$time</span> to collect your T-shirt after verification.</h4>";?><br>
+                  <?php echo "<h4>You have successfully booked your free T-shirt. Visit Auditorium Foyer to collect your T-shirt after verification.</h4>";?><br>
                 </div>
             </div>
             <!-- <br> -->
