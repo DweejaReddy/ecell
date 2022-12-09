@@ -159,6 +159,16 @@ label {
   </fieldset>
   <fieldset>
     <div class="form-group my-4">
+      <label for="vtype">Select a type of verification:</label>
+      <select name="vtype" class="form-control rounded-pill vtype" id="vtype" required>
+          <div class="btn btn-light">
+          <option class="option" value="">--Choose one option below--</option>
+          <option class="option" value="Online">Online</option>
+          <option class="option" value="Offline">Offline</option>
+          </select>   
+  </div>
+  <div id="hidden1">
+    <div class="form-group my-4">
     <label for="date1">Select a Date for offline verification: * (Preference 1)</label>
     <select name="date1" class="form-control rounded-pill" id="date1" required>
         <div class="btn btn-light">
@@ -216,7 +226,7 @@ label {
           </select>   
       </div>
   
-
+    </div>
 
     <p style="color: #0072FF;" class="mx-4">* Disclaimer: Filling this form doesn't ensure a free Merchandise and Zerodha account. Proper verification will be there. All the eligible candidates will be contacted through email after document verification.</p>
     <input type="button" name="previous" class="previous btn btn-primary" value="Previous" />
@@ -267,6 +277,20 @@ label {
                 .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
                 .catch(error => console.error('Error!', error.message))
             })
+
+  </script>
+
+  <script>
+    let hidingEl = document.getElementById('hidden1');
+    $('.vtype').change(function(){
+            var response = $(this).val();
+            if(response == "Online"){
+              hidingEl.style.display = 'none';
+            }
+            else if(response == "Offline"){
+              hidingEl.style.display = 'block';
+            }
+        });
 
   </script>
 </body>
