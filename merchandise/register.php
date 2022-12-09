@@ -170,7 +170,7 @@ label {
   <div id="hidden1">
     <div class="form-group my-4">
     <label for="date1">Select a Date for offline verification: * (Preference 1)</label>
-    <select name="date1" class="form-control rounded-pill" id="date1" required>
+    <select name="date1" class="form-control rounded-pill" id="date1" >
         <div class="btn btn-light">
         <option class="option" value="">--Choose one option below--</option>
         <option class="option" value="9 Dec">9 Dec</option>
@@ -181,7 +181,7 @@ label {
 </div>
     <div class="form-group my-4">
     <label for="time1">Select a time for offline verification on picked date: * (Preference 1)</label>
-    <select name="time1" class="form-control rounded-pill" id="time1" required>
+    <select name="time1" class="form-control rounded-pill" id="time1">
         <div class="btn btn-light">
         <option class="option" value="">--Choose one option below--</option>
         <option class="option" value="9am - 10am">9am - 10am</option>
@@ -199,7 +199,7 @@ label {
 
     <div class="form-group my-4">
       <label for="date2">Select a Date for offline verification: * (Preference 2)</label>
-      <select name="date2" class="form-control rounded-pill" id="date2" required>
+      <select name="date2" class="form-control rounded-pill" id="date2">
           <div class="btn btn-light">
           <option class="option" value="">--Choose one option below--</option>
           <option class="option" value="9 Dec">9 Dec</option>
@@ -210,7 +210,7 @@ label {
   </div>
       <div class="form-group my-4">
       <label for="time2">Select a time for offline verification on picked date: * (Preference 2)</label>
-      <select name="time2" class="form-control rounded-pill" id="time2" required>
+      <select name="time2" class="form-control rounded-pill" id="time2">
           <div class="btn btn-light">
           <option class="option" value="">--Choose one option below--</option>
           <option class="option" value="9am - 10am">9am - 10am</option>
