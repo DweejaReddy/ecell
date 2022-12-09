@@ -134,7 +134,7 @@ label {
         </div>
         <div class="form-group my-4">
             <label for="Q4
-            ">Do you have a Pan Card?*
+            ">Do you have a Pan Card?(Can use parent's or any close relatives if you do not have it)*
             </label>
             <select name="Q4" class="form-control rounded-pill" id="Q4" required>
                 <div class="btn btn-light">
