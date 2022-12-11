@@ -59,7 +59,7 @@
         <div class="container d-flex align-items-center justify-content-center min-vh-100">
             <div class="row text-center">
                 <div class="" style="color:white;">
-                  <?php echo "<h4>Keep checking your email for confirmation of registration and document verification slot.</h4>";?><br>
+                  <?php echo "<h4>Thank you for registering. We have successfully received your application. <br> You will receive a call from Team E-Cell, VNIT within 48 hours regarding the further process.</h4>";?><br>
                 </div>
             </div>
             <!-- <br> -->

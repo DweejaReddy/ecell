@@ -71,8 +71,12 @@ label {
     <input type="text" class="form-control" id="Name" name="Name" placeholder="Name *" required>
     </div>
     <div class="form-group my-4">
-        <label for="EnrollmentNo">Enrollment Number*</label>
-        <input type="text" class="form-control" id="EnrollmentNo" name="EnrollmentNo" placeholder="Enrollment Number *" required>
+      <label for="Age">Age*</label>
+      <input type="text" class="form-control" id="Age" name="Age" placeholder="Age *" required>
+      </div>
+    <div class="form-group my-4">
+        <label for="CollegeID">College Id Number*</label>
+        <input type="text" class="form-control" id="CollegeID" name="CollegeID" placeholder="College Id Number*" required>
     </div>    
     <div class="form-group my-4">
     <label for="Email">Email*</label>
@@ -96,9 +100,10 @@ label {
             <option class="option" value="3XL">3XL</option>
           </select>
     </div>
-    <input type="button" name="next" class="next btn btn-primary" value="Next" />
+    <input type="submit" name="submit" class="submit btn btn-primary" value="Submit" />
+    <!-- <input type="button" name="next" class="next btn btn-primary" value="Next" /> -->
   </fieldset>
-  <fieldset>
+  <!-- <fieldset>
     <div class="form-group my-4">
     <label for="Q1
     ">Are you interested to open Zerodha Account for completely Free?*
@@ -231,7 +236,7 @@ label {
     <p style="color: #0072FF;" class="mx-4">* Disclaimer: Filling this form doesn't ensure a free Merchandise and Zerodha account. Proper verification will be there. All the eligible candidates will be contacted through email after document verification.</p>
     <input type="button" name="previous" class="previous btn btn-primary" value="Previous" />
     <input type="submit" name="submit" class="submit btn btn-success" value="Submit" />
-  </fieldset>
+  </fieldset> -->
            </div>
         </div>
   </form>
@@ -289,6 +294,7 @@ label {
             }
             else if(response == "Offline"){
               hidingEl.style.display = 'block';
+              hidingEl.setAttribute("required","");
             }
         });
 
