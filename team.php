@@ -250,6 +250,21 @@
             </div>
 
             <div class="row g-overflow--hidden">
+                
+            <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                    <!-- Speaker -->
+                    <div class="center-block g-width-300--xs">
+                        <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
+  box-shadow: 0 0.4rem 1rem rgba(39, 35, 36, 0.1);" src="img/400x400/abhiuday.png" alt="Image">
+                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-text-center--xs g-margin-t-o-5--xs">
+
+                            <p class="g-font-size-20--xs g-font-weight--700 g-margin-b-0--xs g-color--white-opacity"><a href="https://www.linkedin.com/in/tanmay-nagrale-6b38b7205/" class="link">Abhiuday Gupta <i class="ti-linkedin"></i></a></p>
+                            <p class="g-font-weight--700" style="margin-bottom:0">Head of Technical Affairs</p>
+                            <p>+91 95176 80322<br>gupta.abhiuday.109@gmail.com</p>
+                        </div>
+                    </div>
+                    <!-- End Speaker -->
+                </div>
                 <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
@@ -279,7 +294,13 @@
                     </div>
                     <!-- End Speaker -->
                 </div>
-                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                
+
+
+            </div>
+
+            <div class="row g-overflow--hidden">
+            <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
                         <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
@@ -293,12 +314,6 @@
                     </div>
                     <!-- End Speaker -->
                 </div>
-
-
-            </div>
-
-            <div class="row g-overflow--hidden">
-
                 <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
@@ -326,7 +341,16 @@
                     </div>
                     <!-- End Speaker -->
                 </div>
-                <div class="col-xs-4 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
+                
+
+            </div>
+
+
+            <!--<div class="row g-overflow--hidden">-->
+
+            <!--</div>-->
+
+            <div class="col g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-width-300--xs">
                         <img class="img-responsive g-width-100-percent--xs" style="border-radius:50%;
@@ -341,19 +365,12 @@
                     <!-- End Speaker -->
                 </div>
 
-            </div>
-
-
-            <!--<div class="row g-overflow--hidden">-->
-
-            <!--</div>-->
-
-
-
 
 
 
         </div>
+
+        
         <!-- End Speakers -->
 
                 <!--========== END PAGE CONTENT ==========-->
